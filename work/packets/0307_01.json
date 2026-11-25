@@ -1,0 +1,38 @@
+{
+ "packet": "0307_01",
+ "scene": "0307",
+ "anchor": {
+  "hit": 6,
+  "total": 7,
+  "rate": 0.857
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 3230,
+   "key": "D0307.txt:364",
+   "file": "D0307.txt",
+   "line": 364,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "機械仕掛けの瞳は一瞬たりとも二人を離さない。",
+   "ko_candidate": "기계 장치의 눈동자는 한순간도 두 사람을 놓치지 않는다｡"
+  },
+  {
+   "id": 3231,
+   "key": "D0307.txt:367",
+   "file": "D0307.txt",
+   "line": 367,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "果たしてあの２人は敵なのか、味方なのか――その真偽を見定めるかのように。",
+   "ko_candidate": "마치 두 사람이 과연 적인지､ 아군인지｡ 그 진위를 가려내려는 듯이｡"
+  }
+ ]
+}

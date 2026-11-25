@@ -1,0 +1,134 @@
+{
+ "packet": "1306_06",
+ "scene": "1306",
+ "anchor": {
+  "hit": 20,
+  "total": 22,
+  "rate": 0.909
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 33007,
+   "key": "D1306ru.txt:262",
+   "file": "D1306ru.txt",
+   "line": 262,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "化け物の頭が弾け飛んだ。",
+   "ko_candidate": "괴물의 머리가 터져 날아갔다｡"
+  },
+  {
+   "id": 33008,
+   "key": "D1306ru.txt:263",
+   "file": "D1306ru.txt",
+   "line": 263,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "肉片を、膿を、粘液を飛び散らせて、身悶え苦しむ。",
+   "ko_candidate": "살점을､ 고름을､ 점액을 흩뿌리며 몸부림친다｡"
+  },
+  {
+   "id": 33009,
+   "key": "D1306ru.txt:264",
+   "file": "D1306ru.txt",
+   "line": 264,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "怒りを眸の奥に滾らせ、後ろを振り返る。",
+   "ko_candidate": "분노를 눈동자 깊숙이 끓이며 뒤를 돌아본다｡"
+  },
+  {
+   "id": 33010,
+   "key": "D1306ru.txt:267",
+   "file": "D1306ru.txt",
+   "line": 267,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "狙いすましたような飛び蹴りが、未だ顔にめり込んだままだった偃月刀に炸裂する。",
+   "ko_candidate": "겨냥한 듯한 날아차기가 아직 얼굴에 박혀 있던 언월도에 작렬한다｡"
+  },
+  {
+   "id": 33011,
+   "key": "D1306ru.txt:268",
+   "file": "D1306ru.txt",
+   "line": 268,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "刃は更に深く喰い込み、ついには怪物の頭部を両断した。",
+   "ko_candidate": "칼날은 더욱 깊이 파고들어 마침내 괴물의 머리를 양단했다｡"
+  },
+  {
+   "id": 33012,
+   "key": "D1306ru.txt:270",
+   "file": "D1306ru.txt",
+   "line": 270,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "私はその光景を、呆然と見つめているだけだった。",
+   "ko_candidate": "나는 그 광경을 멍하니 바라보고만 있었다｡"
+  },
+  {
+   "id": 33013,
+   "key": "D1306ru.txt:273",
+   "file": "D1306ru.txt",
+   "line": 273,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "着地したその人は、斃れた怪物から偃月刀を引き抜いて、不敵に笑った。",
+   "ko_candidate": "착지한 그 사람은 쓰러진 괴물에게서 언월도를 뽑아내고 뻔뻔하게 웃었다｡"
+  },
+  {
+   "id": 33014,
+   "key": "D1306ru.txt:274",
+   "file": "D1306ru.txt",
+   "line": 274,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "自らの胸を撫でながら、一言、呟いた。",
+   "ko_candidate": "자신의 가슴을 쓰다듬으며 한마디 중얼거렸다｡"
+  },
+  {
+   "id": 33015,
+   "key": "D1306ru.txt:278",
+   "file": "D1306ru.txt",
+   "line": 278,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「何だ、塞がったじゃねえか……穴が、さ」",
+   "ko_candidate": "「뭐야､ 메워졌잖아… 구멍이」"
+  },
+  {
+   "id": 33016,
+   "key": "D1306ru.txt:281",
+   "file": "D1306ru.txt",
+   "line": 281,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "彼の言う通り、胸を抉っていた空洞は、すっかり塞がっていた。",
+   "ko_candidate": "그의 말대로 가슴을 파고 있던 공동은 완전히 메워져 있었다｡"
+  }
+ ]
+}

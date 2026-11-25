@@ -1,0 +1,163 @@
+{
+ "packet": "1207_08",
+ "scene": "1207",
+ "anchor": {
+  "hit": 50,
+  "total": 51,
+  "rate": 0.98
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "ティベリウス": "티베리우스",
+  "九郎ちゃん": "쿠로 군",
+  "クラウディウス": "클라우디우스",
+  "メタトロン": "메타트론"
+ },
+ "items": [
+  {
+   "id": 28307,
+   "key": "D1207ru.txt:150",
+   "file": "D1207ru.txt",
+   "line": 150,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "超高熱を宿す光の束が一直線に、ティベリウスに向かい、飛翔する。",
+   "ko_candidate": "초고열을 띤 빛의 다발이 일직선으로 티베리우스를 향해 날아간다｡"
+  },
+  {
+   "id": 28308,
+   "key": "D1207ru.txt:156",
+   "file": "D1207ru.txt",
+   "line": 156,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "ティベリウスは軽業師の様な身のこなしで、ビームを跳び越えた。線路ごと地面を灼き払う光。",
+   "ko_candidate": "티베리우스는 곡예사 같은 몸놀림으로 빔을 뛰어넘었다｡"
+  },
+  {
+   "id": 28309,
+   "key": "D1207ru.txt:158",
+   "file": "D1207ru.txt",
+   "line": 158,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "ティベリウスは、天井に触手を突き立てて、ぶら下がっている。",
+   "ko_candidate": "선로째 땅을 태워버리는 빛｡ 티베리우스는 천장에 촉수를 꽂아 매달려 있다｡"
+  },
+  {
+   "id": 28310,
+   "key": "D1207ru.txt:165",
+   "file": "D1207ru.txt",
+   "line": 165,
+   "speaker": "ティベリウス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……おおおお～～～。怖い、怖い。どーもアタシの方が不利っぽいわね」 「悔しいけど、 ここは退かせてもらうわ」",
+   "ko_candidate": "「……오오오오~｡ 무서워､ 무서워｡ 아무래도 내가 불리한 것 같네｡ 아쉽지만 여기서 물러나야겠어」"
+  },
+  {
+   "id": 28311,
+   "key": "D1207ru.txt:176",
+   "file": "D1207ru.txt",
+   "line": 176,
+   "speaker": "メタトロン",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「待て！」",
+   "ko_candidate": "「기다려!」"
+  },
+  {
+   "id": 28312,
+   "key": "D1207ru.txt:180",
+   "file": "D1207ru.txt",
+   "line": 180,
+   "speaker": "ティベリウス",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「アタシなんかに構っていて良いの、メタトロンちゃん？　アンタが贔屓にしている九郎ちゃん、 今頃クラウディウスちゃんに……うふふ」",
+   "ko_candidate": "「나 같은 걸 상대하고 있어도 괜찮아､ 메타트론? 네가 편애하는 쿠로､ 지금쯤 클라우디우스에게……우후후」"
+  },
+  {
+   "id": 28313,
+   "key": "D1207ru.txt:186",
+   "file": "D1207ru.txt",
+   "line": 186,
+   "speaker": "メタトロン",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「――!?」",
+   "ko_candidate": "「――!?」"
+  },
+  {
+   "id": 28314,
+   "key": "D1207ru.txt:190",
+   "file": "D1207ru.txt",
+   "line": 190,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "天井に影が生じる。",
+   "ko_candidate": "천장에 그림자가 생긴다｡"
+  },
+  {
+   "id": 28315,
+   "key": "D1207ru.txt:191",
+   "file": "D1207ru.txt",
+   "line": 191,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "その影に吸い込まれる様にして、ティベリウスは姿を消した。",
+   "ko_candidate": "그 그림자에 빨려 들어가듯 티베리우스의 모습이 사라졌다｡"
+  },
+  {
+   "id": 28316,
+   "key": "D1207ru.txt:191",
+   "file": "D1207ru.txt",
+   "line": 191,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "笑い声だけが、地下線路に響き渡る。",
+   "ko_candidate": "웃음소리만이 지하 선로에 울려 퍼진다｡"
+  },
+  {
+   "id": 28317,
+   "key": "D1207ru.txt:195",
+   "file": "D1207ru.txt",
+   "line": 195,
+   "speaker": "ティベリウス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「お――――ほっほっほっほっ！　じゃあねぇ、メタトロンちゃん。 まぁぁぁぁぁぁた、会いましょ ぉぉぉぉねぇぇぇぇぇ！」",
+   "ko_candidate": "「오――――호호호호! 그럼 안녕､ 메타트론｡ 또또또또또 만나자아아아아아!」"
+  },
+  {
+   "id": 28318,
+   "key": "D1207ru.txt:202",
+   "file": "D1207ru.txt",
+   "line": 202,
+   "speaker": "メタトロン",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「……おのれ！」",
+   "ko_candidate": "「……이 자식!」"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "packet": "0710_13",
+ "scene": "0710",
+ "anchor": {
+  "hit": 19,
+  "total": 72,
+  "rate": 0.264
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "姫さん": "공주님"
+ },
+ "items": [
+  {
+   "id": 9719,
+   "key": "D0710ru.txt:679",
+   "file": "D0710ru.txt",
+   "line": 679,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "まあ、良くもこれだけ胸クソ悪くなるもんを生み出せるものだと、感心する。",
+   "ko_candidate": "「으으으음」 긴장이 풀리니 나까지 소변이 마려워졌다｡"
+  },
+  {
+   "id": 9720,
+   "key": "D0710ru.txt:682",
+   "file": "D0710ru.txt",
+   "line": 682,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "彫像に壁画に込められた熱気と狂気の翳は、数千年のときを超えて、今もなおこの空間を穢し続けている――。",
+   "ko_candidate": "사타구니가 엄청 근질거린다｡ 공주님이 돌아오기 전에 해결해 버릴까?"
+  },
+  {
+   "id": 9721,
+   "key": "D0710ru.txt:688",
+   "file": "D0710ru.txt",
+   "line": 688,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「うっ……うぅ……」",
+   "ko_candidate": "아니… 그건 위험하겠지｡ 「……………」"
+  },
+  {
+   "id": 9722,
+   "key": "D0710ru.txt:693",
+   "file": "D0710ru.txt",
+   "line": 693,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「おいおい、姫さん大丈夫か？」",
+   "ko_candidate": "그러고 보니… 늦네｡ 공주님｡ ……아무리 그래도 용변을 보고 있는 여자 앞에 나타나는 건 좋지 않다｡"
+  },
+  {
+   "id": 9723,
+   "key": "D0710ru.txt:698",
+   "file": "D0710ru.txt",
+   "line": 698,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「申し訳ありません……あの壁画とかを見ていると……気分が悪くなって……」",
+   "ko_candidate": "조금만 더 기다리기로 하자｡ 그래……뭐지｡ 큰 볼일도……라는 가능성도 있을 수 있잖아｡"
+  },
+  {
+   "id": 9724,
+   "key": "D0710ru.txt:703",
+   "file": "D0710ru.txt",
+   "line": 703,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「………………」 確かにこの邪悪な気配、只事ではない。並々ならぬ怨念が、この神殿全体に塗り込められている感じだ。",
+   "ko_candidate": "「……나 자신도 최악의 상상이군」"
+  },
+  {
+   "id": 9725,
+   "key": "D0710ru.txt:711",
+   "file": "D0710ru.txt",
+   "line": 711,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "普通の神経だと恐怖に押し潰されちまうかも知れない。",
+   "ko_candidate": "아무리 그래도 좀 너무 늦는 것 같다｡ 여긴 아마도 적진의 한가운데일 거야｡"
+  },
+  {
+   "id": 9726,
+   "key": "D0710ru.txt:717",
+   "file": "D0710ru.txt",
+   "line": 717,
+   "speaker": "九郎 / 瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「余計なものは見るな。前だけ見て進もう」 「は、はいっ」",
+   "ko_candidate": "혹시 <RUBY text=\"Deep ones\">깊은 곳의 존재들</RUBY>에게 들킨 건 아닐까……?"
+  },
+  {
+   "id": 9727,
+   "key": "D0710ru.txt:727",
+   "file": "D0710ru.txt",
+   "line": 727,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "極力、狂気の産物を目に留めないようにしながら、さらに奥へ奥へと進んでいく。",
+   "ko_candidate": "그렇다면 너무 위험해｡ 찾으러 가야 할까｡"
+  }
+ ]
+}

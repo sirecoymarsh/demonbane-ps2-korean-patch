@@ -1,0 +1,52 @@
+{
+ "packet": "1501_14",
+ "scene": "1501",
+ "anchor": {
+  "hit": 87,
+  "total": 109,
+  "rate": 0.798
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "シャンタク": "샨타크"
+ },
+ "items": [
+  {
+   "id": 41309,
+   "key": "D1501ru.txt:904",
+   "file": "D1501ru.txt",
+   "line": 904,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "嘘のように跡形も無く消滅していた。",
+   "ko_candidate": "거짓말처럼 흔적도 없이 소멸해 있었다｡"
+  },
+  {
+   "id": 41310,
+   "key": "D1501ru.txt:911",
+   "file": "D1501ru.txt",
+   "line": 911,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「全く……いつまでも世話を焼かせる！」",
+   "ko_candidate": "「정말……언제까지 신경 써야 하는 거야!」"
+  },
+  {
+   "id": 41311,
+   "key": "D1501ru.txt:915",
+   "file": "D1501ru.txt",
+   "line": 915,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「るせえ！　ほっとけ！　そんなことより追いかけるぞ！ ――シャンタク！」",
+   "ko_candidate": "「시끄러! 신경 꺼! 그런 것보다 쫓아가자! ――샨타크!」"
+  }
+ ]
+}

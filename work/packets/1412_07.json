@@ -1,0 +1,26 @@
+{
+ "packet": "1412_07",
+ "scene": "1412",
+ "anchor": {
+  "hit": 25,
+  "total": 28,
+  "rate": 0.893
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 39979,
+   "key": "D1412le.txt:488",
+   "file": "D1412le.txt",
+   "line": 488,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "銃声が連続し、雷鳴の如く轟いた。",
+   "ko_candidate": "총성이 연속으로 천둥과 같이 울려 퍼졌다｡"
+  }
+ ]
+}

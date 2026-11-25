@@ -1,0 +1,86 @@
+{
+ "packet": "0906_02",
+ "scene": "0906",
+ "anchor": {
+  "hit": 17,
+  "total": 19,
+  "rate": 0.895
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 19312,
+   "key": "D0906al.txt:456",
+   "file": "D0906al.txt",
+   "line": 456,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "衝突する白き天使の武装と黒き天使の武術。",
+   "ko_candidate": "「윈필드!」 「문제없습니다! 하지만……」"
+  },
+  {
+   "id": 19313,
+   "key": "D0906al.txt:457",
+   "file": "D0906al.txt",
+   "line": 457,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "爆音が轟いた。相殺。互いに不発。",
+   "ko_candidate": "「새로운 적이군!」 빌딩 그림자에서 다른 파괴 로봇이 모습을 드러냈다｡"
+  },
+  {
+   "id": 19314,
+   "key": "D0906al.txt:458",
+   "file": "D0906al.txt",
+   "line": 458,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "すぐに次の攻撃が繰り出される。",
+   "ko_candidate": "게다가 그 뒤､ 더 뒤에서도｡ 단번에 3대나……!"
+  },
+  {
+   "id": 19315,
+   "key": "D0906al.txt:464",
+   "file": "D0906al.txt",
+   "line": 464,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "一撃を放つたび、交えるたびに周囲のビルが倒壊する。",
+   "ko_candidate": "「쿠로!」 「알고 있어! 공주님! 절대､ 떨어지지 말아요!」"
+  },
+  {
+   "id": 19316,
+   "key": "D0906al.txt:465",
+   "file": "D0906al.txt",
+   "line": 465,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "２人の天使は今、さながら破壊の嵐と化した。",
+   "ko_candidate": "「네､ 네엣! 아……응」 공주님을 몸에 밀착할 정도로 꼭 끌어당긴다｡"
+  },
+  {
+   "id": 19317,
+   "key": "D0906al.txt:467",
+   "file": "D0906al.txt",
+   "line": 467,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "触れるものことごとくを粉砕し、２人の天使の闘いは激化していく――",
+   "ko_candidate": "가볍게 오망성을 손가락으로 그리고､ 나는 늘 하던 구호를 불타는 거리에 울려 퍼지게 한다｡"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "packet": "ep_ruri02b_04",
+ "scene": "ep_ruri02b",
+ "anchor": {
+  "hit": null,
+  "total": null,
+  "rate": null
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "デモンベイン": "데몬베인",
+  "リベル・レギス": "리베르 레기스",
+  "レムリア・インパクト": "레무리아 임팩트"
+ },
+ "items": [
+  {
+   "id": 51081,
+   "key": "ep_ruri02b.txt:549",
+   "file": "ep_ruri02b.txt",
+   "line": 549,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "絶対零度の滅びは、刹那の後、デモンベインを捉えるだろう。",
+   "ko_candidate": "절대영도의 멸망은､ 찰나 후､ 데몬베인을 포착할 것이다｡"
+  },
+  {
+   "id": 51082,
+   "key": "ep_ruri02b.txt:554",
+   "file": "ep_ruri02b.txt",
+   "line": 554,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "しかしデモンベインの右掌は、刹那にも満たない隙に、滑り込む。",
+   "ko_candidate": "하지만 데몬베인의 오른손바닥은､ 찰나에도 미치지 못하는 틈에､ 미끄러져 들어간다｡"
+  },
+  {
+   "id": 51083,
+   "key": "ep_ruri02b.txt:555",
+   "file": "ep_ruri02b.txt",
+   "line": 555,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "リベル・レギスに――触れる。",
+   "ko_candidate": "리베르 레기스에――닿는다｡"
+  },
+  {
+   "id": 51084,
+   "key": "ep_ruri02b.txt:559",
+   "file": "ep_ruri02b.txt",
+   "line": 559,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「レムリア・インパクト」",
+   "ko_candidate": "「레무리아 임팩트」"
+  },
+  {
+   "id": 51085,
+   "key": "ep_ruri02b.txt:562",
+   "file": "ep_ruri02b.txt",
+   "line": 562,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そうだ。",
+   "ko_candidate": "그래｡"
+  },
+  {
+   "id": 51086,
+   "key": "ep_ruri02b.txt:563",
+   "file": "ep_ruri02b.txt",
+   "line": 563,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "この人が傍にいる限り、未来への道は常に繋がっている。",
+   "ko_candidate": "이 사람이 곁에 있는 한､ 미래로 가는 길은 항상 이어져 있다｡"
+  },
+  {
+   "id": 51087,
+   "key": "ep_ruri02b.txt:564",
+   "file": "ep_ruri02b.txt",
+   "line": 564,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "途切れることは、決して無い。",
+   "ko_candidate": "끊어지는 일은､ 결코 없다｡"
+  },
+  {
+   "id": 51088,
+   "key": "ep_ruri02b.txt:597",
+   "file": "ep_ruri02b.txt",
+   "line": 597,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "――昇華！",
+   "ko_candidate": "――승화!"
+  },
+  {
+   "id": 51089,
+   "key": "ep_ruri02b.txt:609",
+   "file": "ep_ruri02b.txt",
+   "line": 609,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "光。",
+   "ko_candidate": "빛｡"
+  },
+  {
+   "id": 51090,
+   "key": "ep_ruri02b.txt:610",
+   "file": "ep_ruri02b.txt",
+   "line": 610,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "光が。",
+   "ko_candidate": "빛이｡"
+  },
+  {
+   "id": 51091,
+   "key": "ep_ruri02b.txt:611",
+   "file": "ep_ruri02b.txt",
+   "line": 611,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "必滅の閃光すら包み込んで、暖かい光が――",
+   "ko_candidate": "필멸의 섬광마저 감싸 안고､ 따뜻한 빛이――"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "packet": "0407_06",
+ "scene": "0407",
+ "anchor": {
+  "hit": 17,
+  "total": 57,
+  "rate": 0.298
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "ライカ": "라이카"
+ },
+ "items": [
+  {
+   "id": 5117,
+   "key": "D0407.txt:2072",
+   "file": "D0407.txt",
+   "line": 2072,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "２人は力強く頷いた。 良し……！",
+   "ko_candidate": "두 사람은 힘차게 고개를 끄덕였다｡"
+  },
+  {
+   "id": 5118,
+   "key": "D0407.txt:2078",
+   "file": "D0407.txt",
+   "line": 2078,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ライカさん、飛んでいくから、おんぶだ」",
+   "ko_candidate": "좋아……! 「라이카 씨､ 날아갈 테니까 업혀요」"
+  },
+  {
+   "id": 5119,
+   "key": "D0407.txt:2087",
+   "file": "D0407.txt",
+   "line": 2087,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ええっ？　あ、はいっ！」",
+   "ko_candidate": "「에엣? 아､ 네!」"
+  },
+  {
+   "id": 5120,
+   "key": "D0407.txt:2099",
+   "file": "D0407.txt",
+   "line": 2099,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "身を屈めた俺に、おずおずと身体を預ける。",
+   "ko_candidate": "몸을 숙인 나에게 머뭇머뭇 몸을 맡기는 라이카 씨｡"
+  },
+  {
+   "id": 5121,
+   "key": "D0407.txt:2100",
+   "file": "D0407.txt",
+   "line": 2100,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "ライカさんを負ぶって、俺は立ち上がった。",
+   "ko_candidate": "라이카 씨를 업고 나는 일어섰다｡ 검은 날개를 펼친다｡"
+  },
+  {
+   "id": 5122,
+   "key": "D0407.txt:2106",
+   "file": "D0407.txt",
+   "line": 2106,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "黒翼を広げる。少しばかり動かしにくいが、羽ばたく分には充分だろう。",
+   "ko_candidate": "조금 움직이기 힘들지만 날갯짓하는 데는 충분할 것이다｡"
+  },
+  {
+   "id": 5123,
+   "key": "D0407.txt:2113",
+   "file": "D0407.txt",
+   "line": 2113,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「じゃあライカさん、しっかり掴まってろよ！」",
+   "ko_candidate": "「그럼 라이카 씨､ 꽉 잡아요!」"
+  },
+  {
+   "id": 5124,
+   "key": "D0407.txt:2119",
+   "file": "D0407.txt",
+   "line": 2119,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「えっ……？　ちょっと…… きゃああああああああああ!?」",
+   "ko_candidate": "「엣……? 잠깐……꺄아아아아아아아아아!?」 땅을 박차는 동시에 급가속한다｡"
+  },
+  {
+   "id": 5125,
+   "key": "D0407.txt:2135",
+   "file": "D0407.txt",
+   "line": 2135,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "宙に浮かぶなり、俺は窓から矢のように飛び出した。そのまま上空まで、一気に浮上する。",
+   "ko_candidate": "공중에 뜨자마자 나는 창문에서 화살처럼 날아갔다｡ 그대로 상공까지 단숨에 올라간다｡"
+  },
+  {
+   "id": 5126,
+   "key": "D0407.txt:2148",
+   "file": "D0407.txt",
+   "line": 2148,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「きゃああああああああああああああああああああああああああああぁぁぁぁぁぁぁ～～～～っ！」",
+   "ko_candidate": "「꺄아아아아아아아아아아아아아아~~~~~~~……읏!」"
+  },
+  {
+   "id": 5127,
+   "key": "D0407.txt:2155",
+   "file": "D0407.txt",
+   "line": 2155,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "長く尾を引く悲鳴が、夜空に響き渡った。",
+   "ko_candidate": "길게 꼬리를 끄는 비명이 밤하늘에 울려 퍼졌다｡"
+  }
+ ]
+}

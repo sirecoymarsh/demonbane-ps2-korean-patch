@@ -1,0 +1,148 @@
+{
+ "packet": "0504_01",
+ "scene": "0504",
+ "anchor": {
+  "hit": 12,
+  "total": 17,
+  "rate": 0.706
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "エルザ": "엘자"
+ },
+ "items": [
+  {
+   "id": 6345,
+   "key": "D0504.txt:285",
+   "file": "D0504.txt",
+   "line": 285,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "腕の折れた男を完全に沈黙させるため、トンファーを振り上げる。",
+   "ko_candidate": "엘자는 팔이 부러진 남자를 완전히 침묵시키기 위해 그의 앞에 섰다｡"
+  },
+  {
+   "id": 6346,
+   "key": "D0504.txt:292",
+   "file": "D0504.txt",
+   "line": 292,
+   "speaker": "ナンパ師Ａ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「う……う……うわあああああ！」",
+   "ko_candidate": "「우……우……우와아아아아!」 오른주먹을 들어올린다｡"
+  },
+  {
+   "id": 6347,
+   "key": "D0504.txt:298",
+   "file": "D0504.txt",
+   "line": 298,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そのときタイミング良く、人ごみを掻き分け、１人の警官が二人の元に駆け寄った。",
+   "ko_candidate": "하지만 그때 타이밍 좋게 치안경찰의 제복을 입은 남자가 인파를 가르고 엘자 일행 앞에 나타났다｡"
+  },
+  {
+   "id": 6348,
+   "key": "D0504.txt:304",
+   "file": "D0504.txt",
+   "line": 304,
+   "speaker": "ストーン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「こらこら！　ストップ！ ストップであります！ 喧嘩ですか？　とにかくお互いやめなさい！」",
+   "ko_candidate": "「이봐이봐! 스톱! 스톱이오! 싸움인가요? 일단 서로 그만두세요!」"
+  },
+  {
+   "id": 6349,
+   "key": "D0504.txt:313",
+   "file": "D0504.txt",
+   "line": 313,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "エルザの動きが止まった。喧嘩の仲介に入った警官を、油断なく観察する。",
+   "ko_candidate": "엘자의 움직임이 멈춘다｡ 방심하지 않고 경관의 움직임을 관찰하고 있다｡"
+  },
+  {
+   "id": 6350,
+   "key": "D0504.txt:323",
+   "file": "D0504.txt",
+   "line": 323,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "その視線が警官の腰――拳銃のところで止まった。",
+   "ko_candidate": "위에서 아래로 향하는 시선이 경관의 허리―― 권총 부분에서 멈췄다｡"
+  },
+  {
+   "id": 6351,
+   "key": "D0504.txt:329",
+   "file": "D0504.txt",
+   "line": 329,
+   "speaker": "エルザ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「敵増援、銃火器による武装を確認。こちらも銃火器を使用するロボ」",
+   "ko_candidate": "「적 증원､ 총기에 의한 무장을 확인｡ 이쪽도 총기를 사용하는 로봇｡ 안전장치 해제」"
+  },
+  {
+   "id": 6352,
+   "key": "D0504.txt:336",
+   "file": "D0504.txt",
+   "line": 336,
+   "speaker": "エルザ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「安全装置解除」 エルザの関節が折れる。",
+   "ko_candidate": "엘자의 관절이 꺾인다｡ 그 끝에서 총구가 보였다｡"
+  },
+  {
+   "id": 6353,
+   "key": "D0504.txt:352",
+   "file": "D0504.txt",
+   "line": 352,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "その先から銃口がのぞいていた。",
+   "ko_candidate": "경관도 남자도 눈을 크게 뜬다｡"
+  },
+  {
+   "id": 6354,
+   "key": "D0504.txt:355",
+   "file": "D0504.txt",
+   "line": 355,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "男も警官も野次馬たちも、時間が凍りついたように硬直する。",
+   "ko_candidate": "그때는 이미 방아쇠가 당겨져 있었다｡"
+  },
+  {
+   "id": 6355,
+   "key": "D0504.txt:387",
+   "file": "D0504.txt",
+   "line": 387,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "――白昼のショッピング街は、銃声と悲鳴に満たされた。",
+   "ko_candidate": "――대낮의 쇼핑거리는 총성과 비명으로 가득 찼다｡"
+  }
+ ]
+}

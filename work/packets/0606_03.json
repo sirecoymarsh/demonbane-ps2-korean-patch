@@ -1,0 +1,197 @@
+{
+ "packet": "0606_03",
+ "scene": "0606",
+ "anchor": {
+  "hit": 11,
+  "total": 32,
+  "rate": 0.344
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "ティトゥス": "티투스",
+  "ウィンフィールド": "윈필드"
+ },
+ "items": [
+  {
+   "id": 7306,
+   "key": "D0606.txt:853",
+   "file": "D0606.txt",
+   "line": 853,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "距離を取り、再び刀を鞘に収める。 居合い抜きの構え。",
+   "ko_candidate": "「후후… 오랜만에 열이 오를 것 같군요」"
+  },
+  {
+   "id": 7307,
+   "key": "D0606.txt:864",
+   "file": "D0606.txt",
+   "line": 864,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ふふ…… 久々に熱くなれそうですね」 ネクタイを緩め、指を鳴らす。",
+   "ko_candidate": "평소의 그로서는 상상도 할 수 없을 정도로 처참한 미소를 띠고 있었다｡"
+  },
+  {
+   "id": 7308,
+   "key": "D0606.txt:898",
+   "file": "D0606.txt",
+   "line": 898,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そして、その場でステップを踏みながらのシャドーボクシング。ティトゥスは不愉快そうに顔を顰めた。",
+   "ko_candidate": "넥타이를 느슨하게 하고 손가락을 울린다｡ 그리고 그 자리에서 스텝을 밟으며 섀도 복싱｡"
+  },
+  {
+   "id": 7309,
+   "key": "D0606.txt:904",
+   "file": "D0606.txt",
+   "line": 904,
+   "speaker": "ティトゥス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「拳闘とか申すこの国の遊戯か。 愚かな――寸鉄も帯びぬ身でこの拙者と渡り合おうとは」",
+   "ko_candidate": "티투스는 불쾌한 듯 얼굴을 찌푸렸다｡ 「권투라고 하는 이 나라의 유희인가｡ 어리석구나――맨손으로 나와 맞서려 하다니」"
+  },
+  {
+   "id": 7310,
+   "key": "D0606.txt:912",
+   "file": "D0606.txt",
+   "line": 912,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「その通り。 何も身につけてはおりません。 ですが、お解かりですかな？」 「グラブをはめていない私が、どれほど危険な存在であるかを」",
+   "ko_candidate": "「그렇습니다｡ 아무것도 착용하지 않았습니다｡ 하지만､ 아시겠습니까? 글러브를 끼지 않은 제가 얼마나 위험한 존재인지를」"
+  },
+  {
+   "id": 7311,
+   "key": "D0606.txt:928",
+   "file": "D0606.txt",
+   "line": 928,
+   "speaker": "ティトゥス",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「戯言はいい。滅せよ」",
+   "ko_candidate": "「헛소리는 그만두고｡ 사라져라」"
+  },
+  {
+   "id": 7312,
+   "key": "D0606.txt:949",
+   "file": "D0606.txt",
+   "line": 949,
+   "speaker": "ティトゥス",
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "ティトゥスの刀が鞘を疾る――よりも更に速く、ウィンフィールドの姿が消えた。 「な――！」",
+   "ko_candidate": "티투스의 칼이 칼집을 빠져나간다"
+  },
+  {
+   "id": 7313,
+   "key": "D0606.txt:960",
+   "file": "D0606.txt",
+   "line": 960,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "ティトゥスの第六感が危険を告げる。",
+   "ko_candidate": "――보다 더 빠르게､ 윈필드의 모습이 사라졌다｡"
+  },
+  {
+   "id": 7314,
+   "key": "D0606.txt:961",
+   "file": "D0606.txt",
+   "line": 961,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "抜刀に入っていた躰をむりやり捩り、身を反らす。",
+   "ko_candidate": "티투스의 제육감이 위험을 알린다｡ 발도하려던 몸을 억지로 비틀어 몸을 피했다｡"
+  },
+  {
+   "id": 7315,
+   "key": "D0606.txt:980",
+   "file": "D0606.txt",
+   "line": 980,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "血飛沫が舞う。",
+   "ko_candidate": "피가 튀었다｡ 「뭐――!」"
+  },
+  {
+   "id": 7316,
+   "key": "D0606.txt:981",
+   "file": "D0606.txt",
+   "line": 981,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "ティトゥスの頬が深く裂けた。",
+   "ko_candidate": "티투스의 뺨이 깊게 찢어져 있었다｡"
+  },
+  {
+   "id": 7317,
+   "key": "D0606.txt:992",
+   "file": "D0606.txt",
+   "line": 992,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "目の前には拳を突き出した体勢で 立つウィンフィールド。",
+   "ko_candidate": "눈앞에는 오른 주먹을 내민 자세로 서 있는 윈필드｡"
+  },
+  {
+   "id": 7318,
+   "key": "D0606.txt:998",
+   "file": "D0606.txt",
+   "line": 998,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ほう？　今のをかわしますか……流石やりますね」",
+   "ko_candidate": "「호오? 지금 것을 피하시다니… 역시 대단하시군요」"
+  },
+  {
+   "id": 7319,
+   "key": "D0606.txt:1003",
+   "file": "D0606.txt",
+   "line": 1003,
+   "speaker": "ティトゥス",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「クッ――！」",
+   "ko_candidate": "「크윽――!」"
+  },
+  {
+   "id": 7320,
+   "key": "D0606.txt:1009",
+   "file": "D0606.txt",
+   "line": 1009,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ですが、まだまだですぞ。ボクシングこそは人類が永きの歳月をかけて創り上げた至高の芸術」 「遊戯と罵るならばその美技の数々、徹底的に思い知らせてあげますよ？　ミスター・ブシドー！」",
+   "ko_candidate": "「하지만 아직 멀었습니다｡ 복싱이야말로 인류가 오랜 세월에 걸쳐 만들어낸 지고의 예술｡ 유희라고 비난하신다면 그 절묘한 기술들､ 철저히 알려드리겠습니다? 미스터 부시도!」"
+  }
+ ]
+}

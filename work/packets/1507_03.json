@@ -1,0 +1,177 @@
+{
+ "packet": "1507_03",
+ "scene": "1507",
+ "anchor": {
+  "hit": 11,
+  "total": 22,
+  "rate": 0.5
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "ナイア": "나이아",
+  "マスターテリオン": "마스터 테리온",
+  "エセルドレーダ": "에셀드레다",
+  "九郎": "쿠로",
+  "大十字九郎": "다이쥬지 쿠로",
+  "魔導書": "마도서"
+ },
+ "items": [
+  {
+   "id": 45234,
+   "key": "D1507ru.txt:850",
+   "file": "D1507ru.txt",
+   "line": 850,
+   "speaker": "マスターテリオン",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ナイアか」",
+   "ko_candidate": "「나이아인가」"
+  },
+  {
+   "id": 45235,
+   "key": "D1507ru.txt:863",
+   "file": "D1507ru.txt",
+   "line": 863,
+   "speaker": "ナイア",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「今回も初めまして、マスターテリオン。 これで何度目だったかな？　３千回くらいまでは数えていたんだが」",
+   "ko_candidate": "「이번에도 처음 뵙겠습니다､ 마스터 테리온｡ 이게 몇 번째였더라? 3천 번 정도까지는 세고 있었는데」"
+  },
+  {
+   "id": 45236,
+   "key": "D1507ru.txt:870",
+   "file": "D1507ru.txt",
+   "line": 870,
+   "speaker": "マスターテリオン",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「知らぬな。何より意味が無い」",
+   "ko_candidate": "「모르겠군｡ 무엇보다 의미가 없어」"
+  },
+  {
+   "id": 45237,
+   "key": "D1507ru.txt:875",
+   "file": "D1507ru.txt",
+   "line": 875,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "瞳を閉じて呟く。",
+   "ko_candidate": "눈을 감고 중얼거린다｡"
+  },
+  {
+   "id": 45238,
+   "key": "D1507ru.txt:876",
+   "file": "D1507ru.txt",
+   "line": 876,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "もう既に、あの微笑は無い。",
+   "ko_candidate": "거기에는 이미､ 그 미소는 없다｡"
+  },
+  {
+   "id": 45239,
+   "key": "D1507ru.txt:879",
+   "file": "D1507ru.txt",
+   "line": 879,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "在るのはただ――虚無。否。虚無に見せかけ、閉じ込めた憎悪。絶望。恐怖。畏怖……。",
+   "ko_candidate": "있는 것은 단지――허무､ 아니､ 허무로 위장해 가둔 증오｡ 절망｡ 공포｡ 경외……"
+  },
+  {
+   "id": 45240,
+   "key": "D1507ru.txt:882",
+   "file": "D1507ru.txt",
+   "line": 882,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "エセルドレーダに至っては表情にこそ出さないものの、あからさまな敵意をナイアに向けている。",
+   "ko_candidate": "에셀드레다에 이르러서는 표정에는 드러내지 않지만､ 노골적인 적의를 나이아를 향해 보내고 있다｡"
+  },
+  {
+   "id": 45241,
+   "key": "D1507ru.txt:885",
+   "file": "D1507ru.txt",
+   "line": 885,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "肩をすくめ、白々しくナイアは嘆息する。",
+   "ko_candidate": "어깨를 으쓱하며､ 뻔뻔스럽게 나이아는 한숨을 내쉰다｡"
+  },
+  {
+   "id": 45242,
+   "key": "D1507ru.txt:890",
+   "file": "D1507ru.txt",
+   "line": 890,
+   "speaker": "ナイア",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「さて……九郎君は『古ぶるしき者』の導きを受けて、君の元に辿り着けるだろうかね？」",
+   "ko_candidate": "그리고 다시 저편을 바라보았다｡ 「자､ ……쿠로 군은 『가장 오래된 것』의 인도를 받아､ 당신에게 도달할 수 있을까?」"
+  },
+  {
+   "id": 45243,
+   "key": "D1507ru.txt:902",
+   "file": "D1507ru.txt",
+   "line": 902,
+   "speaker": "マスターテリオン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「その問いは更に意味が無い」 薄らと瞳を啓く。",
+   "ko_candidate": "「그 질문은 더욱 의미가 없어」"
+  },
+  {
+   "id": 45244,
+   "key": "D1507ru.txt:909",
+   "file": "D1507ru.txt",
+   "line": 909,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "瞳は光の無い金色。 炎えている。",
+   "ko_candidate": "살짝 눈을 뜬다｡"
+  },
+  {
+   "id": 45245,
+   "key": "D1507ru.txt:911",
+   "file": "D1507ru.txt",
+   "line": 911,
+   "speaker": "マスターテリオン",
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "昏く、深く、何ものよりも熱く。 「来る。討ち滅ぼして来る。 貪り喰らいて来る」",
+   "ko_candidate": "눈동자는 빛 없는 금색｡ 타오르고 있다｡ 어둡고､ 깊고､ 그 무엇보다도 뜨겁게｡"
+  },
+  {
+   "id": 45246,
+   "key": "D1507ru.txt:934",
+   "file": "D1507ru.txt",
+   "line": 934,
+   "speaker": "マスターテリオン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「外道の知識を用いて外道を調伏する魔導書と共に。外道を駆る鋼を纏って。外道を狩る刃金を執って」 「いつもと同じだ―― 大十字九郎は、来る」",
+   "ko_candidate": "「온다｡ 쳐부수러 온다｡ 탐욕스럽게 먹어치우러 온다｡ 외도의 지식을 사용해 외도를 조복하는 마도서와 함께｡ 외도를 몰아내는 강철을 두르고｡ 외도를 사냥하는 칼날을 들고｡ 언제나와 같아――다이쥬지 쿠로는､ 온다」"
+  }
+ ]
+}

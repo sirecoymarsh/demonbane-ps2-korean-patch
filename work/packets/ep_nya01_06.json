@@ -1,0 +1,50 @@
+{
+ "packet": "ep_nya01_06",
+ "scene": "ep_nya01",
+ "anchor": {
+  "hit": null,
+  "total": null,
+  "rate": null
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {},
+ "items": [
+  {
+   "id": 50135,
+   "key": "ep_nya01.txt:920",
+   "file": "ep_nya01.txt",
+   "line": 920,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "俺は、",
+   "ko_candidate": "나는､"
+  },
+  {
+   "id": 50136,
+   "key": "ep_nya01.txt:922",
+   "file": "ep_nya01.txt",
+   "line": 922,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "俺は――",
+   "ko_candidate": "나는――"
+  },
+  {
+   "id": 50137,
+   "key": "ep_nya01.txt:930",
+   "file": "ep_nya01.txt",
+   "line": 930,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "――俺は本を捜していた。",
+   "ko_candidate": "――나는 책을 찾고 있었다｡"
+  }
+ ]
+}

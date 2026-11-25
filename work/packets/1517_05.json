@@ -1,0 +1,221 @@
+{
+ "packet": "1517_05",
+ "scene": "1517",
+ "anchor": {
+  "hit": 17,
+  "total": 19,
+  "rate": 0.895
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "リューガ": "류가",
+  "ライカ": "라이카"
+ },
+ "items": [
+  {
+   "id": 48260,
+   "key": "D1517le.txt:283",
+   "file": "D1517le.txt",
+   "line": 283,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "だが、共に空に昇る事は叶わない。",
+   "ko_candidate": "하지만､ 함께 하늘로 오르는 것은 이루어지지 않는다｡"
+  },
+  {
+   "id": 48261,
+   "key": "D1517le.txt:284",
+   "file": "D1517le.txt",
+   "line": 284,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "だから今、ここで決着する。",
+   "ko_candidate": "그래서 지금､ 여기서 결판을 낸다｡"
+  },
+  {
+   "id": 48262,
+   "key": "D1517le.txt:285",
+   "file": "D1517le.txt",
+   "line": 285,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "空に届くのはどちらなのかを――",
+   "ko_candidate": "하늘에 닿는 것은 누구인지를――"
+  },
+  {
+   "id": 48263,
+   "key": "D1517le.txt:294",
+   "file": "D1517le.txt",
+   "line": 294,
+   "speaker": "リューガ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「ああ……そうか」",
+   "ko_candidate": "「아아… 그렇구나」"
+  },
+  {
+   "id": 48264,
+   "key": "D1517le.txt:297",
+   "file": "D1517le.txt",
+   "line": 297,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "リューガが、ようやく気付いたといった風に、何処か妙にさっぱりした声色で呟いた。",
+   "ko_candidate": "류가가､ 드디어 깨달은 듯한 표정으로､ 어딘가 묘하게 시원한 목소리로 중얼거렸다｡"
+  },
+  {
+   "id": 48265,
+   "key": "D1517le.txt:301",
+   "file": "D1517le.txt",
+   "line": 301,
+   "speaker": "リューガ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「どうして、空に行きたかったか、分かった気がする」",
+   "ko_candidate": "「왜､ 하늘에 가고 싶었는지､ 알 것 같아」"
+  },
+  {
+   "id": 48266,
+   "key": "D1517le.txt:305",
+   "file": "D1517le.txt",
+   "line": 305,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「？」",
+   "ko_candidate": "「?」"
+  },
+  {
+   "id": 48267,
+   "key": "D1517le.txt:309",
+   "file": "D1517le.txt",
+   "line": 309,
+   "speaker": "リューガ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「青空には何も無いんだ――ぼくを、おびやかすものが、なにも」",
+   "ko_candidate": "「푸른 하늘에는 아무것도 없어――나를､ 위협하는 것이､ 아무것도」"
+  },
+  {
+   "id": 48268,
+   "key": "D1517le.txt:316",
+   "file": "D1517le.txt",
+   "line": 316,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「リューガ……私は……」",
+   "ko_candidate": "「류가… 나는…」"
+  },
+  {
+   "id": 48269,
+   "key": "D1517le.txt:325",
+   "file": "D1517le.txt",
+   "line": 325,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "２人が、空を翔けた。",
+   "ko_candidate": "두 사람이､ 하늘을 날았다｡"
+  },
+  {
+   "id": 48270,
+   "key": "D1517le.txt:335",
+   "file": "D1517le.txt",
+   "line": 335,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "乾いた――空っぽの風が二つ、俺の心を突き抜ける。",
+   "ko_candidate": "메마른――텅 빈 바람 두 개가 내 마음을 관통한다｡"
+  },
+  {
+   "id": 48271,
+   "key": "D1517le.txt:337",
+   "file": "D1517le.txt",
+   "line": 337,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "その寒さに耐え切れず、俺の意識は現実に戻された。",
+   "ko_candidate": "그 추위를 견디지 못하고､ 내 의식은 현실로 돌아왔다｡"
+  },
+  {
+   "id": 48272,
+   "key": "D1517le.txt:344",
+   "file": "D1517le.txt",
+   "line": 344,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "開いた目に、はっきりと灼きつく。",
+   "ko_candidate": "뜬 눈에､ 선명하게 새겨진다｡"
+  },
+  {
+   "id": 48273,
+   "key": "D1517le.txt:345",
+   "file": "D1517le.txt",
+   "line": 345,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "空を疾る白と黒。",
+   "ko_candidate": "하늘을 가르는 흰색과 검은색｡"
+  },
+  {
+   "id": 48274,
+   "key": "D1517le.txt:349",
+   "file": "D1517le.txt",
+   "line": 349,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「つっ……ライカさん……っ」",
+   "ko_candidate": "「으윽……라이카 씨……」"
+  },
+  {
+   "id": 48275,
+   "key": "D1517le.txt:356",
+   "file": "D1517le.txt",
+   "line": 356,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "光が闇がぶつかり、弾けた。",
+   "ko_candidate": "빛과 어둠이 부딪히며 튀어올랐다｡"
+  },
+  {
+   "id": 48276,
+   "key": "D1517le.txt:357",
+   "file": "D1517le.txt",
+   "line": 357,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "世界を、染め上げる――",
+   "ko_candidate": "세계를､ 물들이는――"
+  }
+ ]
+}

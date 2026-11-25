@@ -1,0 +1,128 @@
+{
+ "packet": "1410_08",
+ "scene": "1410",
+ "anchor": {
+  "hit": 44,
+  "total": 50,
+  "rate": 0.88
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "アウグストゥス": "아우구스투스",
+  "デウス・マキナ": "데우스 마키나",
+  "クトゥグア": "크투가",
+  "イタクァ": "이타콰",
+  "魔力": "마력"
+ },
+ "items": [
+  {
+   "id": 39050,
+   "key": "D1410ru.txt:755",
+   "file": "D1410ru.txt",
+   "line": 755,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「……血迷いやがって。だけどな」",
+   "ko_candidate": "「…미쳐 날뛰는군｡ 하지만 말이야」"
+  },
+  {
+   "id": 39051,
+   "key": "D1410ru.txt:761",
+   "file": "D1410ru.txt",
+   "line": 761,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "クトゥグアとイタクァを同時に招喚、アウグストゥスのデウス・マキナに向けて、突きつける。",
+   "ko_candidate": "크투가와 이타콰를 동시에 소환해 아우구스투스의 데우스 마키나를 향해 들이댄다｡"
+  },
+  {
+   "id": 39052,
+   "key": "D1410ru.txt:763",
+   "file": "D1410ru.txt",
+   "line": 763,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "魔力が、魔銃の表面に刻まれた紋様を、淡く発光させる。",
+   "ko_candidate": "마력이 마총의 표면에 새겨진 문양을 희미하게 발광시킨다｡"
+  },
+  {
+   "id": 39053,
+   "key": "D1410ru.txt:765",
+   "file": "D1410ru.txt",
+   "line": 765,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "パワーが高ぶっていくのを、確かに感じ取る。",
+   "ko_candidate": "파워가 고조되는 것을 확실히 느낀다｡"
+  },
+  {
+   "id": 39054,
+   "key": "D1410ru.txt:768",
+   "file": "D1410ru.txt",
+   "line": 768,
+   "speaker": "九郎 / アウグストゥス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「短い天下だぜ、アウグストゥス。てめえは俺たちには勝てない」 「やってみるが良い！　不愉快な羽虫共が！」",
+   "ko_candidate": "「짧은 천하였다､ 아우구스투스｡ 네놈은 우리를 이길 수 없어」"
+  },
+  {
+   "id": 39055,
+   "key": "D1410ru.txt:777",
+   "file": "D1410ru.txt",
+   "line": 777,
+   "speaker": "アウグストゥス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「貴様等など！　貴様等如きが、この私を！　覇王アウグストゥスを脅かす事など……断じてあり得ぬ！」 「絶望を以って！　絶命を以って！　絶滅を以って！　貴様等にその事を思い知らせてやる！」",
+   "ko_candidate": "「해보시지! 불쾌한 날벌레 놈들! 너희 따위가! 너희 같은 놈들이 이 나를! 패왕 아우구스투스를 위협한다니… 절대 있을 수 없다! 절망으로! 절명으로! 절멸로! 너희에게 그 사실을 깨닫게 해주마!」"
+  },
+  {
+   "id": 39056,
+   "key": "D1410ru.txt:784",
+   "file": "D1410ru.txt",
+   "line": 784,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "最後まで聞いてやる義理はなかった。",
+   "ko_candidate": "끝까지 들어줄 의리는 없었다｡"
+  },
+  {
+   "id": 39057,
+   "key": "D1410ru.txt:788",
+   "file": "D1410ru.txt",
+   "line": 788,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "二挺魔銃の引鉄を引く。",
+   "ko_candidate": "두 자루 마총의 방아쇠를 당긴다｡"
+  },
+  {
+   "id": 39058,
+   "key": "D1410ru.txt:792",
+   "file": "D1410ru.txt",
+   "line": 792,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "数十発の銃声が連続し、雷鳴の如く轟いた。",
+   "ko_candidate": "수십 발의 총성이 연속으로 천둥처럼 울려 퍼졌다｡"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "packet": "0309_03",
+ "scene": "0309",
+ "anchor": {
+  "hit": 11,
+  "total": 24,
+  "rate": 0.458
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {},
+ "items": [
+  {
+   "id": 3527,
+   "key": "D0309_ps2.txt:919",
+   "file": "D0309_ps2.txt",
+   "line": 919,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "蜘蛛の巣に捕まっている男は、完全に放置された。",
+   "ko_candidate": "「…」 이번에야말로､ 남자는 흠잡을 데 없이 완전히 방치되었다｡"
+  }
+ ]
+}

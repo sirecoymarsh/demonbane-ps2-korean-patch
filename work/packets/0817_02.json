@@ -1,0 +1,64 @@
+{
+ "packet": "0817_02",
+ "scene": "0817",
+ "anchor": {
+  "hit": 7,
+  "total": 10,
+  "rate": 0.7
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "九郎": "쿠로"
+ },
+ "items": [
+  {
+   "id": 17109,
+   "key": "D0817le.txt:405",
+   "file": "D0817le.txt",
+   "line": 405,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「九郎ッッッッ！」",
+   "ko_candidate": "「쿠로오오오오!」"
+  },
+  {
+   "id": 17110,
+   "key": "D0817le.txt:409",
+   "file": "D0817le.txt",
+   "line": 409,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "まだまだ……まだまだだ。",
+   "ko_candidate": "아직 아직…… 아직 아직이다｡"
+  },
+  {
+   "id": 17111,
+   "key": "D0817le.txt:410",
+   "file": "D0817le.txt",
+   "line": 410,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "殺意……俺の殺意よ……もっと強く、 もっと烈しく……！",
+   "ko_candidate": "살의…… 나의 살의여…… 더 강하게､ 더 격렬하게……!"
+  },
+  {
+   "id": 17112,
+   "key": "D0817le.txt:411",
+   "file": "D0817le.txt",
+   "line": 411,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そんな曖昧な、茫洋とした 感情ではなく……もっと……もっと……！",
+   "ko_candidate": "그런 애매한､ 아득한 감정이 아니라…… 더…… 더……!"
+  }
+ ]
+}

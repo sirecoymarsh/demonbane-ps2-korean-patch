@@ -1,0 +1,89 @@
+{
+ "packet": "1213_08",
+ "scene": "1213",
+ "anchor": {
+  "hit": 45,
+  "total": 49,
+  "rate": 0.918
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "クラウディウス": "클라우디우스",
+  "九郎ちゃん": "쿠로 군"
+ },
+ "items": [
+  {
+   "id": 30235,
+   "key": "D1213le.txt:987",
+   "file": "D1213le.txt",
+   "line": 987,
+   "speaker": "クラウディウス",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「殺……スッ！」",
+   "ko_candidate": "「죽… 여앗!」"
+  },
+  {
+   "id": 30236,
+   "key": "D1213le.txt:991",
+   "file": "D1213le.txt",
+   "line": 991,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "風の結界が周囲を取り囲む。",
+   "ko_candidate": "바람의 결계가 주위를 감싼다｡"
+  },
+  {
+   "id": 30237,
+   "key": "D1213le.txt:997",
+   "file": "D1213le.txt",
+   "line": 997,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そのままクラウディウスは俺を抱きかかえたまま、翔び上がった。",
+   "ko_candidate": "그대로 클라우디우스는 나를 안은 채 날아올랐다｡"
+  },
+  {
+   "id": 30238,
+   "key": "D1213le.txt:998",
+   "file": "D1213le.txt",
+   "line": 998,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "風の弾丸と化した俺たちは、天井をブチ抜き、瓦礫を降らせながら、なおも上昇する！",
+   "ko_candidate": "바람의 탄환이 된 우리는 천장을 뚫고 잔해를 떨어뜨리며 계속 상승한다!"
+  },
+  {
+   "id": 30239,
+   "key": "D1213le.txt:1001",
+   "file": "D1213le.txt",
+   "line": 1001,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「なっ……にぃぃぃぃ!?」",
+   "ko_candidate": "「뭐… 야아아아!?」"
+  },
+  {
+   "id": 30240,
+   "key": "D1213le.txt:1006",
+   "file": "D1213le.txt",
+   "line": 1006,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「九郎ちゃん!?」",
+   "ko_candidate": "「쿠로 챠앙!?」"
+  }
+ ]
+}

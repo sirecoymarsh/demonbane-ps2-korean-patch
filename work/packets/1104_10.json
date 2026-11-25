@@ -1,0 +1,162 @@
+{
+ "packet": "1104_10",
+ "scene": "1104",
+ "anchor": {
+  "hit": 20,
+  "total": 21,
+  "rate": 0.952
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "瑠璃": "루리",
+  "覇道鋼造": "하도 코조",
+  "デモンベイン": "데몬베인"
+ },
+ "items": [
+  {
+   "id": 23583,
+   "key": "D1104ru.txt:321",
+   "file": "D1104ru.txt",
+   "line": 321,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "隔壁に刻まれた刻印が輝き、薄闇を淡い光で照らす。",
+   "ko_candidate": "격벽에 새겨진 각인이 빛나며､ 어스름한 어둠을 옅은 빛으로 비춘다｡"
+  },
+  {
+   "id": 23584,
+   "key": "D1104ru.txt:323",
+   "file": "D1104ru.txt",
+   "line": 323,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "掌を重ねたまま、瑠璃は唱えた。",
+   "ko_candidate": "손바닥을 겹친 채､ 루리는 외쳤다｡"
+  },
+  {
+   "id": 23585,
+   "key": "D1104ru.txt:327",
+   "file": "D1104ru.txt",
+   "line": 327,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「――我は神意なり」",
+   "ko_candidate": "「――나는 신의 뜻이다」"
+  },
+  {
+   "id": 23586,
+   "key": "D1104ru.txt:333",
+   "file": "D1104ru.txt",
+   "line": 333,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "刻印が眩く輝き出した。",
+   "ko_candidate": "각인이 눈부시게 빛나기 시작했다｡"
+  },
+  {
+   "id": 23587,
+   "key": "D1104ru.txt:335",
+   "file": "D1104ru.txt",
+   "line": 335,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "迸る閃光に、瑠璃は目を細める。",
+   "ko_candidate": "솟구치는 섬광에 루리는 눈을 가늘게 뜬다｡"
+  },
+  {
+   "id": 23588,
+   "key": "D1104ru.txt:339",
+   "file": "D1104ru.txt",
+   "line": 339,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "瑠璃の言霊を認識した隔壁は、重い音を立てて、ゆっくりと上がっていった。",
+   "ko_candidate": "루리의 언령을 인식한 격벽은 무거운 소리를 내며 천천히 올라갔다｡"
+  },
+  {
+   "id": 23589,
+   "key": "D1104ru.txt:341",
+   "file": "D1104ru.txt",
+   "line": 341,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "道が開かれる。",
+   "ko_candidate": "길이 열린다｡"
+  },
+  {
+   "id": 23590,
+   "key": "D1104ru.txt:343",
+   "file": "D1104ru.txt",
+   "line": 343,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "先に続く通路。ゲートのすぐ近く、この区画が何なのかを示すプレートが埋め込まれていた。",
+   "ko_candidate": "앞으로 이어지는 통로｡ 게이트 바로 근처､ 이 구역이 무엇인지를 나타내는 플레이트가 박혀 있었다｡"
+  },
+  {
+   "id": 23591,
+   "key": "D1104ru.txt:348",
+   "file": "D1104ru.txt",
+   "line": 348,
+   "speaker": null,
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "『魔導研究所』",
+   "ko_candidate": "『마도연구소』"
+  },
+  {
+   "id": 23592,
+   "key": "D1104ru.txt:350",
+   "file": "D1104ru.txt",
+   "line": 350,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "この区画は覇道鋼造が、デモンベインの開発の為に建造した施設。",
+   "ko_candidate": "이 구역은 하도 코조가 데몬베인의 개발을 위해 건조한 시설｡"
+  },
+  {
+   "id": 23593,
+   "key": "D1104ru.txt:351",
+   "file": "D1104ru.txt",
+   "line": 351,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "魔術儀礼室。錬金術研究所。図書館。コンピュータールーム……武器庫までもが存在する。",
+   "ko_candidate": "마술의식실｡ 연금술연구소｡ 도서관｡ 컴퓨터실……무기고까지 존재한다｡"
+  },
+  {
+   "id": 23594,
+   "key": "D1104ru.txt:352",
+   "file": "D1104ru.txt",
+   "line": 352,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "此処になら――",
+   "ko_candidate": "여기에 있다면――"
+  }
+ ]
+}

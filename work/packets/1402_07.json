@@ -1,0 +1,38 @@
+{
+ "packet": "1402_07",
+ "scene": "1402",
+ "anchor": {
+  "hit": 17,
+  "total": 19,
+  "rate": 0.895
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 36776,
+   "key": "D1402ru.txt:575",
+   "file": "D1402ru.txt",
+   "line": 575,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "出る筈が無かった。",
+   "ko_candidate": "나올 리가 없었다｡"
+  },
+  {
+   "id": 36777,
+   "key": "D1402ru.txt:577",
+   "file": "D1402ru.txt",
+   "line": 577,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "どちらの答えにしろ――それが得られる日は永遠にやって来なかった。",
+   "ko_candidate": "어느 쪽의 답이든-- 그것을 얻을 날은 영원히 오지 않았다｡"
+  }
+ ]
+}

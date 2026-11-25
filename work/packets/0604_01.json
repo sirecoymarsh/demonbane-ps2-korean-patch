@@ -1,0 +1,201 @@
+{
+ "packet": "0604_01",
+ "scene": "0604",
+ "anchor": {
+  "hit": 4,
+  "total": 5,
+  "rate": 0.8
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "姫さん": "공주님",
+  "執事さん": "집사님",
+  "大十字": "다이쥬지",
+  "瑠璃": "루리",
+  "お嬢様": "아가씨",
+  "アル": "알"
+ },
+ "items": [
+  {
+   "id": 7045,
+   "key": "D0604.txt:282",
+   "file": "D0604.txt",
+   "line": 282,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "……あからさまに避けられている。",
+   "ko_candidate": "어쩌면 노골적으로 피하고 있는 것 같다｡"
+  },
+  {
+   "id": 7046,
+   "key": "D0604.txt:284",
+   "file": "D0604.txt",
+   "line": 284,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "当然といえば当然か……。",
+   "ko_candidate": "당연하다면 당연한가…"
+  },
+  {
+   "id": 7047,
+   "key": "D0604.txt:285",
+   "file": "D0604.txt",
+   "line": 285,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "仕方ない。今日は引き下がるしかないだろう。",
+   "ko_candidate": "어쩔 수 없다｡ 오늘은 물러나는 수밖에 없겠지｡"
+  },
+  {
+   "id": 7048,
+   "key": "D0604.txt:297",
+   "file": "D0604.txt",
+   "line": 297,
+   "speaker": null,
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「分かりました。突然ですいませんでした。 じゃあ、また姫さんの都合の良い時にでも来ますわ」",
+   "ko_candidate": "「알겠습니다｡ 갑자기 죄송했습니다｡ 그럼､ 다음에 공주님 편하실 때 다시 오겠습니다」"
+  },
+  {
+   "id": 7049,
+   "key": "D0604.txt:307",
+   "file": "D0604.txt",
+   "line": 307,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "立ち上がろうとしたところに、 執事さんは声をかけてきた。",
+   "ko_candidate": "말하고 일어서려는 찰나､ 집사가 말을 걸어왔다｡"
+  },
+  {
+   "id": 7050,
+   "key": "D0604.txt:317",
+   "file": "D0604.txt",
+   "line": 317,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「大十字様、どうかそう、お気に病まないで下さい」",
+   "ko_candidate": "「다이쥬지님､ 부디 그렇게 마음 쓰지 마십시오」"
+  },
+  {
+   "id": 7051,
+   "key": "D0604.txt:322",
+   "file": "D0604.txt",
+   "line": 322,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「えっ？」",
+   "ko_candidate": "「네?」"
+  },
+  {
+   "id": 7052,
+   "key": "D0604.txt:328",
+   "file": "D0604.txt",
+   "line": 328,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「瑠璃お嬢様は、大旦那様の事になると、少々神経質になるもので」 「私は大十字様のことを評価しております。このような難事を伊達や酔狂で引き受ける人間などおりません」",
+   "ko_candidate": "「루리 아가씨는 큰 주인님 일이 되면 조금 신경질적이 되시곤 합니다｡ 저는 다이쥬지님을 높이 평가하고 있습니다｡ 이런 어려운 일을 장난이나 취미로 받아들이는 사람은 없습니다」"
+  },
+  {
+   "id": 7053,
+   "key": "D0604.txt:342",
+   "file": "D0604.txt",
+   "line": 342,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「あっ、えーと」",
+   "ko_candidate": "「아､ 저」"
+  },
+  {
+   "id": 7054,
+   "key": "D0604.txt:346",
+   "file": "D0604.txt",
+   "line": 346,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "意外なフォローにどう答えたものかと戸惑っていると、執事さんはにこりと微笑んだ。",
+   "ko_candidate": "집사의 뜻밖의 도움에 내가 어떻게 대답해야 할지 당황하고 있을 때､ 집사는 살짝 미소 지었다｡"
+  },
+  {
+   "id": 7055,
+   "key": "D0604.txt:355",
+   "file": "D0604.txt",
+   "line": 355,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「わざわざ来て頂いたのに、すぐに追い返すのも何です」 「如何でしょう？　お時間があるようでしたら、私の無駄話に付き合っていただきたいのですが」",
+   "ko_candidate": "「일부러 와주셨는데 바로 돌려보내는 것도 좀 그렇네요｡ 어떠신가요? 시간이 있으시다면 제 쓸데없는 이야기에 어울려 주시겠습니까」"
+  },
+  {
+   "id": 7056,
+   "key": "D0604.txt:365",
+   "file": "D0604.txt",
+   "line": 365,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「はあ……まあ、そういうことなら。 なあ、アル？」",
+   "ko_candidate": "「아… 뭐､ 그렇다면｡ 그렇지､ 알?」"
+  },
+  {
+   "id": 7057,
+   "key": "D0604.txt:371",
+   "file": "D0604.txt",
+   "line": 371,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「……新しい茶と菓子を用意してもらえるならな」",
+   "ko_candidate": "「…새로운 차와 과자를 준비해 준다면」"
+  },
+  {
+   "id": 7058,
+   "key": "D0604.txt:381",
+   "file": "D0604.txt",
+   "line": 381,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "俺とアルは椅子に座りなおした。執事さんも向かいの椅子に腰かけ、それからゆっくりと語り始める。",
+   "ko_candidate": "나와 알은 다시 의자에 앉았다｡ 집사도 맞은편 의자에 앉더니 천천히 이야기를 시작한다｡"
+  },
+  {
+   "id": 7059,
+   "key": "D0604.txt:387",
+   "file": "D0604.txt",
+   "line": 387,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「そうですね。では瑠璃お嬢様のことについてお話します」 「……思い出話になってしまいますが」",
+   "ko_candidate": "「그렇죠｡ 그럼 루리 아가씨에 대해 말씀드리겠습니다｡ 추억 이야기가 되겠지만…」"
+  }
+ ]
+}

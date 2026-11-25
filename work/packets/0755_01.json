@@ -1,0 +1,146 @@
+{
+ "packet": "0755_01",
+ "scene": "0755",
+ "anchor": {
+  "hit": null,
+  "total": null,
+  "rate": null
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {},
+ "items": [
+  {
+   "id": 11618,
+   "key": "D0755.txt:316",
+   "file": "D0755.txt",
+   "line": 316,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "ゆっくりと口元に寄せ……手の甲に口づけした。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11619,
+   "key": "D0755.txt:319",
+   "file": "D0755.txt",
+   "line": 319,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "騎士が姫に対し、忠誠を誓うように。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11620,
+   "key": "D0755.txt:325",
+   "file": "D0755.txt",
+   "line": 325,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「願わくば、白き王――」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11621,
+   "key": "D0755.txt:330",
+   "file": "D0755.txt",
+   "line": 330,
+   "speaker": "イタクァ",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「実世界でも汝が、我が主でありますように」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11622,
+   "key": "D0755.txt:337",
+   "file": "D0755.txt",
+   "line": 337,
+   "speaker": "クトゥグア＆イタクァ",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「「これは――」」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11623,
+   "key": "D0755.txt:347",
+   "file": "D0755.txt",
+   "line": 347,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "２人が光に包まれる。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11624,
+   "key": "D0755.txt:348",
+   "file": "D0755.txt",
+   "line": 348,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "光に融け、実体を失ってゆく。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11625,
+   "key": "D0755.txt:356",
+   "file": "D0755.txt",
+   "line": 356,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "俺もまた光に包まれてゆく。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11626,
+   "key": "D0755.txt:357",
+   "file": "D0755.txt",
+   "line": 357,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "何もかもが曖昧になってゆく。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11627,
+   "key": "D0755.txt:367",
+   "file": "D0755.txt",
+   "line": 367,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "意識を失う寸前、最後に２人の声を聴いた。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11628,
+   "key": "D0755.txt:372",
+   "file": "D0755.txt",
+   "line": 372,
+   "speaker": "クトゥグア＆イタクァ",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「「来たる日の誓約」」",
+   "ko_candidate": ""
+  }
+ ]
+}

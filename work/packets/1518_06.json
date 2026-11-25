@@ -1,0 +1,233 @@
+{
+ "packet": "1518_06",
+ "scene": "1518",
+ "anchor": {
+  "hit": 6,
+  "total": 9,
+  "rate": 0.667
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "リューガ": "류가",
+  "ライカ": "라이카"
+ },
+ "items": [
+  {
+   "id": 48517,
+   "key": "D1518le.txt:257",
+   "file": "D1518le.txt",
+   "line": 257,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "リューガが、私の首を絞める。",
+   "ko_candidate": "류가가 내 목을 조른다｡"
+  },
+  {
+   "id": 48518,
+   "key": "D1518le.txt:258",
+   "file": "D1518le.txt",
+   "line": 258,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "圧し折らんとするほどの殺意で、私の首を絞める。",
+   "ko_candidate": "짓눌러 부러뜨릴 듯한 살의로､ 내 목을 조른다｡"
+  },
+  {
+   "id": 48519,
+   "key": "D1518le.txt:259",
+   "file": "D1518le.txt",
+   "line": 259,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "だけど――彼の力はもうか細くて、子どもの首だって折れそうにない。",
+   "ko_candidate": "하지만―― 그의 힘은 이제 가냘퍼져서､ 아이의 목도 부러뜨릴 수 없을 것 같다｡"
+  },
+  {
+   "id": 48520,
+   "key": "D1518le.txt:271",
+   "file": "D1518le.txt",
+   "line": 271,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "やがて、私の首を掴む手が――塵になって崩れ落ちた。",
+   "ko_candidate": "이윽고､ 내 목을 잡고 있던 손이―― 먼지가 되어 무너져 내렸다｡"
+  },
+  {
+   "id": 48521,
+   "key": "D1518le.txt:275",
+   "file": "D1518le.txt",
+   "line": 275,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「リューガァァァァァァ！」",
+   "ko_candidate": "「류가아아아아아아!」"
+  },
+  {
+   "id": 48522,
+   "key": "D1518le.txt:282",
+   "file": "D1518le.txt",
+   "line": 282,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "崩れてゆく。",
+   "ko_candidate": "무너져 간다｡"
+  },
+  {
+   "id": 48523,
+   "key": "D1518le.txt:283",
+   "file": "D1518le.txt",
+   "line": 283,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "崩れてゆく。",
+   "ko_candidate": "무너져 간다｡"
+  },
+  {
+   "id": 48524,
+   "key": "D1518le.txt:284",
+   "file": "D1518le.txt",
+   "line": 284,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "リューガが、世界に溶けてしまう。",
+   "ko_candidate": "류가가 세상에 녹아버린다｡"
+  },
+  {
+   "id": 48525,
+   "key": "D1518le.txt:290",
+   "file": "D1518le.txt",
+   "line": 290,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "崩れ去る貌が、光を失う瞳が、最期の笑みをつくる。",
+   "ko_candidate": "무너져 가는 얼굴이､ 빛을 잃어가는 눈동자가､ 마지막 미소를 짓는다｡"
+  },
+  {
+   "id": 48526,
+   "key": "D1518le.txt:292",
+   "file": "D1518le.txt",
+   "line": 292,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "それは酷く凄惨な笑みのようで――それとも酷く穏やかなようで――どのみち、こうも崩れてしまっては、判別がつかない。",
+   "ko_candidate": "그것은 몹시 참혹한 미소 같으면서―― 아니면 몹시 평온한 것 같기도 하고―― 어쨌든､ 이렇게 무너져 버리고 나면､ 구별이 되지 않는다｡"
+  },
+  {
+   "id": 48527,
+   "key": "D1518le.txt:294",
+   "file": "D1518le.txt",
+   "line": 294,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "崩れる笑みを浮かべる口が告げる。",
+   "ko_candidate": "무너지는 미소를 띤 입이 고한다｡"
+  },
+  {
+   "id": 48528,
+   "key": "D1518le.txt:295",
+   "file": "D1518le.txt",
+   "line": 295,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "渇きゆく、乾きゆく咽喉が告げる。",
+   "ko_candidate": "메말라가는､ 말라가는 목구멍이 고한다｡"
+  },
+  {
+   "id": 48529,
+   "key": "D1518le.txt:296",
+   "file": "D1518le.txt",
+   "line": 296,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "最期の、憎悪を。",
+   "ko_candidate": "마지막 증오를｡"
+  },
+  {
+   "id": 48530,
+   "key": "D1518le.txt:298",
+   "file": "D1518le.txt",
+   "line": 298,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "憎悪に遠くて、近しい何かを。",
+   "ko_candidate": "증오와 멀고도 가까운 무언가를｡"
+  },
+  {
+   "id": 48531,
+   "key": "D1518le.txt:299",
+   "file": "D1518le.txt",
+   "line": 299,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "祝福にも似た、呪詛に乗せて。",
+   "ko_candidate": "축복과도 같은､ 저주에 실어서｡"
+  },
+  {
+   "id": 48532,
+   "key": "D1518le.txt:303",
+   "file": "D1518le.txt",
+   "line": 303,
+   "speaker": "リューガ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ライカ姉さん……あんたは、 地べたを這いずり回れ」",
+   "ko_candidate": "「라이카 누나… 당신은､ 땅바닥을 기어다녀라」"
+  },
+  {
+   "id": 48533,
+   "key": "D1518le.txt:312",
+   "file": "D1518le.txt",
+   "line": 312,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "ぜんぶ、くずれて、ゆく。",
+   "ko_candidate": "전부､ 무너져､ 간다｡"
+  },
+  {
+   "id": 48534,
+   "key": "D1518le.txt:323",
+   "file": "D1518le.txt",
+   "line": 323,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "リューガは、空に還った。",
+   "ko_candidate": "류가는､ 하늘로 돌아갔다｡"
+  }
+ ]
+}

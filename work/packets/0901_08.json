@@ -1,0 +1,113 @@
+{
+ "packet": "0901_08",
+ "scene": "0901",
+ "anchor": {
+  "hit": 22,
+  "total": 23,
+  "rate": 0.957
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "アル": "알",
+  "魔力": "마력"
+ },
+ "items": [
+  {
+   "id": 18082,
+   "key": "D0901ru.txt:679",
+   "file": "D0901ru.txt",
+   "line": 679,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "興を殺がれたアルは舌打ちして、放つ寸前の魔力を霧散させた。",
+   "ko_candidate": "흥이 깨진 알은 혀를 차며､ 발사 직전의 마력을 흩어지게 했다｡"
+  },
+  {
+   "id": 18083,
+   "key": "D0901ru.txt:680",
+   "file": "D0901ru.txt",
+   "line": 680,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "……助かった。",
+   "ko_candidate": "…살았다｡"
+  },
+  {
+   "id": 18084,
+   "key": "D0901ru.txt:682",
+   "file": "D0901ru.txt",
+   "line": 682,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "俺は転がり逃げるように、玄関に急ぐ。",
+   "ko_candidate": "나는 구르듯 도망치며､ 현관으로 서둘러 간다｡"
+  },
+  {
+   "id": 18085,
+   "key": "D0901ru.txt:688",
+   "file": "D0901ru.txt",
+   "line": 688,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「はいはいはーい、どちら様……」",
+   "ko_candidate": "「네 네 네~､ 누구십니까…」 「헉?」"
+  },
+  {
+   "id": 18086,
+   "key": "D0901ru.txt:694",
+   "file": "D0901ru.txt",
+   "line": 694,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「へっ？」",
+   "ko_candidate": "「…뭐!」"
+  },
+  {
+   "id": 18087,
+   "key": "D0901ru.txt:699",
+   "file": "D0901ru.txt",
+   "line": 699,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……なっ！」 ドアを開けた向こうに立っていたのは、",
+   "ko_candidate": "문을 열자 그 너머에 서 있던 것은､ 뜻밖의 인물이었다｡"
+  },
+  {
+   "id": 18088,
+   "key": "D0901ru.txt:705",
+   "file": "D0901ru.txt",
+   "line": 705,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "意外な人物だった。 もじもじと伏し目がちに、消え入りそうな声で、その人物は語りかけてきた。",
+   "ko_candidate": "우물쭈물 고개를 숙이며､ 사라질 듯한 목소리로､ 그 인물은 말을 걸어왔다｡"
+  },
+  {
+   "id": 18089,
+   "key": "D0901ru.txt:714",
+   "file": "D0901ru.txt",
+   "line": 714,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「あ、あの……どうも……」",
+   "ko_candidate": "「저､ 저기… 안녕하세요…」"
+  }
+ ]
+}

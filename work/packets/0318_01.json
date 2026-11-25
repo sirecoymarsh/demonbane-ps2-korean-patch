@@ -1,0 +1,127 @@
+{
+ "packet": "0318_01",
+ "scene": "0318",
+ "anchor": {
+  "hit": 6,
+  "total": 9,
+  "rate": 0.667
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "メタトロン": "메타트론",
+  "アル": "알",
+  "デモンベイン": "데몬베인",
+  "大十字九郎": "다이쥬지 쿠로"
+ },
+ "items": [
+  {
+   "id": 4075,
+   "key": "D0318.txt:400",
+   "file": "D0318.txt",
+   "line": 400,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "爆音。爆風。",
+   "ko_candidate": "폭음｡ 폭풍｡"
+  },
+  {
+   "id": 4076,
+   "key": "D0318.txt:402",
+   "file": "D0318.txt",
+   "line": 402,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "メタトロンの姿はあっという間に小さくなり、夜空に吸い込まれていった。",
+   "ko_candidate": "메타트론의 모습은 순식간에 작아져 밤하늘로 빨려 들어갔다｡"
+  },
+  {
+   "id": 4077,
+   "key": "D0318.txt:405",
+   "file": "D0318.txt",
+   "line": 405,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "後には俺とアル、そしてデモンベインだけが残される。",
+   "ko_candidate": "뒤에는 나와 알､ 그리고 데몬베인만이 남겨진다｡"
+  },
+  {
+   "id": 4078,
+   "key": "D0318.txt:416",
+   "file": "D0318.txt",
+   "line": 416,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「メタトロンは……自分以外の誰かを戦わせたくないのかな？」",
+   "ko_candidate": "「메타트론은… 자신 이외의 누군가를 싸우게 하고 싶지 않은 걸까?」"
+  },
+  {
+   "id": 4079,
+   "key": "D0318.txt:421",
+   "file": "D0318.txt",
+   "line": 421,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「さあな、知らんよ。それに……知ったところで、どうする？　汝はもう、決意したのだろう」",
+   "ko_candidate": "「글쎄､ 모르겠어｡ 그리고… 안다고 해서 어쩌겠어? 너는 이미 결심했잖아」"
+  },
+  {
+   "id": 4080,
+   "key": "D0318.txt:427",
+   "file": "D0318.txt",
+   "line": 427,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ああ……そうだな」",
+   "ko_candidate": "「그래… 그렇지」"
+  },
+  {
+   "id": 4081,
+   "key": "D0318.txt:444",
+   "file": "D0318.txt",
+   "line": 444,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "その決意と共に今、１人の英雄が誕生する。",
+   "ko_candidate": "그 결심과 함께 지금､ 한 명의 영웅이 탄생한다｡"
+  },
+  {
+   "id": 4082,
+   "key": "D0318.txt:447",
+   "file": "D0318.txt",
+   "line": 447,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "大十字九郎。",
+   "ko_candidate": "다이쥬지 쿠로｡"
+  },
+  {
+   "id": 4083,
+   "key": "D0318.txt:448",
+   "file": "D0318.txt",
+   "line": 448,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "外道の知識を駆り、邪悪と狂気の嵐を往く者。",
+   "ko_candidate": "외도의 지식을 구사하여､ 사악과 광기의 폭풍을 헤쳐 나가는 자｡ 【File03:TAKE ME HIGHER】closed<PRE>."
+  }
+ ]
+}

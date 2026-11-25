@@ -1,0 +1,126 @@
+{
+ "packet": "0615_03",
+ "scene": "0615",
+ "anchor": {
+  "hit": 7,
+  "total": 8,
+  "rate": 0.875
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "ライカ": "라이카",
+  "九郎": "쿠로",
+  "大十字": "다이쥬지"
+ },
+ "items": [
+  {
+   "id": 8094,
+   "key": "D0615.txt:725",
+   "file": "D0615.txt",
+   "line": 725,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「おおう、ライカさんとクソガキども……ってぐぎゃあああああ！」 「こ、こらぁ！　怪我人に突進するんじゃねえ！」",
+   "ko_candidate": "「오오､ 라이카 씨랑 꼬맹이들… 으악 꺄아아아아아! 이､ 이봐! 부상자한테 돌진하지 마! 아파! 진짜 아프다고! 상처 부위 만지지 마､ 이 바보들아!」"
+  },
+  {
+   "id": 8095,
+   "key": "D0615.txt:740",
+   "file": "D0615.txt",
+   "line": 740,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「痛ッ！　真剣に痛え！ 傷口に触るな、馬鹿者がっ！」",
+   "ko_candidate": "「우라아! 오라아!」 「아하하하하하하!」"
+  },
+  {
+   "id": 8096,
+   "key": "D0615.txt:750",
+   "file": "D0615.txt",
+   "line": 750,
+   "speaker": "ジョージ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「うらあ！　おらあ！」",
+   "ko_candidate": "「아､ 저기……쿠로 오빠､ 괜찮아?」"
+  },
+  {
+   "id": 8097,
+   "key": "D0615.txt:754",
+   "file": "D0615.txt",
+   "line": 754,
+   "speaker": "コリン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「あははははははは！」",
+   "ko_candidate": "「괜찮을 리가 있겠냐! 꺄아아아아아아아!」"
+  },
+  {
+   "id": 8098,
+   "key": "D0615.txt:759",
+   "file": "D0615.txt",
+   "line": 759,
+   "speaker": "アリスン / 九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「あ、あの……九郎お兄ちゃん、大丈夫？」 「大丈夫なワケあるか！　ぎゃあああああああ！」",
+   "ko_candidate": "「……제가 인정한 건 다이쥬지 씨뿐이에요! 당신은 덤이라고 할까 오히려 기생충과 다름없는 존재라는 걸……」"
+  },
+  {
+   "id": 8099,
+   "key": "D0615.txt:771",
+   "file": "D0615.txt",
+   "line": 771,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「……わたくしが認めたのは、大十字さんだけです！　貴女はオマケと言うかむしろ寄生虫に等しい代物だということを……」",
+   "ko_candidate": "「흥! 쿠로가 저 정도로 싸울 수 있는 건 첩과의 궁합이 맞아서야! 전장을 모르는 자가､ 뭘 건방지게――!」"
+  },
+  {
+   "id": 8100,
+   "key": "D0615.txt:777",
+   "file": "D0615.txt",
+   "line": 777,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ふん！　九郎があれほどまでに戦えるのは、妾との相性があってのことだ！」",
+   "ko_candidate": "「어머어머어머､ 시끌벅적하네요」 「……여러분｡ 여기가 병원이라는 걸 잊지 마세요」"
+  },
+  {
+   "id": 8101,
+   "key": "D0615.txt:780",
+   "file": "D0615.txt",
+   "line": 780,
+   "speaker": "アル / ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「戦場を知らぬ者が、何を生意気な――！」 「あらあらあら、賑やかですねぇ」",
+   "ko_candidate": "――그보다 좀 도와줘｡ 너희들｡"
+  },
+  {
+   "id": 8102,
+   "key": "D0615.txt:792",
+   "file": "D0615.txt",
+   "line": 792,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……皆様。ここが病院であることをお忘れなく」 ――って言うか助けれ。君ら。",
+   "ko_candidate": "【File06:THE INVADERS】closed<PRE>."
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "packet": "0313_01",
+ "scene": "0313",
+ "anchor": {
+  "hit": 4,
+  "total": 5,
+  "rate": 0.8
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "アル": "알",
+  "ドクター・ウェスト": "닥터 웨스트",
+  "破壊ロボ": "파괴 로봇",
+  "デモンベイン": "데몬베인"
+ },
+ "items": [
+  {
+   "id": 3684,
+   "key": "D0313.txt:347",
+   "file": "D0313.txt",
+   "line": 347,
+   "speaker": "ちびアル",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「……招喚陣」",
+   "ko_candidate": "「……소환진」"
+  },
+  {
+   "id": 3685,
+   "key": "D0313.txt:352",
+   "file": "D0313.txt",
+   "line": 352,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「喚ぶぞ、アル」",
+   "ko_candidate": "「부르겠다､ 알」"
+  },
+  {
+   "id": 3686,
+   "key": "D0313.txt:357",
+   "file": "D0313.txt",
+   "line": 357,
+   "speaker": "ちびアル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「えっ……？」",
+   "ko_candidate": "「엣……?」"
+  },
+  {
+   "id": 3687,
+   "key": "D0313.txt:362",
+   "file": "D0313.txt",
+   "line": 362,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「つまらん都合でぐちぐち悩むのは止めだ。 ――この馬鹿に思い知らせてやる！」",
+   "ko_candidate": "「시시한 사정으로 우물쭈물하는 건 그만두자｡ ――이 바보에게 똑똑히 알려주겠어!」"
+  },
+  {
+   "id": 3688,
+   "key": "D0313.txt:369",
+   "file": "D0313.txt",
+   "line": 369,
+   "speaker": "ちびアル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……応よ！」",
+   "ko_candidate": "「……응!」"
+  },
+  {
+   "id": 3689,
+   "key": "D0313.txt:380",
+   "file": "D0313.txt",
+   "line": 380,
+   "speaker": "ウェスト",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「貴様ァァァァ！　我輩のことを生ゴミだの馬鹿だのぉぉぉぉぉ！　この大！　天才に向かってぇぇッ！」",
+   "ko_candidate": "「네 이 자식아아아아! 나를 생쓰레기니 바보니 어쩌니이이이이! 이 위대한! 천재를 향해서에에엣!」"
+  },
+  {
+   "id": 3690,
+   "key": "D0313.txt:390",
+   "file": "D0313.txt",
+   "line": 390,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "破壊ロボがドリルを振り上げる。ＯＫ……鋼鉄のダンスと洒落こもうじゃないか、ドクター・ウェスト！ 保留。",
+   "ko_candidate": "파괴 로봇이 드릴을 치켜든다｡"
+  },
+  {
+   "id": 3691,
+   "key": "D0313.txt:415",
+   "file": "D0313.txt",
+   "line": 415,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "どうでもいいけど、ここもつなげないとな。音声ファイル。",
+   "ko_candidate": "OK…… 강철의 댄스로 한바탕 놀아보자고､ 닥터 웨스트!"
+  },
+  {
+   "id": 3692,
+   "key": "D0313.txt:423",
+   "file": "D0313.txt",
+   "line": 423,
+   "speaker": null,
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「憎悪の空より来たりて、正しき怒りを胸に、 我等は魔を断つ剣を執る！ 汝、無垢なる刃――デモンベイン！」",
+   "ko_candidate": "「증오의 하늘로부터 내려와､ 올바른 분노를 가슴에､ 우리는 마를 베는 검을 든다! 그대､ 무구한 칼날――데몬베인!」"
+  }
+ ]
+}

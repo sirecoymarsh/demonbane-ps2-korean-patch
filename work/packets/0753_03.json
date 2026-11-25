@@ -1,0 +1,196 @@
+{
+ "packet": "0753_03",
+ "scene": "0753",
+ "anchor": {
+  "hit": null,
+  "total": null,
+  "rate": null
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "イタクァ": "이타콰"
+ },
+ "items": [
+  {
+   "id": 11509,
+   "key": "D0753.txt:568",
+   "file": "D0753.txt",
+   "line": 568,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「ふふ……妾に助けられなければ危うい所だったぞ」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11510,
+   "key": "D0753.txt:575",
+   "file": "D0753.txt",
+   "line": 575,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「姉妹はイタクァの神気を元に編まれた存在である以上、行動も神の属性に引きずられる。もう少しでウェンディゴに変えられていたぞ」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11511,
+   "key": "D0753.txt:580",
+   "file": "D0753.txt",
+   "line": 580,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「……げっ」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11512,
+   "key": "D0753.txt:590",
+   "file": "D0753.txt",
+   "line": 590,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「――未熟だ。そんな事では困る」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11513,
+   "key": "D0753.txt:597",
+   "file": "D0753.txt",
+   "line": 597,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「汝は神の写し身たる妾をしかと支配しなければならぬ。白き王よ」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11514,
+   "key": "D0753.txt:602",
+   "file": "D0753.txt",
+   "line": 602,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "――？",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11515,
+   "key": "D0753.txt:603",
+   "file": "D0753.txt",
+   "line": 603,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "どういう意味だ？",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11516,
+   "key": "D0753.txt:612",
+   "file": "D0753.txt",
+   "line": 612,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「何者の仕業かは知らぬがこの場所……現実とはずれた場所に存在する異相空間。この領域ならば、ほんのわずかと云えども検閲が弱まる」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11517,
+   "key": "D0753.txt:617",
+   "file": "D0753.txt",
+   "line": 617,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「検閲？　何の話だ？」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11518,
+   "key": "D0753.txt:623",
+   "file": "D0753.txt",
+   "line": 623,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「後は自らの意思で掴み取るが良い――」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11519,
+   "key": "D0753.txt:638",
+   "file": "D0753.txt",
+   "line": 638,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「――――――ッ！？」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11520,
+   "key": "D0753.txt:642",
+   "file": "D0753.txt",
+   "line": 642,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "爆炎が俺の全身を包み込んだ。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11521,
+   "key": "D0753.txt:643",
+   "file": "D0753.txt",
+   "line": 643,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "だが不思議と熱くない。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11522,
+   "key": "D0753.txt:646",
+   "file": "D0753.txt",
+   "line": 646,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "劫火に灼かれる意識は加速し、時間と空間を超える。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11523,
+   "key": "D0753.txt:647",
+   "file": "D0753.txt",
+   "line": 647,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "俺が視たのは――",
+   "ko_candidate": ""
+  }
+ ]
+}

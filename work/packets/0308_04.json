@@ -1,0 +1,173 @@
+{
+ "packet": "0308_04",
+ "scene": "0308",
+ "anchor": {
+  "hit": 19,
+  "total": 38,
+  "rate": 0.5
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "メタトロン": "메타트론",
+  "大十字九郎": "다이쥬지 쿠로"
+ },
+ "items": [
+  {
+   "id": 3393,
+   "key": "D0308.txt:1149",
+   "file": "D0308.txt",
+   "line": 1149,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "爆発。衝撃。",
+   "ko_candidate": "폭발｡ 충격｡"
+  },
+  {
+   "id": 3394,
+   "key": "D0308.txt:1150",
+   "file": "D0308.txt",
+   "line": 1150,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "メタトロンは俺の胸を離し、吹き飛んでいった。",
+   "ko_candidate": "메타트론은 내 가슴에서 떨어져 날아갔다｡"
+  },
+  {
+   "id": 3395,
+   "key": "D0308.txt:1159",
+   "file": "D0308.txt",
+   "line": 1159,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "俺も爆発の反動で反対側に飛ばされる。",
+   "ko_candidate": "나도 폭발의 반동으로 반대쪽으로 날아간다｡"
+  },
+  {
+   "id": 3396,
+   "key": "D0308.txt:1160",
+   "file": "D0308.txt",
+   "line": 1160,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "ほぼ同時に体勢を整え、空中で静止。睨み合う。",
+   "ko_candidate": "거의 동시에 자세를 가다듬고､ 공중에서 정지｡ 노려본다｡"
+  },
+  {
+   "id": 3397,
+   "key": "D0308.txt:1162",
+   "file": "D0308.txt",
+   "line": 1162,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "緊張のあまり、冷や汗が頬を伝った。",
+   "ko_candidate": "긴장한 나머지､ 식은땀이 뺨을 타고 흘렀다｡"
+  },
+  {
+   "id": 3398,
+   "key": "D0308.txt:1171",
+   "file": "D0308.txt",
+   "line": 1171,
+   "speaker": "メタトロン",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「どうあっても退かないつもりか、 大十字九郎」",
+   "ko_candidate": "「어떻게든 물러나지 않을 작정인가､ 다이쥬지 쿠로」"
+  },
+  {
+   "id": 3399,
+   "key": "D0308.txt:1188",
+   "file": "D0308.txt",
+   "line": 1188,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "俺に背を向け、機械の翼を広げるメタトロン。 翼に光が集まっていた。",
+   "ko_candidate": "내게 등을 돌리고､ 기계의 날개를 펼치는 메타트론｡ 날개에 빛이 모이고 있었다｡ 어깨 너머로 나를 바라본다｡"
+  },
+  {
+   "id": 3400,
+   "key": "D0308.txt:1192",
+   "file": "D0308.txt",
+   "line": 1192,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "肩越しに俺を見つめる。 そして――",
+   "ko_candidate": "그리고――"
+  },
+  {
+   "id": 3401,
+   "key": "D0308.txt:1202",
+   "file": "D0308.txt",
+   "line": 1202,
+   "speaker": "メタトロン",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ならば――私は 君を敵として認識する」",
+   "ko_candidate": "「그렇다면―― 나는 너를 적으로 인식하겠다」"
+  },
+  {
+   "id": 3402,
+   "key": "D0308.txt:1209",
+   "file": "D0308.txt",
+   "line": 1209,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「っっっ!?」",
+   "ko_candidate": "「으으으으!?」"
+  },
+  {
+   "id": 3403,
+   "key": "D0308.txt:1222",
+   "file": "D0308.txt",
+   "line": 1222,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "冷たく宣言して、メタトロンは翔び去っていった。",
+   "ko_candidate": "차갑게 선언하고､ 메타트론은 날아올랐다｡"
+  },
+  {
+   "id": 3404,
+   "key": "D0308.txt:1224",
+   "file": "D0308.txt",
+   "line": 1224,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "超スピードを誇る白の天使は、あっという間に俺の視界から消えてしまう。空には翼が残した光の残滓が灼きついていた。",
+   "ko_candidate": "초고속을 자랑하는 하얀 천사는､ 순식간에 내 시야에서 사라져버린다｡ 하늘에는 날개가 남긴 빛의 잔재가 새겨져 있었다｡ 마지막 대사가､ 가슴에 무겁다｡"
+  },
+  {
+   "id": 3405,
+   "key": "D0308.txt:1233",
+   "file": "D0308.txt",
+   "line": 1233,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「敵……俺が、メタトロンの敵？」",
+   "ko_candidate": "「적…… 내가､ 메타트론의 적?」"
+  }
+ ]
+}

@@ -1,0 +1,2 @@
+SYSTEM VERSION -------- "+#SYSTEM_version+"
+SCRIPT VERSION -------- "+#SCRIPT_VERSION+"

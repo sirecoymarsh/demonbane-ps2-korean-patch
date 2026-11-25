@@ -1,0 +1,137 @@
+{
+ "packet": "1508_05",
+ "scene": "1508",
+ "anchor": {
+  "hit": 28,
+  "total": 31,
+  "rate": 0.903
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "デモンベイン": "데몬베인",
+  "リベル・レギス": "리베르 레기스"
+ },
+ "items": [
+  {
+   "id": 45447,
+   "key": "D1508ru.txt:738",
+   "file": "D1508ru.txt",
+   "line": 738,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "――爆裂！",
+   "ko_candidate": "――폭렬!"
+  },
+  {
+   "id": 45448,
+   "key": "D1508ru.txt:744",
+   "file": "D1508ru.txt",
+   "line": 744,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "階段を蹴り、デモンベインは疾走した。",
+   "ko_candidate": "계단을 차고､ 데몬베인은 질주했다｡"
+  },
+  {
+   "id": 45449,
+   "key": "D1508ru.txt:749",
+   "file": "D1508ru.txt",
+   "line": 749,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "タイミングをぴったりと合わせて、リベル・レギスが階段を駆け下りる！",
+   "ko_candidate": "타이밍을 딱 맞춰､ 리베르 레기스가 계단을"
+  },
+  {
+   "id": 45450,
+   "key": "D1508ru.txt:756",
+   "file": "D1508ru.txt",
+   "line": 756,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "――駈ける。",
+   "ko_candidate": "달려 내려온다!"
+  },
+  {
+   "id": 45451,
+   "key": "D1508ru.txt:761",
+   "file": "D1508ru.txt",
+   "line": 761,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "――駈ける。",
+   "ko_candidate": "――달린다｡"
+  },
+  {
+   "id": 45452,
+   "key": "D1508ru.txt:768",
+   "file": "D1508ru.txt",
+   "line": 768,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「があああああああああッ！」",
+   "ko_candidate": "――달린다｡ 「가아아아아아아아아앗!」"
+  },
+  {
+   "id": 45453,
+   "key": "D1508ru.txt:771",
+   "file": "D1508ru.txt",
+   "line": 771,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "――剣を振るう。",
+   "ko_candidate": "――검을 휘두른다｡"
+  },
+  {
+   "id": 45454,
+   "key": "D1508ru.txt:779",
+   "file": "D1508ru.txt",
+   "line": 779,
+   "speaker": "マスターテリオン",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「はあああああああああッ！」",
+   "ko_candidate": "「하아아아아아아아아앗!」"
+  },
+  {
+   "id": 45455,
+   "key": "D1508ru.txt:782",
+   "file": "D1508ru.txt",
+   "line": 782,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "――剣を振るう。",
+   "ko_candidate": "――검을 휘두른다｡"
+  },
+  {
+   "id": 45456,
+   "key": "D1508ru.txt:793",
+   "file": "D1508ru.txt",
+   "line": 793,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "――二筋の剣閃が今、交差した――",
+   "ko_candidate": "――두 줄기 검광이 지금､ 교차했다――"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "packet": "0709_03",
+ "scene": "0709",
+ "anchor": {
+  "hit": 5,
+  "total": 14,
+  "rate": 0.357
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "九郎": "쿠로",
+  "お嬢様": "아가씨"
+ },
+ "items": [
+  {
+   "id": 9185,
+   "key": "D0709.txt:753",
+   "file": "D0709.txt",
+   "line": 753,
+   "speaker": "瑠璃 / ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ちょっとぉ！？」 「そんなっ！」",
+   "ko_candidate": "좋지 않잖아! 이 상황에서､ 게다가 바다 속이라니!"
+  },
+  {
+   "id": 9186,
+   "key": "D0709.txt:764",
+   "file": "D0709.txt",
+   "line": 764,
+   "speaker": "ちびアル / 九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「しかも……何かきな臭いぞ？」 「…………ッ！？」",
+   "ko_candidate": "3명을 안고 날기는 힘들 것 같지만… 어쩔 수 없나!"
+  },
+  {
+   "id": 9187,
+   "key": "D0709.txt:783",
+   "file": "D0709.txt",
+   "line": 783,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "エンジンルームから爆炎があがった。",
+   "ko_candidate": "「게다가… 뭔가 냄새가 이상한데?」 「……!?」"
+  },
+  {
+   "id": 9188,
+   "key": "D0709.txt:784",
+   "file": "D0709.txt",
+   "line": 784,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "黒い煙がモクモクと立ち昇っている。",
+   "ko_candidate": "말해주고 나서 깨달았다｡ 엔진룸으로 보이는 장소｡"
+  },
+  {
+   "id": 9189,
+   "key": "D0709.txt:790",
+   "file": "D0709.txt",
+   "line": 790,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「うわわわわわ！　マジでヤベぇ！」",
+   "ko_candidate": "뭔가 모락모락 검은 연기가 피어오르고 있잖아! 「우와와와와! 진짜 큰일이다!」"
+  },
+  {
+   "id": 9190,
+   "key": "D0709.txt:795",
+   "file": "D0709.txt",
+   "line": 795,
+   "speaker": "ちびアル",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「急げ、九郎！」",
+   "ko_candidate": "「서둘러､ 쿠로!」"
+  },
+  {
+   "id": 9191,
+   "key": "D0709.txt:800",
+   "file": "D0709.txt",
+   "line": 800,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「くっ……あああああ！」",
+   "ko_candidate": "「큿… 아아아아아!」 「꺄아아아아아!」"
+  },
+  {
+   "id": 9192,
+   "key": "D0709.txt:805",
+   "file": "D0709.txt",
+   "line": 805,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「きゃあああああ！」",
+   "ko_candidate": "「아가씨!」 순간밖에 없었다｡"
+  },
+  {
+   "id": 9193,
+   "key": "D0709.txt:811",
+   "file": "D0709.txt",
+   "line": 811,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「お嬢様っ！」 一瞬の間しかなかった。",
+   "ko_candidate": "폭발은 너무 가까워서､ 폭음이 들리지 않았다｡"
+  },
+  {
+   "id": 9194,
+   "key": "D0709.txt:829",
+   "file": "D0709.txt",
+   "line": 829,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "熱風に焼かれながら、身体が宙を舞う。",
+   "ko_candidate": "등을 밀어내는､ 폭풍의 열기가､ 묘하게 선명했다｡"
+  },
+  {
+   "id": 9195,
+   "key": "D0709.txt:832",
+   "file": "D0709.txt",
+   "line": 832,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "俺たちは海へと投げ出された……！",
+   "ko_candidate": "공중을 나는 몸｡ 우리들은 바다로 내던져졌다…!"
+  }
+ ]
+}

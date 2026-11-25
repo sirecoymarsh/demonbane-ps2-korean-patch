@@ -1,0 +1,165 @@
+{
+ "packet": "1101_11",
+ "scene": "1101",
+ "anchor": {
+  "hit": 26,
+  "total": 27,
+  "rate": 0.963
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "アル": "알",
+  "瑠璃": "루리",
+  "九郎": "쿠로",
+  "ウィンフィールド": "윈필드",
+  "お嬢様": "아가씨",
+  "大十字": "다이쥬지"
+ },
+ "items": [
+  {
+   "id": 22492,
+   "key": "D1101ru.txt:381",
+   "file": "D1101ru.txt",
+   "line": 381,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「アル様！」",
+   "ko_candidate": "「알 님!」"
+  },
+  {
+   "id": 22493,
+   "key": "D1101ru.txt:386",
+   "file": "D1101ru.txt",
+   "line": 386,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ふんっ！」",
+   "ko_candidate": "「흥!」"
+  },
+  {
+   "id": 22494,
+   "key": "D1101ru.txt:392",
+   "file": "D1101ru.txt",
+   "line": 392,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "穢らわしいものを投げ棄てるように、アルは胸倉を離した。",
+   "ko_candidate": "더러운 것을 내던지듯이 알은 옷깃을 놓았다｡"
+  },
+  {
+   "id": 22495,
+   "key": "D1101ru.txt:394",
+   "file": "D1101ru.txt",
+   "line": 394,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "背中を向けて、歩き出す。",
+   "ko_candidate": "등을 돌려 걸어간다｡"
+  },
+  {
+   "id": 22496,
+   "key": "D1101ru.txt:396",
+   "file": "D1101ru.txt",
+   "line": 396,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "一度だけ肩越しに瑠璃を振り返り、叫んだ。",
+   "ko_candidate": "한 번만 어깨 너머로 루리를 돌아보며 외쳤다｡"
+  },
+  {
+   "id": 22497,
+   "key": "D1101ru.txt:401",
+   "file": "D1101ru.txt",
+   "line": 401,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「もし、九郎に万が一の事があったら……決して汝を赦したりはせぬ！」 「その黴が生えた脳に、しっかりと刻み込んでおく事だな！」",
+   "ko_candidate": "「만약 쿠로에게 만에 하나라도 무슨 일이 생긴다면…… 절대로 너를 용서하지 않을 것이다! 그 곰팡이 슨 뇌에 똑똑히 새겨두도록 해라!」"
+  },
+  {
+   "id": 22498,
+   "key": "D1101ru.txt:408",
+   "file": "D1101ru.txt",
+   "line": 408,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "そのまま瑠璃には一瞥もくれずに、コクピットを出ていった。",
+   "ko_candidate": "그대로 루리에게는 한 번의 눈길도 주지 않고 콕핏을 나갔다｡"
+  },
+  {
+   "id": 22499,
+   "key": "D1101ru.txt:410",
+   "file": "D1101ru.txt",
+   "line": 410,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "コクピットには瑠璃と、ウィンフィールドだけが残される。",
+   "ko_candidate": "콕핏에는 루리와 윈필드만이 남겨진다｡"
+  },
+  {
+   "id": 22500,
+   "key": "D1101ru.txt:415",
+   "file": "D1101ru.txt",
+   "line": 415,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「瑠璃お嬢様……」",
+   "ko_candidate": "「루리 아가씨……」"
+  },
+  {
+   "id": 22501,
+   "key": "D1101ru.txt:419",
+   "file": "D1101ru.txt",
+   "line": 419,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "気遣うようなウィンフィールドの声も届かない。",
+   "ko_candidate": "걱정하는 듯한 윈필드의 목소리도 들리지 않는다｡"
+  },
+  {
+   "id": 22502,
+   "key": "D1101ru.txt:420",
+   "file": "D1101ru.txt",
+   "line": 420,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "ただ呆然と、呪われたように、その事実を繰り返し、呟く。",
+   "ko_candidate": "그저 멍하니､ 저주받은 듯이 그 사실을 되풀이하며 중얼거린다｡"
+  },
+  {
+   "id": 22503,
+   "key": "D1101ru.txt:425",
+   "file": "D1101ru.txt",
+   "line": 425,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「わたくしのせいで……大十字さんが……」",
+   "ko_candidate": "「제 탓으로…… 다이쥬지 씨가……」"
+  }
+ ]
+}

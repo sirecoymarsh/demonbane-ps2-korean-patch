@@ -1,0 +1,38 @@
+{
+ "packet": "0107_01",
+ "scene": "0107",
+ "anchor": {
+  "hit": 2,
+  "total": 2,
+  "rate": 1.0
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {},
+ "items": [
+  {
+   "id": 819,
+   "key": "D0107.txt:291",
+   "file": "D0107.txt",
+   "line": 291,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "まるで巨大で大重量の何かが、こっちに向かって歩いているような――",
+   "ko_candidate": "마치 거대하고 무거운 무언가가 이쪽을 향해 걸어오는 것 같아―"
+  },
+  {
+   "id": 820,
+   "key": "D0107.txt:299",
+   "file": "D0107.txt",
+   "line": 299,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「……本当だ。何かあったのか？」",
+   "ko_candidate": "「…정말이네｡ 무슨 일이 있었나?」"
+  }
+ ]
+}

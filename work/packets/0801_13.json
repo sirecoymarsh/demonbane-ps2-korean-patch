@@ -1,0 +1,125 @@
+{
+ "packet": "0801_13",
+ "scene": "0801",
+ "anchor": {
+  "hit": 49,
+  "total": 61,
+  "rate": 0.803
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "瑠璃": "루리",
+  "デモンベイン": "데몬베인"
+ },
+ "items": [
+  {
+   "id": 12264,
+   "key": "D0801ru.txt:776",
+   "file": "D0801ru.txt",
+   "line": 776,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "汝、魔を断つ剣となれ。",
+   "ko_candidate": "너､ 마를 베는 검이 되어라｡"
+  },
+  {
+   "id": 12265,
+   "key": "D0801ru.txt:778",
+   "file": "D0801ru.txt",
+   "line": 778,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "祖父の死の真相を、瑠璃は知らない。",
+   "ko_candidate": "할아버지의 죽음의 진상을､ 루리는 모른다｡"
+  },
+  {
+   "id": 12266,
+   "key": "D0801ru.txt:779",
+   "file": "D0801ru.txt",
+   "line": 779,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "だが知らずとも、彼の遺志は此処に在る。",
+   "ko_candidate": "하지만 몰라도､ 그의 유지는 여기에 있다｡"
+  },
+  {
+   "id": 12267,
+   "key": "D0801ru.txt:780",
+   "file": "D0801ru.txt",
+   "line": 780,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "引き継いだ正義が此処にある。",
+   "ko_candidate": "이어받은 정의가 여기에 있다｡"
+  },
+  {
+   "id": 12268,
+   "key": "D0801ru.txt:783",
+   "file": "D0801ru.txt",
+   "line": 783,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "デモンベイン。",
+   "ko_candidate": "데몬베인｡"
+  },
+  {
+   "id": 12269,
+   "key": "D0801ru.txt:785",
+   "file": "D0801ru.txt",
+   "line": 785,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "祖父が託した破邪の剣。",
+   "ko_candidate": "할아버지가 맡긴 파사의 검｡"
+  },
+  {
+   "id": 12270,
+   "key": "D0801ru.txt:786",
+   "file": "D0801ru.txt",
+   "line": 786,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "その力を振るう正義を求めて、彼女は嵐の中を駈ける。",
+   "ko_candidate": "그 힘을 휘두르는 정의를 찾아､ 그녀는 폭풍 속을 달린다｡"
+  },
+  {
+   "id": 12271,
+   "key": "D0801ru.txt:787",
+   "file": "D0801ru.txt",
+   "line": 787,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "そして――",
+   "ko_candidate": "그리고――"
+  },
+  {
+   "id": 12272,
+   "key": "D0801ru.txt:801",
+   "file": "D0801ru.txt",
+   "line": 801,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "巡り逢う。",
+   "ko_candidate": "만난다｡"
+  }
+ ]
+}

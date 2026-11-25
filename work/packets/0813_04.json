@@ -1,0 +1,136 @@
+{
+ "packet": "0813_04",
+ "scene": "0813",
+ "anchor": {
+  "hit": 11,
+  "total": 12,
+  "rate": 0.917
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "デモンベイン": "데몬베인"
+ },
+ "items": [
+  {
+   "id": 16631,
+   "key": "D0813ru.txt:481",
+   "file": "D0813ru.txt",
+   "line": 481,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "そいつが動き出したとき――世界はどう変わってしまうのか。",
+   "ko_candidate": "그것이 움직이기 시작할 때―― 세상은 어떻게 변해버릴까｡"
+  },
+  {
+   "id": 16632,
+   "key": "D0813ru.txt:484",
+   "file": "D0813ru.txt",
+   "line": 484,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「――チクショウ」",
+   "ko_candidate": "「――젠장」"
+  },
+  {
+   "id": 16633,
+   "key": "D0813ru.txt:487",
+   "file": "D0813ru.txt",
+   "line": 487,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "吐き捨てて、両手の中に収まった重さを確かめる。",
+   "ko_candidate": "내뱉고는 양손에 쥐어진 무게를 확인한다｡"
+  },
+  {
+   "id": 16634,
+   "key": "D0813ru.txt:488",
+   "file": "D0813ru.txt",
+   "line": 488,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "戦いが終わって――気付けば、それは俺の手にしかと握られていた。",
+   "ko_candidate": "싸움이 끝나고―― 정신을 차려보니 그것은 내 손에 꽉 쥐어져 있었다｡"
+  },
+  {
+   "id": 16635,
+   "key": "D0813ru.txt:490",
+   "file": "D0813ru.txt",
+   "line": 490,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "新しい力を象徴するように。",
+   "ko_candidate": "새로운 힘을 상징하듯이｡"
+  },
+  {
+   "id": 16636,
+   "key": "D0813ru.txt:491",
+   "file": "D0813ru.txt",
+   "line": 491,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "何ものかより託された力を主張するように。",
+   "ko_candidate": "무언가로부터 위탁받은 힘을 주장하듯이｡"
+  },
+  {
+   "id": 16637,
+   "key": "D0813ru.txt:493",
+   "file": "D0813ru.txt",
+   "line": 493,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "右手には、光る黒と赤の、鈍く兇暴な輝き。",
+   "ko_candidate": "오른손에는 빛나는 검은색과 붉은색의 둔하고 흉포한 광채｡"
+  },
+  {
+   "id": 16638,
+   "key": "D0813ru.txt:494",
+   "file": "D0813ru.txt",
+   "line": 494,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "左手には、光る銀の、眩く清廉な輝き。",
+   "ko_candidate": "왼손에는 빛나는 은색의 눈부시고 청렴한 광채｡"
+  },
+  {
+   "id": 16639,
+   "key": "D0813ru.txt:496",
+   "file": "D0813ru.txt",
+   "line": 496,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "それはデモンベインに与えられたものと、大きさ以外、何も変わらない――",
+   "ko_candidate": "그것은 데몬베인에게 주어진 것과 크기 외에는 아무것도 다르지 않은――"
+  },
+  {
+   "id": 16640,
+   "key": "D0813ru.txt:496",
+   "file": "D0813ru.txt",
+   "line": 496,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "二挺魔銃の輝き。",
+   "ko_candidate": "두 자루 마총의 광채｡"
+  }
+ ]
+}

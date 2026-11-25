@@ -1,0 +1,77 @@
+{
+ "packet": "0412_03",
+ "scene": "0412",
+ "anchor": {
+  "hit": 15,
+  "total": 49,
+  "rate": 0.306
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "大十字": "다이쥬지",
+  "デモンベイン": "데몬베인"
+ },
+ "items": [
+  {
+   "id": 5626,
+   "key": "D0412.txt:1195",
+   "file": "D0412.txt",
+   "line": 1195,
+   "speaker": null,
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「大十字さん！ 大十字さん、落ち着きなさい！ こんな事は許されなくてよ！」",
+   "ko_candidate": "당황한 루리는 데몬베인과의 통신에 외친다｡ 「다이쥬지 씨! 다이쥬지 씨､ 진정하세요! 이런 일은 용납될 수 없어요!」"
+  },
+  {
+   "id": 5627,
+   "key": "D0412.txt:1207",
+   "file": "D0412.txt",
+   "line": 1207,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "応答は無い。",
+   "ko_candidate": "응답은 없다｡"
+  },
+  {
+   "id": 5628,
+   "key": "D0412.txt:1222",
+   "file": "D0412.txt",
+   "line": 1222,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "デモンベインが再び拳を振り上げる。",
+   "ko_candidate": "데몬베인이 다시 주먹을 치켜든다｡"
+  },
+  {
+   "id": 5629,
+   "key": "D0412.txt:1223",
+   "file": "D0412.txt",
+   "line": 1223,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "振り下ろす、その先は……",
+   "ko_candidate": "내리치는 그 끝은……"
+  },
+  {
+   "id": 5630,
+   "key": "D0412.txt:1230",
+   "file": "D0412.txt",
+   "line": 1230,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「まさか……!? ――止めなさいっ！」",
+   "ko_candidate": "「설마……!? ――멈추세요!!!!」"
+  }
+ ]
+}

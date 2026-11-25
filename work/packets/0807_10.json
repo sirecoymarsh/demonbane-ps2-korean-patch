@@ -1,0 +1,233 @@
+{
+ "packet": "0807_10",
+ "scene": "0807",
+ "anchor": {
+  "hit": 21,
+  "total": 33,
+  "rate": 0.636
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "クラウディウス": "클라우디우스",
+  "アーカムシティ": "아컴시티"
+ },
+ "items": [
+  {
+   "id": 13952,
+   "key": "D0807ru.txt:405",
+   "file": "D0807ru.txt",
+   "line": 405,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "術を編むクラウディウスよりも速く、『暴君』が動く。",
+   "ko_candidate": "주문을 짜는 클라우디우스보다 더 빠르게､ 『폭군』이 움직인다｡"
+  },
+  {
+   "id": 13953,
+   "key": "D0807ru.txt:406",
+   "file": "D0807ru.txt",
+   "line": 406,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "両腕を拘束していたレザーが、いとも容易く破れて、呪符が燃え上がる。",
+   "ko_candidate": "양팔을 구속하고 있던 가죽이 너무나도 쉽게 찢어지고､ 주부가 불타오른다｡"
+  },
+  {
+   "id": 13954,
+   "key": "D0807ru.txt:408",
+   "file": "D0807ru.txt",
+   "line": 408,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そして、解放された両手に握られていたものは――",
+   "ko_candidate": "그리고 해방된 양손에 쥐고 있던 것은――"
+  },
+  {
+   "id": 13955,
+   "key": "D0807ru.txt:413",
+   "file": "D0807ru.txt",
+   "line": 413,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "右手。",
+   "ko_candidate": "오른손｡"
+  },
+  {
+   "id": 13956,
+   "key": "D0807ru.txt:414",
+   "file": "D0807ru.txt",
+   "line": 414,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "重厚なる黒。",
+   "ko_candidate": "중후한 검정｡"
+  },
+  {
+   "id": 13957,
+   "key": "D0807ru.txt:414",
+   "file": "D0807ru.txt",
+   "line": 414,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "苛烈なる赤。",
+   "ko_candidate": "가혹한 빨강｡"
+  },
+  {
+   "id": 13958,
+   "key": "D0807ru.txt:414",
+   "file": "D0807ru.txt",
+   "line": 414,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "装飾を施されながらも無骨。",
+   "ko_candidate": "장식이 되어 있으면서도 투박함｡"
+  },
+  {
+   "id": 13959,
+   "key": "D0807ru.txt:414",
+   "file": "D0807ru.txt",
+   "line": 414,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "何より凶暴。",
+   "ko_candidate": "무엇보다 포악함｡"
+  },
+  {
+   "id": 13960,
+   "key": "D0807ru.txt:416",
+   "file": "D0807ru.txt",
+   "line": 416,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "前面下方に設置された弾倉に 闘志を装填する破壊の象徴。",
+   "ko_candidate": "전면 하단에 설치된 탄창에 투지를 장전하는 파괴의 상징｡"
+  },
+  {
+   "id": 13961,
+   "key": "D0807ru.txt:418",
+   "file": "D0807ru.txt",
+   "line": 418,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "自動拳銃。",
+   "ko_candidate": "왼손｡"
+  },
+  {
+   "id": 13962,
+   "key": "D0807ru.txt:423",
+   "file": "D0807ru.txt",
+   "line": 423,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "左手。 精錬された銀。",
+   "ko_candidate": "정련된 은｡"
+  },
+  {
+   "id": 13963,
+   "key": "D0807ru.txt:424",
+   "file": "D0807ru.txt",
+   "line": 424,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "耽美なる銀。",
+   "ko_candidate": "탐미적인 은｡"
+  },
+  {
+   "id": 13964,
+   "key": "D0807ru.txt:424",
+   "file": "D0807ru.txt",
+   "line": 424,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "研ぎ澄まされた刃の如く美麗。",
+   "ko_candidate": "갈고 닦은 칼날처럼 아름다움｡"
+  },
+  {
+   "id": 13965,
+   "key": "D0807ru.txt:424",
+   "file": "D0807ru.txt",
+   "line": 424,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "何より冷酷。",
+   "ko_candidate": "무엇보다 냉혹함｡"
+  },
+  {
+   "id": 13966,
+   "key": "D0807ru.txt:426",
+   "file": "D0807ru.txt",
+   "line": 426,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "６ある弾倉の最下部より死を吐き出す殺意の象徴。 回転式拳銃。",
+   "ko_candidate": "6개의 탄창 최하단에서 죽음을 토해내는 살의의 상징｡"
+  },
+  {
+   "id": 13967,
+   "key": "D0807ru.txt:436",
+   "file": "D0807ru.txt",
+   "line": 436,
+   "speaker": "クラウディウス",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「なぁぁぁ――――!?」",
+   "ko_candidate": "「뭐어어어――――!?」"
+  },
+  {
+   "id": 13968,
+   "key": "D0807ru.txt:440",
+   "file": "D0807ru.txt",
+   "line": 440,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "振り向きもせず、無論、照準を合わせようともせず、ただ背中越しに、二挺の拳銃を２人に向けた。",
+   "ko_candidate": "뒤돌아보지도 않고､ 물론 조준도 하지 않은 채､ 그저 등 뒤로 두 자루의 권총을 두 사람을 향해 겨눴다｡"
+  },
+  {
+   "id": 13969,
+   "key": "D0807ru.txt:452",
+   "file": "D0807ru.txt",
+   "line": 452,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "アーカムシティの空に、乾いた２発の銃声が、鳴り響く。",
+   "ko_candidate": "아캄시티의 하늘에 메마른 두 발의 총성이 울려 퍼진다｡"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "packet": "0754_01",
+ "scene": "0754",
+ "anchor": {
+  "hit": null,
+  "total": null,
+  "rate": null
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "クトゥグア": "크투가"
+ },
+ "items": [
+  {
+   "id": 11564,
+   "key": "D0754.txt:292",
+   "file": "D0754.txt",
+   "line": 292,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「白き王よ。運命に抗う為 ――汝は妾を必要とするだろう」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11565,
+   "key": "D0754.txt:299",
+   "file": "D0754.txt",
+   "line": 299,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「しかと瞳に灼きつけよ。 混沌の闇を祓う暴虐の光を――」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11566,
+   "key": "D0754.txt:304",
+   "file": "D0754.txt",
+   "line": 304,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「フングルイ　ムグルウナフ クトゥグア　フォマルハウト ンガア・グア　ナフルタグン――」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11567,
+   "key": "D0754.txt:316",
+   "file": "D0754.txt",
+   "line": 316,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "闇が消え、フルートの音が止んだ。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11568,
+   "key": "D0754.txt:317",
+   "file": "D0754.txt",
+   "line": 317,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "世界は凄絶な琥珀色の輝きに満たされる。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11569,
+   "key": "D0754.txt:330",
+   "file": "D0754.txt",
+   "line": 330,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "大音声が周囲を蹂躙した。それは大爆音であり激怒の雄叫びであり恐怖の絶叫でもあった。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11570,
+   "key": "D0754.txt:332",
+   "file": "D0754.txt",
+   "line": 332,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "何千もの光球が顕現する。光球は大地を森を空間を灼き、圧倒的な熱量をもって世界を浄化する。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11571,
+   "key": "D0754.txt:336",
+   "file": "D0754.txt",
+   "line": 336,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "呪文の最後の一説が高らかと詠み上げられる。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11572,
+   "key": "D0754.txt:355",
+   "file": "D0754.txt",
+   "line": 355,
+   "speaker": "クトゥグア",
+   "kind": "say",
+   "status": "MISSING",
+   "work": true,
+   "jp": "「イア！　クトゥグア！」",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11573,
+   "key": "D0754.txt:387",
+   "file": "D0754.txt",
+   "line": 387,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "荒ぶる神の力が闇黒の化身を舐め尽くす。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11574,
+   "key": "D0754.txt:388",
+   "file": "D0754.txt",
+   "line": 388,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "聲の無い断末魔が冥い森に轟き渡った。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11575,
+   "key": "D0754.txt:399",
+   "file": "D0754.txt",
+   "line": 399,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "身を捩りもがき苦しみ、あるいは哄笑しながら、闇黒の化身は爆光によって掻き消されていく。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11576,
+   "key": "D0754.txt:402",
+   "file": "D0754.txt",
+   "line": 402,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "その光景は一種の決定的な傷痕となって、俺の魂の奥底に刻み込まれる。烙印のように。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11577,
+   "key": "D0754.txt:406",
+   "file": "D0754.txt",
+   "line": 406,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "――閃光。",
+   "ko_candidate": ""
+  }
+ ]
+}

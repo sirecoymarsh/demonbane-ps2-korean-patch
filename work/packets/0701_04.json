@@ -1,0 +1,134 @@
+{
+ "packet": "0701_04",
+ "scene": "0701",
+ "anchor": {
+  "hit": 9,
+  "total": 13,
+  "rate": 0.692
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {},
+ "items": [
+  {
+   "id": 8263,
+   "key": "D0701_ps2.txt:1140",
+   "file": "D0701_ps2.txt",
+   "line": 1140,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「だからそれは汝の妄想だ」",
+   "ko_candidate": "「그러니까 그건 네 망상이다」"
+  },
+  {
+   "id": 8264,
+   "key": "D0701_ps2.txt:1146",
+   "file": "D0701_ps2.txt",
+   "line": 1146,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「いや、今のはどう考えても決定打だ」",
+   "ko_candidate": "「아니､ 방금 건 아무리 봐도 결정타야」"
+  },
+  {
+   "id": 8265,
+   "key": "D0701_ps2.txt:1155",
+   "file": "D0701_ps2.txt",
+   "line": 1155,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……わざわざ海まで来ておいて、磯辺焼もやたら不味いラーメンも無くして何の意味があろうか！？」 「ええい！　こんな時まで怪異の相手をしていられるか！」",
+   "ko_candidate": "「……일부러 바다까지 와놓고､ 이소베야키도 맛없는 라멘도 없이 무슨 의미가 있겠는가!? 에잇! 이런 때까지 괴이를 상대하고 있을 수 있나!」"
+  },
+  {
+   "id": 8266,
+   "key": "D0701_ps2.txt:1168",
+   "file": "D0701_ps2.txt",
+   "line": 1168,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「逆ギレかよっ！？」",
+   "ko_candidate": "「역으로 화내는 거야!?」"
+  },
+  {
+   "id": 8267,
+   "key": "D0701_ps2.txt:1177",
+   "file": "D0701_ps2.txt",
+   "line": 1177,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「そうねえ…… じゃあとりあえず、みんなでご飯 を食べに行こーかー。おー」",
+   "ko_candidate": "「그렇네……그럼､ 일단､ 다 같이 밥 먹으러 가볼까-｡ 오-」"
+  },
+  {
+   "id": 8268,
+   "key": "D0701_ps2.txt:1184",
+   "file": "D0701_ps2.txt",
+   "line": 1184,
+   "speaker": "ジョージ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「わーいっ！」",
+   "ko_candidate": "「와-이!」"
+  },
+  {
+   "id": 8269,
+   "key": "D0701_ps2.txt:1189",
+   "file": "D0701_ps2.txt",
+   "line": 1189,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「うおぉぉ!?　ちゃっかり仕切っているし！ だから遊びじゃなくて仕事だよ、俺！」",
+   "ko_candidate": "「우오오!? 슬그머니 주도권을 잡고 있잖아! 아니､ 놀이가 아니라 일이라고､ 나!」"
+  },
+  {
+   "id": 8270,
+   "key": "D0701_ps2.txt:1196",
+   "file": "D0701_ps2.txt",
+   "line": 1196,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ドンマイ」",
+   "ko_candidate": "「돈마이」"
+  },
+  {
+   "id": 8271,
+   "key": "D0701_ps2.txt:1202",
+   "file": "D0701_ps2.txt",
+   "line": 1202,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「うわーい。 いざ自分がやられるとすっげームカつく、それ」",
+   "ko_candidate": "「우와-｡ 정작 자기가 당하면 엄청 열 받네､ 그거」"
+  },
+  {
+   "id": 8272,
+   "key": "D0701_ps2.txt:1215",
+   "file": "D0701_ps2.txt",
+   "line": 1215,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "――結局、周囲に流される主体性のない俺だった。",
+   "ko_candidate": "――결국､ 주위에 휩쓸리는 주체성 없는 나였다｡"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "packet": "1414_07",
+ "scene": "1414",
+ "anchor": {
+  "hit": 34,
+  "total": 39,
+  "rate": 0.872
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "ウェスパシアヌス": "베스파시아누스",
+  "アル": "알",
+  "ナコト写本": "나코트 사본"
+ },
+ "items": [
+  {
+   "id": 40528,
+   "key": "D1414le.txt:652",
+   "file": "D1414le.txt",
+   "line": 652,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "ウェスパシアヌスの躰で、七色の光が爆裂した。",
+   "ko_candidate": "베스파시아누스의 몸에서 무지개빛 빛이 폭발했다｡"
+  },
+  {
+   "id": 40529,
+   "key": "D1414le.txt:653",
+   "file": "D1414le.txt",
+   "line": 653,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "そして……",
+   "ko_candidate": "그리고……"
+  },
+  {
+   "id": 40530,
+   "key": "D1414le.txt:660",
+   "file": "D1414le.txt",
+   "line": 660,
+   "speaker": "ウェスパシアヌス",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「あ……あ……ああ……」",
+   "ko_candidate": "「아…… 아…… 아아……」"
+  },
+  {
+   "id": 40531,
+   "key": "D1414le.txt:664",
+   "file": "D1414le.txt",
+   "line": 664,
+   "speaker": "エセルドレーダ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「ですが――」",
+   "ko_candidate": "「하지만――」"
+  },
+  {
+   "id": 40532,
+   "key": "D1414le.txt:667",
+   "file": "D1414le.txt",
+   "line": 667,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "光が散った世界に、紅い鮮血と……黒い髪が、踊る。",
+   "ko_candidate": "빛이 흩어진 세계에 붉은 선혈과…… 검은 머리카락이 춤춘다｡"
+  },
+  {
+   "id": 40533,
+   "key": "D1414le.txt:671",
+   "file": "D1414le.txt",
+   "line": 671,
+   "speaker": "エセルドレーダ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「貴方の役目は此処まで。そろそろ退場の頃合です。 ウェスパシアヌス導師」",
+   "ko_candidate": "「당신의 역할은 여기까지｡ 이제 퇴장할 때입니다｡ 베스파시아누스 도사」"
+  },
+  {
+   "id": 40534,
+   "key": "D1414le.txt:676",
+   "file": "D1414le.txt",
+   "line": 676,
+   "speaker": "ウェスパシアヌス",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「お前は……何故……ッ？」",
+   "ko_candidate": "「네놈은…… 왜……!」"
+  },
+  {
+   "id": 40535,
+   "key": "D1414le.txt:679",
+   "file": "D1414le.txt",
+   "line": 679,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "華奢で繊細な腕が、ウェスパシアヌスの胸を易々と貫いていた。",
+   "ko_candidate": "가냘프고 섬세한 팔이 베스파시아누스의 가슴을 쉽게 꿰뚫고 있었다｡"
+  },
+  {
+   "id": 40536,
+   "key": "D1414le.txt:681",
+   "file": "D1414le.txt",
+   "line": 681,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "黒い髪とは対照的な白い頬に、飛び散る鮮血が降り注ぐ。",
+   "ko_candidate": "검은 머리카락과는 대조적인 하얀 뺨에 튀어 오른 선혈이 쏟아진다｡"
+  },
+  {
+   "id": 40537,
+   "key": "D1414le.txt:683",
+   "file": "D1414le.txt",
+   "line": 683,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "それを全く疎んじる様子もなく、黒い瞳が冷たくウェスパシアヌスを見据えている。",
+   "ko_candidate": "그것을 전혀 꺼리는 기색도 없이 검은 눈동자가 차갑게 베스파시아누스를 응시하고 있다｡"
+  },
+  {
+   "id": 40538,
+   "key": "D1414le.txt:685",
+   "file": "D1414le.txt",
+   "line": 685,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "儚くも深く重い存在感を纏う、黒い少女。",
+   "ko_candidate": "덧없으면서도 깊고 무거운 존재감을 두른 검은 소녀｡"
+  },
+  {
+   "id": 40539,
+   "key": "D1414le.txt:687",
+   "file": "D1414le.txt",
+   "line": 687,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "俺たちはこの少女を知っている。",
+   "ko_candidate": "우리는 이 소녀를 알고 있다｡"
+  },
+  {
+   "id": 40540,
+   "key": "D1414le.txt:688",
+   "file": "D1414le.txt",
+   "line": 688,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "知らないはずが、なかった。",
+   "ko_candidate": "모를 리가 없었다｡"
+  },
+  {
+   "id": 40541,
+   "key": "D1414le.txt:690",
+   "file": "D1414le.txt",
+   "line": 690,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "驚愕の色を隠せぬままに、アルが少女の銘を叫ぶ。",
+   "ko_candidate": "경악의 빛을 감추지 못한 채 알이 소녀의 이름을 외친다｡"
+  },
+  {
+   "id": 40542,
+   "key": "D1414le.txt:695",
+   "file": "D1414le.txt",
+   "line": 695,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「――ナコト写本！」",
+   "ko_candidate": "「――나코트 사본!」"
+  }
+ ]
+}

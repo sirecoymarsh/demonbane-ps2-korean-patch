@@ -1,0 +1,223 @@
+{
+ "packet": "1002_01",
+ "scene": "1002",
+ "anchor": {
+  "hit": 11,
+  "total": 15,
+  "rate": 0.733
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "九郎": "쿠로",
+  "サンダルフォン": "산달폰",
+  "メタトロン": "메타트론",
+  "デモンベイン": "데몬베인"
+ },
+ "items": [
+  {
+   "id": 20849,
+   "key": "D1002al.txt:352",
+   "file": "D1002al.txt",
+   "line": 352,
+   "speaker": "サンダルフォン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「糞……面倒を起こしやがる」",
+   "ko_candidate": "「도망치는군､ 겁쟁이 자식!」 뭐라고 해도 좋다｡"
+  },
+  {
+   "id": 20850,
+   "key": "D1002al.txt:357",
+   "file": "D1002al.txt",
+   "line": 357,
+   "speaker": "メタトロン / サンダルフォン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……九郎！」 「何処へ行くつもりだ」",
+   "ko_candidate": "어쨌든､ 바보처럼 정면에서 싸우는 것만은 절대 안 된다!"
+  },
+  {
+   "id": 20851,
+   "key": "D1002al.txt:378",
+   "file": "D1002al.txt",
+   "line": 378,
+   "speaker": "メタトロン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「退け、サンダルフォン！ お前もこんなことをしている場合ではないはずだ！」",
+   "ko_candidate": "뒤에서 오는 금빛 빔포를 뒤를 보지 않은 채 직감으로 피한다｡ 옆으로 스쳐 지나가는 빔｡"
+  },
+  {
+   "id": 20853,
+   "key": "D1002al.txt:390",
+   "file": "D1002al.txt",
+   "line": 390,
+   "speaker": "サンダルフォン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「まだ分かってないのか、 メタトロン」",
+   "ko_candidate": "칫……도망칠 수 있을까!? 「젠장……귀찮은 일을 벌이는군」"
+  },
+  {
+   "id": 20856,
+   "key": "D1002al.txt:409",
+   "file": "D1002al.txt",
+   "line": 409,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "メタトロンの視界からサンダルフォンの右脚が消えた。反射的にガードする。重い蹴りがメタトロンの全身を痺れさせた。",
+   "ko_candidate": "드디어 제대로 메타트론과 싸울 수 있다는 타이밍에､ 뜻밖의 사태가 벌어져 버렸다｡ 서로 전투를 중단하고､ 사태의 추이를 멍하니 지켜보고 있었다｡"
+  },
+  {
+   "id": 20857,
+   "key": "D1002al.txt:431",
+   "file": "D1002al.txt",
+   "line": 431,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "それだけでは終わらない。矢継早に襲う、サンダルフォンの拳。蹴り。",
+   "ko_candidate": "「……쿠로!」 안티 크로스의 데우스 마키나로부터 공격을 받는 데몬베인을"
+  },
+  {
+   "id": 20859,
+   "key": "D1002al.txt:434",
+   "file": "D1002al.txt",
+   "line": 434,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "たじろぎ、距離を取ろうとするメタトロン。",
+   "ko_candidate": "하지만､ 그 앞길을 산달폰이 가로막았다｡ 「어디로 가려는 거지」"
+  },
+  {
+   "id": 20860,
+   "key": "D1002al.txt:435",
+   "file": "D1002al.txt",
+   "line": 435,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "しかしそのため生じた一瞬の隙を、サンダルフォンは見逃さない。",
+   "ko_candidate": "「비켜､ 산달폰! 너도 이런 짓을 하고 있을 때가 아닐 텐데!」 「아직도 모르겠나､ 메타트론」"
+  },
+  {
+   "id": 20861,
+   "key": "D1002al.txt:458",
+   "file": "D1002al.txt",
+   "line": 458,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "一本正拳がメタトロンの咽喉に突き刺さる。",
+   "ko_candidate": "메타트론의 시야에서 산달폰의 오른쪽 다리가 사라졌다｡ 반사적으로 왼팔을 들어 올려 가드 자세를 취한다｡"
+  },
+  {
+   "id": 20862,
+   "key": "D1002al.txt:459",
+   "file": "D1002al.txt",
+   "line": 459,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "白い装甲がひび割れ、火花を散らした。",
+   "ko_candidate": "가드에 들어간 오른팔을 통해､ 산달폰의 무거운 발차기가 온몸을 저리게 한다｡"
+  },
+  {
+   "id": 20864,
+   "key": "D1002al.txt:462",
+   "file": "D1002al.txt",
+   "line": 462,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "激しく咳き込みながら、それでもメタトロンはサンダルフォンを蹴り返す。",
+   "ko_candidate": "하지만 그로 인해 보인 순간의 틈을 산달폰은 놓치지 않는다｡ 한 방의 정권이 메타트론의 목구멍에 꽂힌다｡"
+  },
+  {
+   "id": 20866,
+   "key": "D1002al.txt:479",
+   "file": "D1002al.txt",
+   "line": 479,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "退くサンダルフォン。",
+   "ko_candidate": "그래도 산달폰을 발로 차 돌려보냈다｡"
+  },
+  {
+   "id": 20867,
+   "key": "D1002al.txt:480",
+   "file": "D1002al.txt",
+   "line": 480,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "ようやく両者の間に距離が開く。",
+   "ko_candidate": "산달폰이 물러나고､ 드디어 양자 사이에 거리가 벌어진다｡"
+  },
+  {
+   "id": 20868,
+   "key": "D1002al.txt:490",
+   "file": "D1002al.txt",
+   "line": 490,
+   "speaker": "サンダルフォン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「己の目的はお前を殺すことだ。 それ以外のことなど知ったことか。 貴様との血闘以上に優先すべきことなど、己には無い！」",
+   "ko_candidate": "목구멍을 누르며 괴로워하는 메타트론에게､ 산달폰이 선언했다｡ 「내 목적은 너를 죽이는 것이다｡ 그 외의 일 따위는 상관없다｡ 너와의 혈투 이상으로 우선해야 할 일 따위､ 나에겐 없어!」"
+  },
+  {
+   "id": 20869,
+   "key": "D1002al.txt:504",
+   "file": "D1002al.txt",
+   "line": 504,
+   "speaker": "メタトロン",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「くっ……」",
+   "ko_candidate": "「크윽……」"
+  },
+  {
+   "id": 20870,
+   "key": "D1002al.txt:517",
+   "file": "D1002al.txt",
+   "line": 517,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "左右の光刃を構えながら、メタトロンは焦燥に駆られていた。",
+   "ko_candidate": "좌우의 빛의 칼날을 십자로 구사하면서､ 메타트론은 초조해하고 있었다｡"
+  },
+  {
+   "id": 20871,
+   "key": "D1002al.txt:522",
+   "file": "D1002al.txt",
+   "line": 522,
+   "speaker": "メタトロン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "（このままでは デモンベインが……！）",
+   "ko_candidate": "（이대로라면 데몬베인이……!）"
+  }
+ ]
+}

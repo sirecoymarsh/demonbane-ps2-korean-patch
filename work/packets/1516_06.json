@@ -1,0 +1,38 @@
+{
+ "packet": "1516_06",
+ "scene": "1516",
+ "anchor": {
+  "hit": 20,
+  "total": 23,
+  "rate": 0.87
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 48034,
+   "key": "D1516le.txt:487",
+   "file": "D1516le.txt",
+   "line": 487,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "胎児の眸が、ゆっくりと開かれた。",
+   "ko_candidate": "썩어가는 어둠｡ 불타오르는 어둠｡"
+  },
+  {
+   "id": 48036,
+   "key": "D1516le.txt:489",
+   "file": "D1516le.txt",
+   "line": 489,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "異形の闇を閉じ込めた、魔人の眸を。",
+   "ko_candidate": "그리고―― ――6500만 년 전｡ 지구｡"
+  }
+ ]
+}

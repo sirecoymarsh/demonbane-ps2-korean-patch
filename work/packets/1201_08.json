@@ -1,0 +1,76 @@
+{
+ "packet": "1201_08",
+ "scene": "1201",
+ "anchor": {
+  "hit": 41,
+  "total": 41,
+  "rate": 1.0
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "九郎": "쿠로"
+ },
+ "items": [
+  {
+   "id": 26702,
+   "key": "D1201ru.txt:517",
+   "file": "D1201ru.txt",
+   "line": 517,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "汝の獲物もまた、剣を持つ狩人であることを知れ。",
+   "ko_candidate": "너의 사냥감 또한 검을 든 사냥꾼임을 알라｡"
+  },
+  {
+   "id": 26703,
+   "key": "D1201ru.txt:519",
+   "file": "D1201ru.txt",
+   "line": 519,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "だが狩りたてる者よ、心せよ。",
+   "ko_candidate": "하지만 사냥하는 자여､ 명심하라｡"
+  },
+  {
+   "id": 26704,
+   "key": "D1201ru.txt:520",
+   "file": "D1201ru.txt",
+   "line": 520,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "総ては道化芝居。狩る者も狩られる者も、等しく運命に踊らされる哀れな人形である事を。",
+   "ko_candidate": "모든 것은 광대극｡ 사냥하는 자도 사냥당하는 자도､ 똑같이 운명에 춤추게 되는 가련한 인형일 뿐임을｡"
+  },
+  {
+   "id": 26705,
+   "key": "D1201ru.txt:524",
+   "file": "D1201ru.txt",
+   "line": 524,
+   "speaker": "ナイア",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「さて……九郎君はいつまで寝ているつもりかなぁ？　また色々と面白くなってきた頃合いなのに」",
+   "ko_candidate": "「자……쿠로 군은 언제까지 자고 있을 생각일까? 또 여러모로 재미있어지기 시작한 참인데」"
+  },
+  {
+   "id": 26706,
+   "key": "D1201ru.txt:530",
+   "file": "D1201ru.txt",
+   "line": 530,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "そう。総ては運命の奴隷――",
+   "ko_candidate": "그래｡ 모든 것은 운명의 노예――"
+  }
+ ]
+}

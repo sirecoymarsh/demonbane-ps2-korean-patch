@@ -1,0 +1,200 @@
+{
+ "packet": "1103_11",
+ "scene": "1103",
+ "anchor": {
+  "hit": 39,
+  "total": 40,
+  "rate": 0.975
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "九郎": "쿠로",
+  "瑠璃": "루리",
+  "アル": "알",
+  "魔術師": "마술사",
+  "覇道": "하도"
+ },
+ "items": [
+  {
+   "id": 23168,
+   "key": "D1103ru.txt:154",
+   "file": "D1103ru.txt",
+   "line": 154,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "瑠璃の視線が、窓の向こうで眠る九郎に向けられる。",
+   "ko_candidate": "루리의 시선이 창 너머로 잠든 쿠로에게 향한다｡"
+  },
+  {
+   "id": 23169,
+   "key": "D1103ru.txt:155",
+   "file": "D1103ru.txt",
+   "line": 155,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "アルの視線も自然と、それを追ってしまう。",
+   "ko_candidate": "알의 시선도 자연스럽게 그것을 따라간다｡"
+  },
+  {
+   "id": 23170,
+   "key": "D1103ru.txt:160",
+   "file": "D1103ru.txt",
+   "line": 160,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "九郎の素質。",
+   "ko_candidate": "쿠로의 소질｡"
+  },
+  {
+   "id": 23171,
+   "key": "D1103ru.txt:161",
+   "file": "D1103ru.txt",
+   "line": 161,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "魔術師としての素質。",
+   "ko_candidate": "마술사로서의 소질｡"
+  },
+  {
+   "id": 23172,
+   "key": "D1103ru.txt:162",
+   "file": "D1103ru.txt",
+   "line": 162,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "それだけではない。",
+   "ko_candidate": "그뿐만이 아니다｡"
+  },
+  {
+   "id": 23173,
+   "key": "D1103ru.txt:164",
+   "file": "D1103ru.txt",
+   "line": 164,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "闘争者としての素質。",
+   "ko_candidate": "투쟁자로서의 소질｡"
+  },
+  {
+   "id": 23174,
+   "key": "D1103ru.txt:165",
+   "file": "D1103ru.txt",
+   "line": 165,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "その、２つの素質。",
+   "ko_candidate": "그 두 가지 소질｡"
+  },
+  {
+   "id": 23175,
+   "key": "D1103ru.txt:166",
+   "file": "D1103ru.txt",
+   "line": 166,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "つまり魔と闘う者としての素質。",
+   "ko_candidate": "즉 마와 싸우는 자로서의 소질｡"
+  },
+  {
+   "id": 23176,
+   "key": "D1103ru.txt:168",
+   "file": "D1103ru.txt",
+   "line": 168,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "それは彼が望む望まざるに拘わらず、運命が与えたもの。",
+   "ko_candidate": "그것은 그가 원하든 원치 않든 상관없이 운명이 준 것｡"
+  },
+  {
+   "id": 23177,
+   "key": "D1103ru.txt:168",
+   "file": "D1103ru.txt",
+   "line": 168,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "その素質ゆえに彼は傷つき、斃れた。",
+   "ko_candidate": "그 소질 때문에 그는 상처 입고 쓰러졌다｡"
+  },
+  {
+   "id": 23178,
+   "key": "D1103ru.txt:170",
+   "file": "D1103ru.txt",
+   "line": 170,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "アルの使命を背負わされて。",
+   "ko_candidate": "알의 사명을 짊어지고｡"
+  },
+  {
+   "id": 23179,
+   "key": "D1103ru.txt:171",
+   "file": "D1103ru.txt",
+   "line": 171,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "覇道の使命を背負わされて。",
+   "ko_candidate": "하도의 사명을 짊어지고｡"
+  },
+  {
+   "id": 23180,
+   "key": "D1103ru.txt:172",
+   "file": "D1103ru.txt",
+   "line": 172,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "魔との闘い――今までも多くの者が狂い、そして滅びた闘争の地獄へ、彼は突き堕とされたのだ。",
+   "ko_candidate": "마와의 싸움―― 지금까지도 많은 이들이 미쳐가고 그리고 멸망한 투쟁의 지옥으로 그는 떨어뜨려진 것이다｡"
+  },
+  {
+   "id": 23181,
+   "key": "D1103ru.txt:174",
+   "file": "D1103ru.txt",
+   "line": 174,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "胸を刺すような、罪悪感。",
+   "ko_candidate": "가슴을 찌르는 듯한 죄책감｡"
+  },
+  {
+   "id": 23182,
+   "key": "D1103ru.txt:178",
+   "file": "D1103ru.txt",
+   "line": 178,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "この時、アルと瑠璃の心は、皮肉にも同調していた。",
+   "ko_candidate": "이때 알과 루리의 마음은 아이러니하게도 동조하고 있었다｡"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "packet": "0306_01",
+ "scene": "0306",
+ "anchor": {
+  "hit": 1,
+  "total": 4,
+  "rate": 0.25
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {},
+ "items": [
+  {
+   "id": 3186,
+   "key": "D0306_ps2.txt:274",
+   "file": "D0306_ps2.txt",
+   "line": 274,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "闇を払う光が陰を生む矛盾。",
+   "ko_candidate": "어둠을 쫓는 빛이 그림자를 만드는 모순｡"
+  },
+  {
+   "id": 3187,
+   "key": "D0306_ps2.txt:275",
+   "file": "D0306_ps2.txt",
+   "line": 275,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "世界の歪みは何処にでもある。 夜の闇が消え失せる事はない。",
+   "ko_candidate": "세계의 왜곡은 어디에나 있다｡ 밤의 어둠이 사라지는 일은 없다｡"
+  },
+  {
+   "id": 3188,
+   "key": "D0306_ps2.txt:279",
+   "file": "D0306_ps2.txt",
+   "line": 279,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "それを忘れれば、人は闇に喰われるだろう。",
+   "ko_candidate": "그것을 잊는다면､ 사람은 어둠에 먹힐 것이다｡"
+  },
+  {
+   "id": 3189,
+   "key": "D0306_ps2.txt:282",
+   "file": "D0306_ps2.txt",
+   "line": 282,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "――汝、夜の闇を忘れることなかれ。",
+   "ko_candidate": "――너､ 밤의 어둠을 잊지 말지어다｡"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "packet": "1204_09",
+ "scene": "1204",
+ "anchor": {
+  "hit": 68,
+  "total": 72,
+  "rate": 0.944
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 27499,
+   "key": "D1204ru.txt:976",
+   "file": "D1204ru.txt",
+   "line": 976,
+   "speaker": "ティベリウス",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「あ、アンタは……っ！」",
+   "ko_candidate": "「아､ 당신은……!」"
+  },
+  {
+   "id": 27500,
+   "key": "D1204ru.txt:984",
+   "file": "D1204ru.txt",
+   "line": 984,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "通路は、眩い光に包まれた。",
+   "ko_candidate": "통로는､ 눈부신 빛에 휩싸였다｡"
+  }
+ ]
+}

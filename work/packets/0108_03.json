@@ -1,0 +1,126 @@
+{
+ "packet": "0108_03",
+ "scene": "0108",
+ "anchor": {
+  "hit": 29,
+  "total": 38,
+  "rate": 0.763
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "メタトロン": "메타트론",
+  "破壊ロボ": "파괴 로봇",
+  "九郎": "쿠로"
+ },
+ "items": [
+  {
+   "id": 943,
+   "key": "D0108.txt:987",
+   "file": "D0108.txt",
+   "line": 987,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "だがメタトロンは砲撃よりも速く飛翔し、その全てをかわし切る。 背中から広がる板状の翼。機械の翼からフレアを迸らせつつ翔ぶその姿は、まさに天使の名に相応しい。",
+   "ko_candidate": "다시 메타트론의 오른팔이 빛났다｡"
+  },
+  {
+   "id": 944,
+   "key": "D0108.txt:1016",
+   "file": "D0108.txt",
+   "line": 1016,
+   "speaker": "ウェスト",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「うぎゃああああああぁぁぁっ！」",
+   "ko_candidate": "「우갸아아아아아아아앗!」"
+  },
+  {
+   "id": 945,
+   "key": "D0108.txt:1021",
+   "file": "D0108.txt",
+   "line": 1021,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "２撃目。 破壊ロボの巨体が大きく揺らいだ。",
+   "ko_candidate": "2타｡ 파괴 로봇의 거대한 몸체가 크게 흔들렸다｡"
+  },
+  {
+   "id": 946,
+   "key": "D0108.txt:1029",
+   "file": "D0108.txt",
+   "line": 1029,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "さらに激化する破壊ロボの攻撃。 しかしメタトロンのスピードは、掠ることすら許しはしなかった。",
+   "ko_candidate": "더욱 격렬해지는 파괴 로봇의 공격｡ 하지만 메타트론의 속도는 스치는 것조차 허용하지 않았다｡"
+  },
+  {
+   "id": 947,
+   "key": "D0108.txt:1035",
+   "file": "D0108.txt",
+   "line": 1035,
+   "speaker": "ウェスト",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「ええい、ちょこまかと！　この蚊トンボがぁぁぁぁっ！」",
+   "ko_candidate": "「에잇､ 요리조리! 이 모기 잠자리 같으니라고오오오옷!」"
+  },
+  {
+   "id": 948,
+   "key": "D0108.txt:1050",
+   "file": "D0108.txt",
+   "line": 1050,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「すげえ……カンペキ手玉に取っているぜ」",
+   "ko_candidate": "「대단해… 완벽하게 농락하고 있어」"
+  },
+  {
+   "id": 949,
+   "key": "D0108.txt:1058",
+   "file": "D0108.txt",
+   "line": 1058,
+   "speaker": "ちびアル",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「見惚れておる場合ではない！　今の内だ、逃げるぞ九郎！」",
+   "ko_candidate": "「넋 놓고 있을 때가 아니다! 지금이다､ 도망치자 쿠로!」"
+  },
+  {
+   "id": 950,
+   "key": "D0108.txt:1063",
+   "file": "D0108.txt",
+   "line": 1063,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「ああ、分かった！　悪いな、メタトロン！」",
+   "ko_candidate": "「아､ 알겠어! 미안해､ 메타트론!」"
+  },
+  {
+   "id": 951,
+   "key": "D0108.txt:1070",
+   "file": "D0108.txt",
+   "line": 1070,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "破壊ロボをメタトロンに任せて、 俺たちは全力で逃げ出した。",
+   "ko_candidate": "파괴 로봇을 메타트론에게 맡기고､ 우리는 전력을 다해 전장에서 벗어났다｡"
+  }
+ ]
+}

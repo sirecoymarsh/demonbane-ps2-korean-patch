@@ -1,0 +1,88 @@
+{
+ "packet": "1006_07",
+ "scene": "1006",
+ "anchor": {
+  "hit": 17,
+  "total": 17,
+  "rate": 1.0
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "九郎": "쿠로"
+ },
+ "items": [
+  {
+   "id": 21868,
+   "key": "D1006ru.txt:345",
+   "file": "D1006ru.txt",
+   "line": 345,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "それっきり動かない。",
+   "ko_candidate": "그 뒤로 움직이지 않는다｡"
+  },
+  {
+   "id": 21869,
+   "key": "D1006ru.txt:346",
+   "file": "D1006ru.txt",
+   "line": 346,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "呼吸が急速に弱々しくなっていく。",
+   "ko_candidate": "호흡이 급속도로 약해져간다｡"
+  },
+  {
+   "id": 21870,
+   "key": "D1006ru.txt:347",
+   "file": "D1006ru.txt",
+   "line": 347,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "躰の震えも徐々に小さくなる。",
+   "ko_candidate": "몸의 떨림도 점점 작아진다｡"
+  },
+  {
+   "id": 21871,
+   "key": "D1006ru.txt:349",
+   "file": "D1006ru.txt",
+   "line": 349,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "最後の力も零れ落ちたかのような九郎の躰を、舞い落ちる紙片が覆っていく。",
+   "ko_candidate": "마지막 힘마저 빠져나간 듯한 쿠로의 몸을､ 날아 떨어지는 종이 조각이 덮어간다｡"
+  },
+  {
+   "id": 21872,
+   "key": "D1006ru.txt:351",
+   "file": "D1006ru.txt",
+   "line": 351,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "まるで、埋葬するように。",
+   "ko_candidate": "마치 매장하듯이｡"
+  },
+  {
+   "id": 21873,
+   "key": "D1006ru.txt:356",
+   "file": "D1006ru.txt",
+   "line": 356,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「あ……ああ……ああああ……っ！　――九郎さんッ！」",
+   "ko_candidate": "「아……아아……아아아아……! ――쿠로 씨!」 【File10:BIG\"C\"】closed<PRE>."
+  }
+ ]
+}

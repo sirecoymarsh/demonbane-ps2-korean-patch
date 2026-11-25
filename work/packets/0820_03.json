@@ -1,0 +1,124 @@
+{
+ "packet": "0820_03",
+ "scene": "0820",
+ "anchor": {
+  "hit": 6,
+  "total": 9,
+  "rate": 0.667
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "ライカ": "라이카"
+ },
+ "items": [
+  {
+   "id": 17486,
+   "key": "D0820le.txt:500",
+   "file": "D0820le.txt",
+   "line": 500,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "呼び止める前に、青年は扉を閉じてしまった。",
+   "ko_candidate": "붙잡기 전에 청년은 문을 닫아버렸다｡"
+  },
+  {
+   "id": 17487,
+   "key": "D0820le.txt:502",
+   "file": "D0820le.txt",
+   "line": 502,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "……何だか、掴み所のない、不思議な人だったな。",
+   "ko_candidate": "…뭔가 잡을 수 없는､ 신기한 사람이었네｡"
+  },
+  {
+   "id": 17488,
+   "key": "D0820le.txt:507",
+   "file": "D0820le.txt",
+   "line": 507,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「………………」",
+   "ko_candidate": "「……………」"
+  },
+  {
+   "id": 17489,
+   "key": "D0820le.txt:512",
+   "file": "D0820le.txt",
+   "line": 512,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ライカさん？」",
+   "ko_candidate": "「라이카 씨?」"
+  },
+  {
+   "id": 17490,
+   "key": "D0820le.txt:514",
+   "file": "D0820le.txt",
+   "line": 514,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "ライカさんは、扉の方を睨みつけたまま動かない。",
+   "ko_candidate": "라이카 씨는 문 쪽을 노려보며 움직이지 않는다｡"
+  },
+  {
+   "id": 17491,
+   "key": "D0820le.txt:516",
+   "file": "D0820le.txt",
+   "line": 516,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "怒っているような、戸惑っているような、複雑な表情を浮かべている。",
+   "ko_candidate": "화가 난 듯한､ 당황한 듯한､ 복잡한 표정을 짓고 있다｡"
+  },
+  {
+   "id": 17492,
+   "key": "D0820le.txt:518",
+   "file": "D0820le.txt",
+   "line": 518,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "あの青年のことを訊ね辛い雰囲気だ。",
+   "ko_candidate": "저 청년에 대해 묻기 어려운 분위기다｡"
+  },
+  {
+   "id": 17493,
+   "key": "D0820le.txt:520",
+   "file": "D0820le.txt",
+   "line": 520,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "……何だ？",
+   "ko_candidate": "…뭐지?"
+  },
+  {
+   "id": 17494,
+   "key": "D0820le.txt:521",
+   "file": "D0820le.txt",
+   "line": 521,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "ライカさんと彼との間に、いったいどんな関係が……？",
+   "ko_candidate": "라이카 씨와 그 사이에 도대체 어떤 관계가…?"
+  }
+ ]
+}

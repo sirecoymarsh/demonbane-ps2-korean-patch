@@ -1,0 +1,163 @@
+{
+ "packet": "0508_01",
+ "scene": "0508",
+ "anchor": {
+  "hit": 0,
+  "total": 1,
+  "rate": 0.0
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "ブラックロッジ": "블랙로지",
+  "デモンベイン": "데몬베인",
+  "瑠璃": "루리",
+  "ウィンフィールド": "윈필드"
+ },
+ "items": [
+  {
+   "id": 6605,
+   "key": "D0508.txt:192",
+   "file": "D0508.txt",
+   "line": 192,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "これがどれだけ危険なことなのか。",
+   "ko_candidate": "이것이 얼마나 위험한 일인지｡"
+  },
+  {
+   "id": 6606,
+   "key": "D0508.txt:195",
+   "file": "D0508.txt",
+   "line": 195,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "彼ら自身に悪意があるとか無いとか、そういう次元",
+   "ko_candidate": "그들 자신에게 악의가 있다거나 없다거나､ 그런 차원의 문제가 아니다｡"
+  },
+  {
+   "id": 6607,
+   "key": "D0508.txt:196",
+   "file": "D0508.txt",
+   "line": 196,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "の問題では無い。『ブラックロッジ』とは違って、内 側から組織を蝕む脅威だ。",
+   "ko_candidate": "『블랙로지』와는 달리､ 내부에서 조직을 좀먹는 위협이다｡"
+  },
+  {
+   "id": 6608,
+   "key": "D0508.txt:200",
+   "file": "D0508.txt",
+   "line": 200,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "このまま放っておく訳には、主導権を握られたままにしておく訳にはいかない。",
+   "ko_candidate": "이대로 내버려둘 수는､ 주도권을 빼앗긴 채로 둘 수는 없다｡"
+  },
+  {
+   "id": 6609,
+   "key": "D0508.txt:203",
+   "file": "D0508.txt",
+   "line": 203,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "……他に選択肢が無いと、彼らを認めたのが間違いだったのだ。やはりデモンベインを、彼らの自由にさせてはいけないのだ。",
+   "ko_candidate": "……다른 선택지가 없다고､ 그들을 인정한 것이 잘못이었던 거다｡ 역시､ 데몬베인을 그들 마음대로 하게 해서는 안 되는 거다｡"
+  },
+  {
+   "id": 6610,
+   "key": "D0508.txt:206",
+   "file": "D0508.txt",
+   "line": 206,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "何故なら……何故なら……デモンベインは、お爺様が託した希望。",
+   "ko_candidate": "왜냐하면……왜냐하면……데몬베인은､ 할아버지가 맡긴 희망｡"
+  },
+  {
+   "id": 6611,
+   "key": "D0508.txt:209",
+   "file": "D0508.txt",
+   "line": 209,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そう――！",
+   "ko_candidate": "그래――!"
+  },
+  {
+   "id": 6612,
+   "key": "D0508.txt:214",
+   "file": "D0508.txt",
+   "line": 214,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "（お爺様が、わたくしに託した、機体なのですから！）",
+   "ko_candidate": "（할아버지가､ 저에게 맡기신､ 기체니까요!）"
+  },
+  {
+   "id": 6613,
+   "key": "D0508.txt:221",
+   "file": "D0508.txt",
+   "line": 221,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "珍しく慌てながら、ウィンフィールドは瑠璃の後を",
+   "ko_candidate": "윈필드가 드물게 당황하며､ 루리의 뒤를 쫓는다｡"
+  },
+  {
+   "id": 6614,
+   "key": "D0508.txt:222",
+   "file": "D0508.txt",
+   "line": 222,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "追う。それに構わず、瑠璃は一人で先を行く。",
+   "ko_candidate": "루리는 아랑곳하지 않고､ 혼자서 계속 앞으로 나아간다｡"
+  },
+  {
+   "id": 6615,
+   "key": "D0508.txt:226",
+   "file": "D0508.txt",
+   "line": 226,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "昏い激情が瑠璃の胸を灼く。",
+   "ko_candidate": "어두운 격정이 루리의 가슴을 태운다｡"
+  },
+  {
+   "id": 6616,
+   "key": "D0508.txt:227",
+   "file": "D0508.txt",
+   "line": 227,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "嫉妬の炎だった。",
+   "ko_candidate": "질투의 불꽃이었다｡"
+  }
+ ]
+}

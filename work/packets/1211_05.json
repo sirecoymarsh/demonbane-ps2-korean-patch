@@ -1,0 +1,26 @@
+{
+ "packet": "1211_05",
+ "scene": "1211",
+ "anchor": {
+  "hit": 27,
+  "total": 27,
+  "rate": 1.0
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 29778,
+   "key": "D1211ru.txt:300",
+   "file": "D1211ru.txt",
+   "line": 300,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そんな筈がある訳無いのに。",
+   "ko_candidate": "【File12:THE HUNT】closed<PRE>."
+  }
+ ]
+}

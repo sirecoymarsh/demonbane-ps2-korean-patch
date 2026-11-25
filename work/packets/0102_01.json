@@ -1,0 +1,110 @@
+{
+ "packet": "0102_01",
+ "scene": "0102",
+ "anchor": {
+  "hit": 1,
+  "total": 3,
+  "rate": 0.333
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {},
+ "items": [
+  {
+   "id": 355,
+   "key": "D0102.txt:271",
+   "file": "D0102.txt",
+   "line": 271,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "富豪も貧民も賢者も愚者も聖人も悪人も分け隔てなく受け入れ、生かし殺す。",
+   "ko_candidate": "부자도 빈민도 현자도 우자도 성인도 악인도 가리지 않고 받아들이고､ 살리고 죽인다｡"
+  },
+  {
+   "id": 356,
+   "key": "D0102.txt:274",
+   "file": "D0102.txt",
+   "line": 274,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そんな街だからこそ俺も生きることが出来る。 だけれども",
+   "ko_candidate": "그런 도시이기에､ 나도 살아갈 수 있다｡"
+  },
+  {
+   "id": 357,
+   "key": "D0102.txt:285",
+   "file": "D0102.txt",
+   "line": 285,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……足りない」",
+   "ko_candidate": "하지만 「…부족해」"
+  },
+  {
+   "id": 358,
+   "key": "D0102.txt:288",
+   "file": "D0102.txt",
+   "line": 288,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "足りない。",
+   "ko_candidate": "부족하다｡"
+  },
+  {
+   "id": 359,
+   "key": "D0102.txt:290",
+   "file": "D0102.txt",
+   "line": 290,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そう、何かが致命的なまでに足りない。 虚しい。",
+   "ko_candidate": "그래､ 뭔가가 치명적일 정도로 부족하다｡ 허무하다｡"
+  },
+  {
+   "id": 360,
+   "key": "D0102.txt:294",
+   "file": "D0102.txt",
+   "line": 294,
+   "speaker": "九郎",
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "その理由が分からないままに、そしてその理由を考える暇もないままに、今日は過ぎ去り明日が来る。 「それも……仕方ないか」",
+   "ko_candidate": "그 이유를 알 수 없는 채로､ 그리고 그 이유를 생각할 틈도 없이､ 오늘은 지나가고､ 내일이 온다｡"
+  },
+  {
+   "id": 361,
+   "key": "D0102.txt:305",
+   "file": "D0102.txt",
+   "line": 305,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "虚ろ。 空っぽ。",
+   "ko_candidate": "「그것도… 어쩔 수 없나」"
+  },
+  {
+   "id": 362,
+   "key": "D0102.txt:307",
+   "file": "D0102.txt",
+   "line": 307,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "がらんどう―― 独り呟き、まぶたを閉じた。",
+   "ko_candidate": "혼자 중얼거리며､ 나는 눈을 감았다｡"
+  }
+ ]
+}

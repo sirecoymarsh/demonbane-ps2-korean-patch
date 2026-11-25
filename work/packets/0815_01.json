@@ -1,0 +1,78 @@
+{
+ "packet": "0815_01",
+ "scene": "0815",
+ "anchor": {
+  "hit": 1,
+  "total": 2,
+  "rate": 0.5
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "覇道": "하도",
+  "ブラックロッジ": "블랙로지",
+  "ストーン": "스톤"
+ },
+ "items": [
+  {
+   "id": 16801,
+   "key": "D0815le.txt:153",
+   "file": "D0815le.txt",
+   "line": 153,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "それすらも、表っ側しか知らない自分達には分からない。",
+   "ko_candidate": "그것조차도 겉만 알고 있는 우리로서는 알 수 없다｡"
+  },
+  {
+   "id": 16802,
+   "key": "D0815le.txt:155",
+   "file": "D0815le.txt",
+   "line": 155,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そう、覇道や『ブラックロッジ』……世界の裏側に関わる彼らが何を考え、何を想って戦っているかなど。",
+   "ko_candidate": "그래､ 하도나 『블랙로지』……세계의 이면에 관여하는 그들이 무엇을 생각하고 무엇을 떠올리며 싸우고 있는지 따위는｡"
+  },
+  {
+   "id": 16803,
+   "key": "D0815le.txt:159",
+   "file": "D0815le.txt",
+   "line": 159,
+   "speaker": "ネス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「こっちの避難もあらかた終わったな……そろそろ退くぞー」",
+   "ko_candidate": "「이쪽 대피도 거의 끝났군……슬슬 물러나자」"
+  },
+  {
+   "id": 16804,
+   "key": "D0815le.txt:166",
+   "file": "D0815le.txt",
+   "line": 166,
+   "speaker": "ストーン",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「……くっ」",
+   "ko_candidate": "「……크윽」"
+  },
+  {
+   "id": 16805,
+   "key": "D0815le.txt:169",
+   "file": "D0815le.txt",
+   "line": 169,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "自らの正義の非力を、ストーンは呪った。",
+   "ko_candidate": "자신의 정의의 비력을 스톤은 저주했다｡"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "packet": "0409_04",
+ "scene": "0409",
+ "anchor": {
+  "hit": 20,
+  "total": 51,
+  "rate": 0.392
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "アリスン": "앨리슨",
+  "ライカ": "라이카",
+  "魔力": "마력"
+ },
+ "items": [
+  {
+   "id": 5342,
+   "key": "D0409.txt:1367",
+   "file": "D0409.txt",
+   "line": 1367,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「もしかして……！」",
+   "ko_candidate": "「설마……!」"
+  },
+  {
+   "id": 5343,
+   "key": "D0409.txt:1379",
+   "file": "D0409.txt",
+   "line": 1379,
+   "speaker": "アリスン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「あ……ああああ…… あああああああッ！」",
+   "ko_candidate": "앨리슨 쪽으로 돌아본다｡ 라이카 씨의 팔 안에서､ 앨리슨은 경련을 일으킨 듯이､ 부들부들 떨고 있었다｡"
+  },
+  {
+   "id": 5344,
+   "key": "D0409.txt:1386",
+   "file": "D0409.txt",
+   "line": 1386,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「アリスンちゃん!? アリスンちゃんっっ！」",
+   "ko_candidate": "「아……아아아아……아아아아아아앗!」 「앨리슨 양!? 앨리슨 양!!」"
+  },
+  {
+   "id": 5345,
+   "key": "D0409.txt:1394",
+   "file": "D0409.txt",
+   "line": 1394,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "ヤバい！　爆発寸前だ！　せっかく治まりかけてきた力も急速に膨れ上がっている！",
+   "ko_candidate": "위험해! 폭발 직전이다! 겨우 잠잠해지려던 힘도､ 다시 부풀어 올라､ 날뛰고 있다｡"
+  },
+  {
+   "id": 5346,
+   "key": "D0409.txt:1396",
+   "file": "D0409.txt",
+   "line": 1396,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "手に持った鏡が、妖しい光を放つ――！",
+   "ko_candidate": "손에 든 거울이､ 요사스러운 빛을 발한다――!"
+  },
+  {
+   "id": 5347,
+   "key": "D0409.txt:1402",
+   "file": "D0409.txt",
+   "line": 1402,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ライカさん！　危ないっ！」",
+   "ko_candidate": "「라이카 씨! 위험해요!」"
+  },
+  {
+   "id": 5348,
+   "key": "D0409.txt:1409",
+   "file": "D0409.txt",
+   "line": 1409,
+   "speaker": "アリスン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「うあああああああああああああああああああああ――――ッ！」",
+   "ko_candidate": "내가 외치는 것과 동시에｡ 「우아아아아아아아아아아아아아아아아아아아아아아아아――――앗!」"
+  },
+  {
+   "id": 5349,
+   "key": "D0409.txt:1426",
+   "file": "D0409.txt",
+   "line": 1426,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "アリスンの鏡から、未だかつてないほどの魔力と、圧倒的質量を持った何かが溢れ出した――！",
+   "ko_candidate": "앨리슨의 거울에서､ 지금까지 없었던 정도의 마력과､ 압도적인 질량을 가진 무언가가 넘쳐 나왔다｡"
+  }
+ ]
+}

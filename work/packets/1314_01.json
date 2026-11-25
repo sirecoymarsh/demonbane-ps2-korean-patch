@@ -1,0 +1,172 @@
+{
+ "packet": "1314_01",
+ "scene": "1314",
+ "anchor": {
+  "hit": 3,
+  "total": 3,
+  "rate": 1.0
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "クトゥルー": "크툴루"
+ },
+ "items": [
+  {
+   "id": 35898,
+   "key": "D1314ru.txt:189",
+   "file": "D1314ru.txt",
+   "line": 189,
+   "speaker": "ウェスト",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ぐが……がが……こ、これ程のものとは……っ！」",
+   "ko_candidate": "「크가… 가가… 이､ 이 정도일 줄이야…읏!」"
+  },
+  {
+   "id": 35899,
+   "key": "D1314ru.txt:193",
+   "file": "D1314ru.txt",
+   "line": 193,
+   "speaker": "エルザ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ロボ～～～～～ッ！」",
+   "ko_candidate": "「로봇～～～～～!」"
+  },
+  {
+   "id": 35900,
+   "key": "D1314ru.txt:197",
+   "file": "D1314ru.txt",
+   "line": 197,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「これが……邪神…… これが……旧支配者…… これが……これが……！」",
+   "ko_candidate": "「이것이… 사신… 이것이… 구지배자… 이것이… 이것이…!」"
+  },
+  {
+   "id": 35901,
+   "key": "D1314ru.txt:212",
+   "file": "D1314ru.txt",
+   "line": 212,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「クトゥルー！」",
+   "ko_candidate": "「크툴루!」"
+  },
+  {
+   "id": 35902,
+   "key": "D1314ru.txt:217",
+   "file": "D1314ru.txt",
+   "line": 217,
+   "speaker": "アウグストゥス",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ふははははは！ ふはははははは！ はははははははははははッ！」",
+   "ko_candidate": "「후하하하하! 후하하하하하! 하하하하하하하하하하핫!」"
+  },
+  {
+   "id": 35903,
+   "key": "D1314ru.txt:223",
+   "file": "D1314ru.txt",
+   "line": 223,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "其は永久に横たわる死者にあらねど、測り知れざる永劫のもとに死を超ゆるもの。",
+   "ko_candidate": "그것은 영원히 누워 있는 죽은 자가 아니며､ 헤아릴 수 없는 영겁 속에서 죽음을 초월하는 것｡"
+  },
+  {
+   "id": 35904,
+   "key": "D1314ru.txt:225",
+   "file": "D1314ru.txt",
+   "line": 225,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "触腕をわななかせ、吼える。",
+   "ko_candidate": "촉수를 떨며､ 포효한다｡"
+  },
+  {
+   "id": 35905,
+   "key": "D1314ru.txt:226",
+   "file": "D1314ru.txt",
+   "line": 226,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "嘲笑う。",
+   "ko_candidate": "조소한다｡"
+  },
+  {
+   "id": 35906,
+   "key": "D1314ru.txt:227",
+   "file": "D1314ru.txt",
+   "line": 227,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "地球の覇権を訴える。",
+   "ko_candidate": "지구의 패권을 주장한다｡"
+  },
+  {
+   "id": 35907,
+   "key": "D1314ru.txt:229",
+   "file": "D1314ru.txt",
+   "line": 229,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そう。遂に動き出した。",
+   "ko_candidate": "그래｡ 마침내 움직이기 시작했다｡"
+  },
+  {
+   "id": 35908,
+   "key": "D1314ru.txt:230",
+   "file": "D1314ru.txt",
+   "line": 230,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "遂に覚醒したのだ。",
+   "ko_candidate": "마침내 깨어난 것이다｡"
+  },
+  {
+   "id": 35909,
+   "key": "D1314ru.txt:231",
+   "file": "D1314ru.txt",
+   "line": 231,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "強壮たる神が。畏怖すべき闇黒が。",
+   "ko_candidate": "강건한 신이｡ 경외해야 할 암흑이｡"
+  },
+  {
+   "id": 35910,
+   "key": "D1314ru.txt:233",
+   "file": "D1314ru.txt",
+   "line": 233,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "永遠の統治を、再び始めるために――！",
+   "ko_candidate": "영원한 통치를､ 다시 시작하기 위해――!"
+  }
+ ]
+}

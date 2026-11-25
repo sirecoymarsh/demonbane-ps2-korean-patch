@@ -1,0 +1,188 @@
+{
+ "packet": "0802_05",
+ "scene": "0802",
+ "anchor": {
+  "hit": 20,
+  "total": 41,
+  "rate": 0.488
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "大十字": "다이쥬지",
+  "デモンベイン": "데몬베인",
+  "ウィンフィールド": "윈필드",
+  "ブラックロッジ": "블랙로지",
+  "九郎": "쿠로"
+ },
+ "items": [
+  {
+   "id": 12474,
+   "key": "D0802ru.txt:353",
+   "file": "D0802ru.txt",
+   "line": 353,
+   "speaker": "ソーニャ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "（邪気の欠片も無い笑顔）",
+   "ko_candidate": "「심문해서 고문해서 마녀재판으로 화형이에요!」"
+  },
+  {
+   "id": 12475,
+   "key": "D0802ru.txt:361",
+   "file": "D0802ru.txt",
+   "line": 361,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ああ……総帥になられた 大十字様ですか」",
+   "ko_candidate": "「보아하니 루리 아가씨도 그다지 싫어하지 않는 것 같은데」"
+  },
+  {
+   "id": 12477,
+   "key": "D0802ru.txt:370",
+   "file": "D0802ru.txt",
+   "line": 370,
+   "speaker": "チアキ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ん？　ウィン様、どうしたん？　何悩んでるん？」",
+   "ko_candidate": "「너…… 그렇게 쿠로 군이 싫은가」"
+  },
+  {
+   "id": 12478,
+   "key": "D0802ru.txt:375",
+   "file": "D0802ru.txt",
+   "line": 375,
+   "speaker": null,
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……つまり、デモンベインで、自ら御出陣なさる、旦那様という事に。 戦う旦那様にお仕えする、執事の私……」",
+   "ko_candidate": "「설마요｡ 정말 좋아해요」(사악한 기운의 조각도 없는 미소) 「부적절한 발언으로 말살되지 않도록 해｡ 이렇게､ 사회적으로」"
+  },
+  {
+   "id": 12479,
+   "key": "D0802ru.txt:380",
+   "file": "D0802ru.txt",
+   "line": 380,
+   "speaker": "ソーニャ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「……ウィンフィールド様？」",
+   "ko_candidate": "「……총수가 되신 다이쥬지님이라…」"
+  },
+  {
+   "id": 12480,
+   "key": "D0802ru.txt:398",
+   "file": "D0802ru.txt",
+   "line": 398,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「やれやれ……また『ブラックロッジ』か。まったく、午後のティータイムも落ち着いて楽しめないなんて、つくづく風情に欠ける連中だ。 ウィンフィールド。デモンベインの出撃だ」",
+   "ko_candidate": "「응? 윈님､ 왜 그래? 뭘 고민하는 거야?」 「……즉､ 데몬베인으로 직접 출진하시는 주인님이라는 거군요｡ 싸우는 주인님을 모시는 집사인 저……」"
+  },
+  {
+   "id": 12481,
+   "key": "D0802ru.txt:405",
+   "file": "D0802ru.txt",
+   "line": 405,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「少々お待ち下さい、九郎様。 只今、ワックスがけの最中で御座いまして」",
+   "ko_candidate": "「……윈필드 님?」 「이런이런……또 『블랙로지』인가｡ 정말､ 오후 티타임도 편하게 즐길 수 없다니､ 정말 풍류를 모르는 무리들이군｡ 윈필드｡ 데몬베인 출격이다」"
+  },
+  {
+   "id": 12482,
+   "key": "D0802ru.txt:410",
+   "file": "D0802ru.txt",
+   "line": 410,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「おいおい、そりゃあないよ。ウィンフィールド」",
+   "ko_candidate": "「잠시만 기다려 주십시오､ 쿠로 님｡ 지금 왁스 칠 중이라서 말입니다」"
+  },
+  {
+   "id": 12483,
+   "key": "D0802ru.txt:421",
+   "file": "D0802ru.txt",
+   "line": 421,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「それは……とても素敵ですね」",
+   "ko_candidate": "「어이어이､ 그건 좀 아니지｡ 윈필드」"
+  },
+  {
+   "id": 12484,
+   "key": "D0802ru.txt:426",
+   "file": "D0802ru.txt",
+   "line": 426,
+   "speaker": "チアキ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「な、なんで頬赤らめとるんですか？」",
+   "ko_candidate": "「그건……정말 멋지네요」"
+  },
+  {
+   "id": 12485,
+   "key": "D0802ru.txt:432",
+   "file": "D0802ru.txt",
+   "line": 432,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「分かりました。善は急げです」",
+   "ko_candidate": "「왜､ 왜 볼을 붉히고 계신 겁니까?」"
+  },
+  {
+   "id": 12486,
+   "key": "D0802ru.txt:437",
+   "file": "D0802ru.txt",
+   "line": 437,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「貴方達、早速、大十字様をお連れするのです」 「ほらほら、色々と忙しくなるかも知れませんよ？ 急ぎなさい―― 拉致ってでも」",
+   "ko_candidate": "「알겠습니다｡ 선은 서두르는 것입니다｡ 여러분､ 즉시 다이쥬지 님을 모시는 겁니다｡ 자자､ 여러 가지로 바빠질지도 모르니까요? 서두르세요―― 납치해서라도」"
+  },
+  {
+   "id": 12487,
+   "key": "D0802ru.txt:446",
+   "file": "D0802ru.txt",
+   "line": 446,
+   "speaker": "ソーニャ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「どうして、 いきなり物凄いやる気に？」",
+   "ko_candidate": "「왜 갑자기 엄청난 의욕을?」"
+  },
+  {
+   "id": 12488,
+   "key": "D0802ru.txt:452",
+   "file": "D0802ru.txt",
+   "line": 452,
+   "speaker": "マコト",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「不潔……不潔……不潔……」",
+   "ko_candidate": "「불결……불결……불결……」"
+  }
+ ]
+}

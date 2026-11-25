@@ -1,0 +1,168 @@
+{
+ "packet": "1001_02",
+ "scene": "1001",
+ "anchor": {
+  "hit": 14,
+  "total": 18,
+  "rate": 0.778
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "リベル・レギス": "리베르 레기스",
+  "クラーケン": "크라켄",
+  "ロードビヤーキー": "로드 비야키",
+  "ベルゼビュート": "벨제뷰트",
+  "魔力": "마력",
+  "マスターテリオン": "마스터 테리온",
+  "ナコト写本": "나코트 사본",
+  "アウグストゥス": "아우구스투스",
+  "大導師": "그랜드 마스터"
+ },
+ "items": [
+  {
+   "id": 20765,
+   "key": "D1001le.txt:350",
+   "file": "D1001le.txt",
+   "line": 350,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ちぃっ！」 脚部シールドを解放して、この場から飛び退く。",
+   "ko_candidate": "각각의 마력은 마스터 테리온과､ 리베르 레기스를 향하고 있다｡"
+  },
+  {
+   "id": 20766,
+   "key": "D1001le.txt:367",
+   "file": "D1001le.txt",
+   "line": 367,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "その一瞬後のことだった。",
+   "ko_candidate": "위험해……이런 걸로 휘말리면……!"
+  },
+  {
+   "id": 20767,
+   "key": "D1001le.txt:380",
+   "file": "D1001le.txt",
+   "line": 380,
+   "speaker": "ティトゥス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「斬！」",
+   "ko_candidate": "「쿠로!」 「칫!」"
+  },
+  {
+   "id": 20768,
+   "key": "D1001le.txt:408",
+   "file": "D1001le.txt",
+   "line": 408,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "刀がリベル・レギスの脇腹から抜ける。両断された機体が分かれるよりも早く、クラーケンの腕が四肢を引き千切る。",
+   "ko_candidate": "버니어를 뿜으며､ 이곳에서 전력으로 날아오른다｡ 그 직후의 일이었다｡"
+  },
+  {
+   "id": 20769,
+   "key": "D1001le.txt:443",
+   "file": "D1001le.txt",
+   "line": 443,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "追い討ちにベルゼビュートの円盤型の魔力弾と、ロードビヤーキーの竜巻に撃たれ、リベル・レギスはついに大破した。",
+   "ko_candidate": "「참!」 중간에 멈춰 있던 갑옷무사형 귀계신의 칼이､ 리베르 레기스의 옆구리를 관통한다｡"
+  },
+  {
+   "id": 20770,
+   "key": "D1001le.txt:465",
+   "file": "D1001le.txt",
+   "line": 465,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "爆発に放り投げられるマスターテリオンと『ナコト写本』。２人を金ピカの内部から出現した砲口が捉えた。",
+   "ko_candidate": "양단된 리베르 레기스의 기체가 갈라지기도 전에､ 크라켄의 팔이 리베르 레기스의 사지를 찢어버린다｡ 추격하듯 벨제뷰트와 거미형이 쏜 마력탄과､ 로드 비야키의 회오리바람에 맞아､ 리베르 레기스는 마침내 대파되었다｡"
+  },
+  {
+   "id": 20771,
+   "key": "D1001le.txt:470",
+   "file": "D1001le.txt",
+   "line": 470,
+   "speaker": "マスターテリオン / アウグストゥス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ア、アウグストゥス！」 「さらばです。大導師」",
+   "ko_candidate": "폭발에 내던져지는 마스터 테리온과 『나코트 사본』｡"
+  },
+  {
+   "id": 20772,
+   "key": "D1001le.txt:493",
+   "file": "D1001le.txt",
+   "line": 493,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そして見た。 金ピカの放った高出力のビームが",
+   "ko_candidate": "둘을 금빛 몸체에서 나타난 포구가 포착했다｡"
+  },
+  {
+   "id": 20773,
+   "key": "D1001le.txt:495",
+   "file": "D1001le.txt",
+   "line": 495,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "マスターテリオンと『ナコト写本』を飲み込むのを。",
+   "ko_candidate": "「아､ 아우구스투스우우우우우!」 「안녕히 가십시오｡ <RUBY text=\"그랜드 마스터\">대도사</RUBY>」"
+  },
+  {
+   "id": 20774,
+   "key": "D1001le.txt:509",
+   "file": "D1001le.txt",
+   "line": 509,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "マスターテリオンの全身が爆ぜる。何もかも剥がれ落ち、溶け落ち、揮発する。『ナコト写本』の姿も光の中へと砕けていく。",
+   "ko_candidate": "그리고 보았다｡ 금빛이 쏜 고출력 빔이 마스터 테리온과 『나코트 사본』을 삼켜버리는 것을｡ 마스터 테리온의 피부는 타오르고､ 살은 터져 나간다｡ 모든 것이 벗겨져 떨어지고､ 남은 뼈도 곧 분쇄되어､ 먼지가 되었다｡"
+  },
+  {
+   "id": 20775,
+   "key": "D1001le.txt:517",
+   "file": "D1001le.txt",
+   "line": 517,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "間違いない……疑う余地もなく完璧にマスターテリオンは殺された。",
+   "ko_candidate": "『나코트 사본』의 모습도 빛 속으로 부서져 간다｡ 틀림없다……의심할 여지도 없이 완벽하게 마스터 테리온은 살해되었다｡"
+  },
+  {
+   "id": 20776,
+   "key": "D1001le.txt:520",
+   "file": "D1001le.txt",
+   "line": 520,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "これが神を招喚し、核兵器さえ物ともしない最強最悪の魔人の、あまりにも呆気ない最期だった――。",
+   "ko_candidate": "이것이 신을 소환하고､ 핵조차 두려워하지 않는 최강최악의 마인의､ 너무나도 허무한 최후였다――｡"
+  }
+ ]
+}

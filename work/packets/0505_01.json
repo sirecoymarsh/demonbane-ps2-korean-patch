@@ -1,0 +1,220 @@
+{
+ "packet": "0505_01",
+ "scene": "0505",
+ "anchor": {
+  "hit": 10,
+  "total": 14,
+  "rate": 0.714
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "エルザ": "엘자"
+ },
+ "items": [
+  {
+   "id": 6396,
+   "key": "D0505.txt:280",
+   "file": "D0505.txt",
+   "line": 280,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "――祈りは天に昇らず、叫びは地に響かず、そして想いは人に届かない。",
+   "ko_candidate": "――기도는 하늘에 오르지 못하고､ 외침은 땅에 울리지 않으며､ 그리고 마음은 사람에게 닿지 않는다｡"
+  },
+  {
+   "id": 6397,
+   "key": "D0505.txt:284",
+   "file": "D0505.txt",
+   "line": 284,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "人生というものは得てしてそういうものだ。",
+   "ko_candidate": "인생이란 것은 흔히 그런 것이다｡"
+  },
+  {
+   "id": 6398,
+   "key": "D0505.txt:285",
+   "file": "D0505.txt",
+   "line": 285,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そしてこのときも例外ではなかった。",
+   "ko_candidate": "그리고 이때도 예외는 아니었다｡ 「쏘고 있어!」"
+  },
+  {
+   "id": 6399,
+   "key": "D0505.txt:307",
+   "file": "D0505.txt",
+   "line": 307,
+   "speaker": "警官Ｂ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「撃ってきたぞッ！」",
+   "ko_candidate": "「쏴?! 쏴?!」"
+  },
+  {
+   "id": 6400,
+   "key": "D0505.txt:312",
+   "file": "D0505.txt",
+   "line": 312,
+   "speaker": "警官Ａ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「撃てぃ！　撃てぃ！」",
+   "ko_candidate": "「경찰을 상대로 하지 말라고 했잖아!」"
+  },
+  {
+   "id": 6401,
+   "key": "D0505.txt:330",
+   "file": "D0505.txt",
+   "line": 330,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「警察相手はやめれと言うのにっ！」 腕内蔵のマシンガンを撃ちまくるエルザを羽交い締めにして、そのまま担ぎ上げた。",
+   "ko_candidate": "팔에 내장된 기관총을 마구 쏘아대는 엘자를､ 나는 뒤에서 붙잡아 멈춘다｡ 조준은 경관들에게서 벗어나､ 가게의 간판이나 쇼윈도에 총알이 쏟아진다｡"
+  },
+  {
+   "id": 6402,
+   "key": "D0505.txt:354",
+   "file": "D0505.txt",
+   "line": 354,
+   "speaker": "エルザ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ロボっ!?　邪魔をするなロボッ！ は、離すロボっ！」",
+   "ko_candidate": "「로보!? 방해하지 마 로보! 하､ 놓으로보!」"
+  },
+  {
+   "id": 6403,
+   "key": "D0505.txt:362",
+   "file": "D0505.txt",
+   "line": 362,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「良いから逃げろぉぉぉぉぉ！」",
+   "ko_candidate": "「좋으니까 도망가아아아아아!」"
+  },
+  {
+   "id": 6404,
+   "key": "D0505.txt:366",
+   "file": "D0505.txt",
+   "line": 366,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "弁解の余地はすでにない。 回れ右で猛ダッシュ、だ。",
+   "ko_candidate": "뒤에서 안아 멈춘 자세 그대로､ 엘자를 들어 올려､ 나는 뒤돌아서 맹렬히 달렸다｡ 변명의 여지조차 없잖아｡"
+  },
+  {
+   "id": 6405,
+   "key": "D0505.txt:373",
+   "file": "D0505.txt",
+   "line": 373,
+   "speaker": "警官Ｂ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ああっ、逃げたぞ！」",
+   "ko_candidate": "「아앗､ 도망갔어!」"
+  },
+  {
+   "id": 6406,
+   "key": "D0505.txt:382",
+   "file": "D0505.txt",
+   "line": 382,
+   "speaker": "警官Ａ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「男のほうが手引きしたぞ！ 応援だ、応援を呼べ！」",
+   "ko_candidate": "「남자 쪽이 도와줬어! 지원이다､ 지원을 불러!」"
+  },
+  {
+   "id": 6407,
+   "key": "D0505.txt:391",
+   "file": "D0505.txt",
+   "line": 391,
+   "speaker": "ちびアル",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「おおう。 これで完全無欠に共犯者だな」",
+   "ko_candidate": "「오오｡ 이걸로 완벽하게 공범이네」"
+  },
+  {
+   "id": 6408,
+   "key": "D0505.txt:398",
+   "file": "D0505.txt",
+   "line": 398,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「黙れぇぇぇぇぇぇい！」",
+   "ko_candidate": "「닥쳐어어어어어어!」"
+  },
+  {
+   "id": 6409,
+   "key": "D0505.txt:404",
+   "file": "D0505.txt",
+   "line": 404,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "前もこんな状況なかったか!?",
+   "ko_candidate": "그러고 보니､ 전에도 이런 상황 없었나!?"
+  },
+  {
+   "id": 6410,
+   "key": "D0505.txt:405",
+   "file": "D0505.txt",
+   "line": 405,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "しかも今回は敵のおまけ付きだ！",
+   "ko_candidate": "게다가 이번엔 적까지 덤으로 붙었잖아!"
+  },
+  {
+   "id": 6411,
+   "key": "D0505.txt:406",
+   "file": "D0505.txt",
+   "line": 406,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "何でいつもこうなる!?",
+   "ko_candidate": "왜 항상 이렇게 되는 거야!?"
+  },
+  {
+   "id": 6412,
+   "key": "D0505.txt:412",
+   "file": "D0505.txt",
+   "line": 412,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「俺の人生のフローチャートは全部が全部バッドエン ドへの分岐かよ!?　ドちくしょぉぉぉ――――ッ！」",
+   "ko_candidate": "「내 인생의 플로우차트는 전부 다 배드엔딩으로 분기하는 거냐!? 젠장―――――!」"
+  }
+ ]
+}

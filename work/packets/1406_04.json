@@ -1,0 +1,173 @@
+{
+ "packet": "1406_04",
+ "scene": "1406",
+ "anchor": {
+  "hit": 12,
+  "total": 13,
+  "rate": 0.923
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "ルルイエ異本": "르뤼에 이본",
+  "魔導書": "마도서"
+ },
+ "items": [
+  {
+   "id": 37722,
+   "key": "D1406ru.txt:178",
+   "file": "D1406ru.txt",
+   "line": 178,
+   "speaker": "ルルイエ異本",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「星は正しい位置に……巫女を……生贄を……花嫁を……いあ、いあ」 精霊の指が『暴君』に触れた。",
+   "ko_candidate": "얇은 가슴을 눌러 찌그러뜨리고､ 유두를 긁어대고､ 배꼽을 파고､ 그대로 곧장 아랫배로｡ 겹쳐진 은밀한 부위로｡"
+  },
+  {
+   "id": 37723,
+   "key": "D1406ru.txt:186",
+   "file": "D1406ru.txt",
+   "line": 186,
+   "speaker": "ネロ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「…………ッッ！」",
+   "ko_candidate": "「………¨읏읏!」"
+  },
+  {
+   "id": 37724,
+   "key": "D1406ru.txt:190",
+   "file": "D1406ru.txt",
+   "line": 190,
+   "speaker": "ルルイエ異本",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「でも、違う」 指の動きが止まった。",
+   "ko_candidate": "비열을 갈라､ 안쪽으로 들어가는 손가락｡"
+  },
+  {
+   "id": 37725,
+   "key": "D1406ru.txt:194",
+   "file": "D1406ru.txt",
+   "line": 194,
+   "speaker": null,
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "『ルルイエ異本』の、酷く冷めた瞳が『暴君』を見下ろしている。",
+   "ko_candidate": "질내를 긁어댄다｡ 후벼 판다｡ 애액의 근원을 파내듯이､ 난폭하게｡ 손가락을 꽉꽉 조이는 질벽｡ 얽혀드는 주름｡ 끈적이는 애액｡"
+  },
+  {
+   "id": 37726,
+   "key": "D1406ru.txt:196",
+   "file": "D1406ru.txt",
+   "line": 196,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "貌を寄せて、頬に口づける。",
+   "ko_candidate": "「하지만､ 틀려」 손가락의 움직임이 멈췄다｡"
+  },
+  {
+   "id": 37727,
+   "key": "D1406ru.txt:197",
+   "file": "D1406ru.txt",
+   "line": 197,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "魔導書の精霊は、囚人たる少女に問いかける。",
+   "ko_candidate": "치매에 걸린 듯 쾌락에 취해 있던 『르뤼에 이본』의 몹시도 차가운 눈동자가 『폭군』을 내려다보고 있었다｡"
+  },
+  {
+   "id": 37728,
+   "key": "D1406ru.txt:201",
+   "file": "D1406ru.txt",
+   "line": 201,
+   "speaker": "ルルイエ異本",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「あなたは、ちがう……あなたは、だれ？　だぁれ？」",
+   "ko_candidate": "얼굴을 가까이 대고 뺨에 입을 맞춘다｡ 마도서의 정령은 죄수인 소녀에게 묻는다｡"
+  },
+  {
+   "id": 37729,
+   "key": "D1406ru.txt:204",
+   "file": "D1406ru.txt",
+   "line": 204,
+   "speaker": "ルルイエ異本",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「だれ……だれだれだれ誰誰誰誰誰誰誰誰誰誰誰誰誰誰誰誰だれだれだぁぁれ？」 「だれ……だれの……あなたは――誰のもの？」",
+   "ko_candidate": "「당신은､ 다르네… 당신은､ 누구? 누구? 누구… 누구누구누구누구누구누구누구누구누구누구누구누구누구누구누구누구누구누구누구? 누구… 누구의… 당신은―누구의 것?」"
+  },
+  {
+   "id": 37730,
+   "key": "D1406ru.txt:210",
+   "file": "D1406ru.txt",
+   "line": 210,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "小動物の様に愛らしく小首を傾げる、少女。",
+   "ko_candidate": "작은 동물처럼 사랑스럽게 고개를 갸웃거리는 소녀｡"
+  },
+  {
+   "id": 37731,
+   "key": "D1406ru.txt:212",
+   "file": "D1406ru.txt",
+   "line": 212,
+   "speaker": null,
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "『暴君』は答えない。",
+   "ko_candidate": "『폭군』은 대답하지 않는다｡"
+  },
+  {
+   "id": 37732,
+   "key": "D1406ru.txt:214",
+   "file": "D1406ru.txt",
+   "line": 214,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "ただ一方的に轡の合間から吐息を漏らすばかり。",
+   "ko_candidate": "단지 일방적으로 주어지는 쾌락에 재갈 사이로 한숨을 내쉴 뿐이다｡"
+  },
+  {
+   "id": 37733,
+   "key": "D1406ru.txt:215",
+   "file": "D1406ru.txt",
+   "line": 215,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "だが轡を咥える口が、涎にまみれた口が、歪に吊り上がっていた。",
+   "ko_candidate": "하지만 재갈을 물고 있는 입이､ 침으로 범벅이 된 입이 일그러지게 올라가 있었다｡"
+  },
+  {
+   "id": 37734,
+   "key": "D1406ru.txt:217",
+   "file": "D1406ru.txt",
+   "line": 217,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "嘲笑の様だった。",
+   "ko_candidate": "조소하는 것 같았다｡"
+  }
+ ]
+}

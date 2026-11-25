@@ -1,0 +1,40 @@
+{
+ "packet": "1109_07",
+ "scene": "1109",
+ "anchor": {
+  "hit": 38,
+  "total": 39,
+  "rate": 0.974
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "破壊ロボ": "파괴 로봇"
+ },
+ "items": [
+  {
+   "id": 25552,
+   "key": "D1109ru.txt:866",
+   "file": "D1109ru.txt",
+   "line": 866,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "その背後を離れず、破壊ロボ達は追ってくる。",
+   "ko_candidate": "그 뒤를 떨어지지 않고 파괴 로봇들이 쫓아온다｡"
+  },
+  {
+   "id": 25553,
+   "key": "D1109ru.txt:871",
+   "file": "D1109ru.txt",
+   "line": 871,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「チィィィッ！　厄介な！」",
+   "ko_candidate": "「치익! 귀찮은 놈들!」"
+  }
+ ]
+}

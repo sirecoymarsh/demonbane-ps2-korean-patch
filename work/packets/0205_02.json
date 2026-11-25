@@ -1,0 +1,209 @@
+{
+ "packet": "0205_02",
+ "scene": "0205",
+ "anchor": {
+  "hit": 10,
+  "total": 15,
+  "rate": 0.667
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "魔力": "마력",
+  "ライカ": "라이카"
+ },
+ "items": [
+  {
+   "id": 2109,
+   "key": "D0205.txt:585",
+   "file": "D0205.txt",
+   "line": 585,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「えっ？」 少年の内から、魔力が迸り、爆ぜた。",
+   "ko_candidate": "「뭐……뭐､ 뭐시죠､ 당신은!?」"
+  },
+  {
+   "id": 2111,
+   "key": "D0205.txt:599",
+   "file": "D0205.txt",
+   "line": 599,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "ほんのちっぽけな、魔力の爆発。",
+   "ko_candidate": "「여자야! 그자에게서 떨어져!」 알 아지프가 절규한다｡"
+  },
+  {
+   "id": 2112,
+   "key": "D0205.txt:599",
+   "file": "D0205.txt",
+   "line": 599,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "ただそれだけで、",
+   "ko_candidate": "하지만 늦었다｡ 「방해군」"
+  },
+  {
+   "id": 2113,
+   "key": "D0205.txt:600",
+   "file": "D0205.txt",
+   "line": 600,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "ライカさんの身体は軽々と宙を舞った。",
+   "ko_candidate": "「엣?」 소년의 내면에서､ 마력이 솟구치고､ 터졌다｡"
+  },
+  {
+   "id": 2114,
+   "key": "D0205.txt:603",
+   "file": "D0205.txt",
+   "line": 603,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "何だか滑稽な光景ですらあった。",
+   "ko_candidate": "아주 작은､ 마력의 폭발｡"
+  },
+  {
+   "id": 2115,
+   "key": "D0205.txt:606",
+   "file": "D0205.txt",
+   "line": 606,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "ライカさんは、反対側まで吹き飛ばされた。",
+   "ko_candidate": "그것만으로도､ 라이카 씨의 몸은 가볍게 공중을 날았다｡"
+  },
+  {
+   "id": 2116,
+   "key": "D0205.txt:607",
+   "file": "D0205.txt",
+   "line": 607,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "祭壇に叩きつけられ、跳ねるように床を転がる。",
+   "ko_candidate": "뭔가 우스꽝스러운 광경이기까지 했다｡"
+  },
+  {
+   "id": 2117,
+   "key": "D0205.txt:610",
+   "file": "D0205.txt",
+   "line": 610,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そのまま、ぴくりとも動かなくなった。",
+   "ko_candidate": "라이카 씨의 몸은､ 반대편까지 날아갔다｡"
+  },
+  {
+   "id": 2118,
+   "key": "D0205.txt:619",
+   "file": "D0205.txt",
+   "line": 619,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "全ては一瞬の出来事。",
+   "ko_candidate": "제단에 부딪혀､ 튕기듯이 바닥을 굴렀다｡"
+  },
+  {
+   "id": 2119,
+   "key": "D0205.txt:620",
+   "file": "D0205.txt",
+   "line": 620,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "俺はただ一部始終を呆然と眺めているだけだった。",
+   "ko_candidate": "그대로､ 꼼짝도 하지 않게 되었다｡ 모든 것은 순식간의 일｡"
+  },
+  {
+   "id": 2120,
+   "key": "D0205.txt:621",
+   "file": "D0205.txt",
+   "line": 621,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "心が完全に麻痺して、身動き一つ取れなかった。",
+   "ko_candidate": "나는 그저 전 과정을 멍하니 바라보고만 있었다｡"
+  },
+  {
+   "id": 2121,
+   "key": "D0205.txt:627",
+   "file": "D0205.txt",
+   "line": 627,
+   "speaker": "アリスン / コリン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……ィッ！」 「あ……ああああっ！」",
+   "ko_candidate": "마음이 완전히 마비되어､ 몸을 움직일 수조차 없었다｡"
+  },
+  {
+   "id": 2122,
+   "key": "D0205.txt:637",
+   "file": "D0205.txt",
+   "line": 637,
+   "speaker": "ジョージ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ライカ姉ちゃぁぁぁんっ！」",
+   "ko_candidate": "「라이카 누나아아아아아앙!」"
+  },
+  {
+   "id": 2123,
+   "key": "D0205.txt:642",
+   "file": "D0205.txt",
+   "line": 642,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「…………ッ！」",
+   "ko_candidate": "「…………읏!」"
+  },
+  {
+   "id": 2124,
+   "key": "D0205.txt:645",
+   "file": "D0205.txt",
+   "line": 645,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "ガキんちょどもの悲鳴に、ようやく我に返る。",
+   "ko_candidate": "꼬맹이들의 비명에､ 겨우 정신을 차린다｡"
+  },
+  {
+   "id": 2125,
+   "key": "D0205.txt:646",
+   "file": "D0205.txt",
+   "line": 646,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "俺は――",
+   "ko_candidate": "나는――"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "packet": "0612_02",
+ "scene": "0612",
+ "anchor": {
+  "hit": 4,
+  "total": 14,
+  "rate": 0.286
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "瑠璃": "루리",
+  "覇道鋼造": "하도 코조",
+  "デモンベイン": "데몬베인"
+ },
+ "items": [
+  {
+   "id": 7788,
+   "key": "D0612.txt:625",
+   "file": "D0612.txt",
+   "line": 625,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "悲しみも怒りも憎しみも受け止める、",
+   "ko_candidate": "슬픔도 분노도 증오도 받아들이는､ 그런 온기｡"
+  },
+  {
+   "id": 7789,
+   "key": "D0612.txt:626",
+   "file": "D0612.txt",
+   "line": 626,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そんな温もり。そんな強さ。",
+   "ko_candidate": "그런 강함｡"
+  },
+  {
+   "id": 7790,
+   "key": "D0612.txt:652",
+   "file": "D0612.txt",
+   "line": 652,
+   "speaker": null,
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「憎悪の空より来たりて……正しき怒りを胸に……我等は魔を断つ剣を執る……！」",
+   "ko_candidate": "「증오의 하늘로부터 와서… 올바른 분노를 가슴에…」 「우리는 마를 베는 검을 든다…!」"
+  },
+  {
+   "id": 7791,
+   "key": "D0612.txt:676",
+   "file": "D0612.txt",
+   "line": 676,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "そういえば、あのとき祖父は教えてくれた。 その言葉。",
+   "ko_candidate": "그러고 보니 그때 할아버지는 울음을 그친 나에게 말씀해 주셨지｡"
+  },
+  {
+   "id": 7792,
+   "key": "D0612.txt:679",
+   "file": "D0612.txt",
+   "line": 679,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "その想い。",
+   "ko_candidate": "기억하고 있어｡"
+  },
+  {
+   "id": 7793,
+   "key": "D0612.txt:681",
+   "file": "D0612.txt",
+   "line": 681,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "憶えている。はっきりと憶えている。",
+   "ko_candidate": "분명히 기억하고 있어｡"
+  },
+  {
+   "id": 7794,
+   "key": "D0612.txt:682",
+   "file": "D0612.txt",
+   "line": 682,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "今もこの胸にその言葉を刻み込んでいる。",
+   "ko_candidate": "지금도 이 가슴에 그 말씀을 새기고 있어｡"
+  },
+  {
+   "id": 7795,
+   "key": "D0612.txt:685",
+   "file": "D0612.txt",
+   "line": 685,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "その言葉が、瑠璃に戦いを決意させたのだから。",
+   "ko_candidate": "그 말씀이 루리에게 싸울 결심을 하게 했으니까｡"
+  },
+  {
+   "id": 7796,
+   "key": "D0612.txt:688",
+   "file": "D0612.txt",
+   "line": 688,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そう――あのとき祖父は、こう告げた。",
+   "ko_candidate": "그래― 그때 할아버지는 이렇게 말씀하셨어｡"
+  },
+  {
+   "id": 7797,
+   "key": "D0612.txt:701",
+   "file": "D0612.txt",
+   "line": 701,
+   "speaker": "鋼造",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「瑠璃……確かに世界は邪悪に侵されているのかも知れない」 「だけどな、その邪悪を憎む正義もまた、確実に存在するのだよ」",
+   "ko_candidate": "「루리… 확실히 세상은 사악함에 물들었을지도 모른다｡ 하지만 말이다､ 그 사악함을 증오하는 정의 또한 분명히 존재하는 거란다」"
+  },
+  {
+   "id": 7798,
+   "key": "D0612.txt:716",
+   "file": "D0612.txt",
+   "line": 716,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "それは、小さな正義に過ぎないのだろう。",
+   "ko_candidate": "그것은 작은 정의에 불과할 거야｡"
+  },
+  {
+   "id": 7799,
+   "key": "D0612.txt:718",
+   "file": "D0612.txt",
+   "line": 718,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "人の心の奥で眠る、無力な正義に過ぎないのだろう。",
+   "ko_candidate": "사람의 마음 깊숙이 잠든､ 무력한 정의에 불과할 거야｡"
+  },
+  {
+   "id": 7800,
+   "key": "D0612.txt:721",
+   "file": "D0612.txt",
+   "line": 721,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "だがその正義がいつか目覚める日が――誰かがその手に穢れなき剣を執り、邪悪を討ち滅ぼす日がやってくるに違いない。",
+   "ko_candidate": "하지만 그 정의가 언젠가 깨어나는 날이､ 누군가가 그 손에 더럽혀지지 않은 검을 들고 사악함을 물리치는 날이 반드시 올 거야｡"
+  },
+  {
+   "id": 7801,
+   "key": "D0612.txt:725",
+   "file": "D0612.txt",
+   "line": 725,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "その願いを込めて祖父は――覇道鋼造は、自らが造り上げた鋼鉄の巨人にあの名をつけたのだ。",
+   "ko_candidate": "그 소원을 담아 할아버지는､ 하도 코조는､ 자신이 만들어낸 강철의 거인에 그 이름을 붙인 거야｡"
+  },
+  {
+   "id": 7802,
+   "key": "D0612.txt:745",
+   "file": "D0612.txt",
+   "line": 745,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「汝、無垢なる刃――デモンベイン！」",
+   "ko_candidate": "「그대､ 무구한 칼날― 데몬베인!」"
+  }
+ ]
+}

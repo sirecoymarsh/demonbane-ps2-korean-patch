@@ -1,0 +1,209 @@
+{
+ "packet": "1512_04",
+ "scene": "1512",
+ "anchor": {
+  "hit": 13,
+  "total": 19,
+  "rate": 0.684
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "大十字九郎": "다이쥬지 쿠로",
+  "エセルドレーダ": "에셀드레다"
+ },
+ "items": [
+  {
+   "id": 46529,
+   "key": "D1512ru.txt:52",
+   "file": "D1512ru.txt",
+   "line": 52,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "この僅かな時と時の狭間の揺らぎで――",
+   "ko_candidate": "이 짧은 시간과 시간 사이의 흔들림에서――"
+  },
+  {
+   "id": 46530,
+   "key": "D1512ru.txt:53",
+   "file": "D1512ru.txt",
+   "line": 53,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "貴公が神の絡繰を知ったその瞬間見せる、絶望。",
+   "ko_candidate": "네놈이 신의 장치를 알게 된 그 순간 보여줄､ 절망｡"
+  },
+  {
+   "id": 46531,
+   "key": "D1512ru.txt:54",
+   "file": "D1512ru.txt",
+   "line": 54,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "余の犯す無限の中、それに勝る甘美な時間はあるまい。",
+   "ko_candidate": "내가 범하는 무한 속에서､ 그보다 더 달콤한 시간은 없을 것이다｡"
+  },
+  {
+   "id": 46532,
+   "key": "D1512ru.txt:56",
+   "file": "D1512ru.txt",
+   "line": 56,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "乙女を狩り立てるが如き、獰猛な愉悦を以って余は貴公と対峙する。",
+   "ko_candidate": "처녀를 능욕하듯이､ 사나운 쾌감을 가지고 나는 네놈과 대치한다｡"
+  },
+  {
+   "id": 46533,
+   "key": "D1512ru.txt:60",
+   "file": "D1512ru.txt",
+   "line": 60,
+   "speaker": "マスターテリオン",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「あははははははははははははははははは……！」",
+   "ko_candidate": "「아하하하하하하하하하하하하하하하하……!」"
+  },
+  {
+   "id": 46534,
+   "key": "D1512ru.txt:67",
+   "file": "D1512ru.txt",
+   "line": 67,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "犯してやろう。",
+   "ko_candidate": "범해주마｡"
+  },
+  {
+   "id": 46535,
+   "key": "D1512ru.txt:68",
+   "file": "D1512ru.txt",
+   "line": 68,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "苛烈な愛を以って犯してやろう。",
+   "ko_candidate": "가혹한 사랑으로 범해주마｡"
+  },
+  {
+   "id": 46536,
+   "key": "D1512ru.txt:70",
+   "file": "D1512ru.txt",
+   "line": 70,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "何度でも何度でも何度でも何度でも、味わえる。",
+   "ko_candidate": "몇 번이고 몇 번이고 몇 번이고 몇 번이고､ 맛볼 수 있다｡"
+  },
+  {
+   "id": 46537,
+   "key": "D1512ru.txt:72",
+   "file": "D1512ru.txt",
+   "line": 72,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "貴公の涙は、甘い蜜。",
+   "ko_candidate": "네놈의 눈물은､ 달콤한 꿀｡"
+  },
+  {
+   "id": 46538,
+   "key": "D1512ru.txt:73",
+   "file": "D1512ru.txt",
+   "line": 73,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "貴公の血は、芳醇な酒。",
+   "ko_candidate": "네놈의 피는､ 향기로운 술｡"
+  },
+  {
+   "id": 46539,
+   "key": "D1512ru.txt:75",
+   "file": "D1512ru.txt",
+   "line": 75,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "さあ、貴公の絶望で、猛り狂う余を慰めてくれ。 蕩けさせてくれ。",
+   "ko_candidate": "자､ 네놈의 절망으로､ 광포해진 나를 위로해다오｡"
+  },
+  {
+   "id": 46540,
+   "key": "D1512ru.txt:77",
+   "file": "D1512ru.txt",
+   "line": 77,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "溺れさせてくれ。",
+   "ko_candidate": "녹여다오｡ 빠뜨려다오｡"
+  },
+  {
+   "id": 46541,
+   "key": "D1512ru.txt:79",
+   "file": "D1512ru.txt",
+   "line": 79,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "大十字九郎。",
+   "ko_candidate": "다이쥬지 쿠로｡"
+  },
+  {
+   "id": 46542,
+   "key": "D1512ru.txt:80",
+   "file": "D1512ru.txt",
+   "line": 80,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "貴公こそが、我が最愛なる怨敵。",
+   "ko_candidate": "네놈이야말로､ 나의 가장 사랑하는 원수｡"
+  },
+  {
+   "id": 46543,
+   "key": "D1512ru.txt:84",
+   "file": "D1512ru.txt",
+   "line": 84,
+   "speaker": "マスターテリオン",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「あはははははははははは！ 征くぞ！　エセルドレーダ！」",
+   "ko_candidate": "「아하하하하하하하하하! 간다! 에셀드레다!」"
+  },
+  {
+   "id": 46544,
+   "key": "D1512ru.txt:89",
+   "file": "D1512ru.txt",
+   "line": 89,
+   "speaker": "エセルドレーダ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「イエス……マスター」",
+   "ko_candidate": "「예스……마스터」"
+  }
+ ]
+}

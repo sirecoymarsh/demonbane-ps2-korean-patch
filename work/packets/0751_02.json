@@ -1,0 +1,40 @@
+{
+ "packet": "0751_02",
+ "scene": "0751",
+ "anchor": {
+  "hit": null,
+  "total": null,
+  "rate": null
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "魔力": "마력"
+ },
+ "items": [
+  {
+   "id": 11366,
+   "key": "D0751.txt:813",
+   "file": "D0751.txt",
+   "line": 813,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "鈴を転がすような、澄んだ、甲高い笑い声。",
+   "ko_candidate": ""
+  },
+  {
+   "id": 11367,
+   "key": "D0751.txt:814",
+   "file": "D0751.txt",
+   "line": 814,
+   "speaker": null,
+   "kind": "narr",
+   "status": "MISSING",
+   "work": true,
+   "jp": "笑い声を乗せて、強大な魔力が渦巻き、空間を歪ませてゆく――",
+   "ko_candidate": ""
+  }
+ ]
+}

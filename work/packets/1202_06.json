@@ -1,0 +1,40 @@
+{
+ "packet": "1202_06",
+ "scene": "1202",
+ "anchor": {
+  "hit": 44,
+  "total": 49,
+  "rate": 0.898
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "瑠璃": "루리"
+ },
+ "items": [
+  {
+   "id": 26947,
+   "key": "D1202ru.txt:367",
+   "file": "D1202ru.txt",
+   "line": 367,
+   "speaker": "クラウディウス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ビンゴ……よう、逢いたかったぜぇ、瑠璃お姉ちゃん？」",
+   "ko_candidate": "「빙고… 야､ 보고 싶었어､ 루리 누나?」"
+  },
+  {
+   "id": 26948,
+   "key": "D1202ru.txt:373",
+   "file": "D1202ru.txt",
+   "line": 373,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「あ……ああ……あああっ！」",
+   "ko_candidate": "「아… 아아… 아아악!」"
+  }
+ ]
+}

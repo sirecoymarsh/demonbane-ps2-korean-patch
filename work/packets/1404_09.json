@@ -1,0 +1,26 @@
+{
+ "packet": "1404_09",
+ "scene": "1404",
+ "anchor": {
+  "hit": 17,
+  "total": 17,
+  "rate": 1.0
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 37325,
+   "key": "D1404ru.txt:571",
+   "file": "D1404ru.txt",
+   "line": 571,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "俺たちに深々と頭を下げるのだった。",
+   "ko_candidate": "우리에게 깊이 고개를 숙이는 것이었다｡"
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "packet": "0607_04",
+ "scene": "0607",
+ "anchor": {
+  "hit": 15,
+  "total": 38,
+  "rate": 0.395
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "ティベリウス": "티베리우스",
+  "姫さん": "공주님",
+  "アル": "알",
+  "大十字": "다이쥬지",
+  "九郎": "쿠로"
+ },
+ "items": [
+  {
+   "id": 7481,
+   "key": "D0607_ps2.txt:1451",
+   "file": "D0607_ps2.txt",
+   "line": 1451,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「あ、その……いや……ごめん」",
+   "ko_candidate": "「아､ 그… 아니… 미안」 「…!」"
+  },
+  {
+   "id": 7482,
+   "key": "D0607_ps2.txt:1460",
+   "file": "D0607_ps2.txt",
+   "line": 1460,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「…………！」 ティベリウスのせいで、服が乱れていたのだ。",
+   "ko_candidate": "드디어 공주님도 자신의 차림새를 눈치챘는지､ 몸을 가리고 얼굴을 붉혔다｡"
+  },
+  {
+   "id": 7483,
+   "key": "D0607_ps2.txt:1476",
+   "file": "D0607_ps2.txt",
+   "line": 1476,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "姫さんは恥ずかしそうに、身を縮める。 ……ったく、何だかさらに気まずくなっちまった気がする。",
+   "ko_candidate": "……정말､ 뭔가 더 어색해져 버린 것 같아｡"
+  },
+  {
+   "id": 7484,
+   "key": "D0607_ps2.txt:1485",
+   "file": "D0607_ps2.txt",
+   "line": 1485,
+   "speaker": "ちびアル",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「……和んでいる場合か」",
+   "ko_candidate": "「……화기애애할 때가 아니야」"
+  },
+  {
+   "id": 7485,
+   "key": "D0607_ps2.txt:1492",
+   "file": "D0607_ps2.txt",
+   "line": 1492,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "肩に乗ったアルの声が妙に厳しい。",
+   "ko_candidate": "어깨에 앉은 알의 목소리가 묘하게 엄격하다｡"
+  },
+  {
+   "id": 7486,
+   "key": "D0607_ps2.txt:1497",
+   "file": "D0607_ps2.txt",
+   "line": 1497,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「いや……和んでいるワケじゃねえけどな。 とにかく早く動こ……」",
+   "ko_candidate": "「아니……화기애애한 건 아니지만｡ 어쨌든 빨리 움직이자……」"
+  },
+  {
+   "id": 7487,
+   "key": "D0607_ps2.txt:1521",
+   "file": "D0607_ps2.txt",
+   "line": 1521,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「――――!?　大十字さん！」",
+   "ko_candidate": "「――――!? 다이쥬지 씨!」"
+  },
+  {
+   "id": 7488,
+   "key": "D0607_ps2.txt:1527",
+   "file": "D0607_ps2.txt",
+   "line": 1527,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「――――!?」 悪寒が走る。",
+   "ko_candidate": "갑자기 공주님이 비통한 표정으로 외쳤다｡"
+  },
+  {
+   "id": 7489,
+   "key": "D0607_ps2.txt:1532",
+   "file": "D0607_ps2.txt",
+   "line": 1532,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "身体の芯が凍えそうな、死の気配。",
+   "ko_candidate": "동시에 오싹한 기분이 든다｡"
+  },
+  {
+   "id": 7490,
+   "key": "D0607_ps2.txt:1535",
+   "file": "D0607_ps2.txt",
+   "line": 1535,
+   "speaker": "九郎",
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "――が、気付くのが遅すぎた。 「ガ――――ハッ！」",
+   "ko_candidate": "죽음의 기척에서 벗어나기 위해､ 나는 몸을 비틀어 뛰어 물러서려고 했다――하지만 깨닫기엔 너무 늦었다｡"
+  },
+  {
+   "id": 7491,
+   "key": "D0607_ps2.txt:1563",
+   "file": "D0607_ps2.txt",
+   "line": 1563,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "背中を貫く、灼けるような衝撃――。",
+   "ko_candidate": "등을 관통하는､ 타는 듯한 충격｡ 「크아――――――학!」"
+  },
+  {
+   "id": 7492,
+   "key": "D0607_ps2.txt:1569",
+   "file": "D0607_ps2.txt",
+   "line": 1569,
+   "speaker": "ちびアル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「――九郎ッ!?」",
+   "ko_candidate": "「――쿠로!?」"
+  }
+ ]
+}

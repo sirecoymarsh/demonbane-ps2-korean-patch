@@ -1,0 +1,136 @@
+{
+ "packet": "ep_al02_05",
+ "scene": "ep_al02",
+ "anchor": {
+  "hit": null,
+  "total": null,
+  "rate": null
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "デモンベイン": "데몬베인"
+ },
+ "items": [
+  {
+   "id": 49659,
+   "key": "ep_al02.txt:836",
+   "file": "ep_al02.txt",
+   "line": 836,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "――生命とは何なのだろう？",
+   "ko_candidate": "――생명이란 무엇일까?"
+  },
+  {
+   "id": 49660,
+   "key": "ep_al02.txt:848",
+   "file": "ep_al02.txt",
+   "line": 848,
+   "speaker": "ナイア",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「最も新しき神 ――『旧神』よ！」",
+   "ko_candidate": "「가장 새로운 신――『엘더 갓』이여!」"
+  },
+  {
+   "id": 49661,
+   "key": "ep_al02.txt:863",
+   "file": "ep_al02.txt",
+   "line": 863,
+   "speaker": "九郎＆アル",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「汝、無垢なる刃 ――デモンベイン！」",
+   "ko_candidate": "「그대､ 무구한 칼날――데몬베인!」"
+  },
+  {
+   "id": 49662,
+   "key": "ep_al02.txt:880",
+   "file": "ep_al02.txt",
+   "line": 880,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "これは御伽噺です。",
+   "ko_candidate": "이것은 동화이야기입니다｡"
+  },
+  {
+   "id": 49663,
+   "key": "ep_al02.txt:882",
+   "file": "ep_al02.txt",
+   "line": 882,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "だけど、それは。",
+   "ko_candidate": "하지만､ 그것은｡"
+  },
+  {
+   "id": 49664,
+   "key": "ep_al02.txt:883",
+   "file": "ep_al02.txt",
+   "line": 883,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "世界の中心で夢見る神様ですら、",
+   "ko_candidate": "세계의 중심에서 꿈꾸는 신조차도､"
+  },
+  {
+   "id": 49665,
+   "key": "ep_al02.txt:884",
+   "file": "ep_al02.txt",
+   "line": 884,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "宇宙の総てをお創りになった神様ですら、",
+   "ko_candidate": "우주의 모든 것을 창조하신 신조차도､"
+  },
+  {
+   "id": 49666,
+   "key": "ep_al02.txt:885",
+   "file": "ep_al02.txt",
+   "line": 885,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "決して、決して、消し去る事の出来ないそれは、",
+   "ko_candidate": "결코､ 결코､ 지워버릴 수 없는 그것은､"
+  },
+  {
+   "id": 49667,
+   "key": "ep_al02.txt:887",
+   "file": "ep_al02.txt",
+   "line": 887,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "刹那の愛を紡いで、永遠の時を刻み続ける――",
+   "ko_candidate": "찰나의 사랑을 엮어내고､ 영원의 시간을 계속해서 새기는――"
+  },
+  {
+   "id": 49668,
+   "key": "ep_al02.txt:898",
+   "file": "ep_al02.txt",
+   "line": 898,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "いのちの歌。",
+   "ko_candidate": "생명의 노래｡"
+  }
+ ]
+}

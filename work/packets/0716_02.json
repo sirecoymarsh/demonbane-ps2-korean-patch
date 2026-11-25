@@ -1,0 +1,220 @@
+{
+ "packet": "0716_02",
+ "scene": "0716",
+ "anchor": {
+  "hit": 2,
+  "total": 3,
+  "rate": 0.667
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "大十字九郎": "다이쥬지 쿠로"
+ },
+ "items": [
+  {
+   "id": 11268,
+   "key": "D0716.txt:447",
+   "file": "D0716.txt",
+   "line": 447,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "人類が生み出した対邪神組織は未だ結成すらされていない。",
+   "ko_candidate": "인류가 만들어낸 대사신 조직은､ 아직 결성조차 되지 않았다｡"
+  },
+  {
+   "id": 11269,
+   "key": "D0716.txt:451",
+   "file": "D0716.txt",
+   "line": 451,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そんな中で何故に彼だけが、今もなお闘い続ける？",
+   "ko_candidate": "그런 와중에 왜 그만이､ 지금도 여전히 싸움을 계속하는 걸까?"
+  },
+  {
+   "id": 11270,
+   "key": "D0716.txt:452",
+   "file": "D0716.txt",
+   "line": 452,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "闘い続けることが出来る？",
+   "ko_candidate": "싸움을 계속할 수 있는 걸까?"
+  },
+  {
+   "id": 11271,
+   "key": "D0716.txt:456",
+   "file": "D0716.txt",
+   "line": 456,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "私は識らない。",
+   "ko_candidate": "나는 모른다｡"
+  },
+  {
+   "id": 11272,
+   "key": "D0716.txt:457",
+   "file": "D0716.txt",
+   "line": 457,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "唯一、彼だけを識らない。",
+   "ko_candidate": "오직､ 그만을 모른다｡"
+  },
+  {
+   "id": 11273,
+   "key": "D0716.txt:460",
+   "file": "D0716.txt",
+   "line": 460,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "故にこの無限の闇黒の中で、ただ彼だけが雷光の如く鮮明だ。 そうだ。",
+   "ko_candidate": "그러므로 이 무한한 암흑 속에서 오직 그만이 번개처럼 선명하다｡"
+  },
+  {
+   "id": 11274,
+   "key": "D0716.txt:464",
+   "file": "D0716.txt",
+   "line": 464,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "彼だけがきっと、私を現世に繋ぎ止める楔なのだ。 嗚呼。",
+   "ko_candidate": "그래｡ 그만이 분명 나를 현세에 붙들어 매는 쐐기일 것이다｡"
+  },
+  {
+   "id": 11275,
+   "key": "D0716.txt:474",
+   "file": "D0716.txt",
+   "line": 474,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "だから。 だから。",
+   "ko_candidate": "아아､ 그래서｡ 그래서｡"
+  },
+  {
+   "id": 11276,
+   "key": "D0716.txt:478",
+   "file": "D0716.txt",
+   "line": 478,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "この無限の中で培った想いを",
+   "ko_candidate": "이 무한 속에서 키워온 마음을"
+  },
+  {
+   "id": 11277,
+   "key": "D0716.txt:479",
+   "file": "D0716.txt",
+   "line": 479,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "この無限の中で積み上げた衝動を",
+   "ko_candidate": "이 무한 속에서 쌓아온 충동을"
+  },
+  {
+   "id": 11278,
+   "key": "D0716.txt:482",
+   "file": "D0716.txt",
+   "line": 482,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "嗚呼、嗚呼。 今こそ解き放ちたい。",
+   "ko_candidate": "아아､ 아아｡ 지금이야말로 풀어놓고 싶다｡"
+  },
+  {
+   "id": 11279,
+   "key": "D0716.txt:487",
+   "file": "D0716.txt",
+   "line": 487,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "たとえ――更なる絶望が待ち受けようと。",
+   "ko_candidate": "설령 더 큰 절망이 기다리고 있다 해도｡"
+  },
+  {
+   "id": 11280,
+   "key": "D0716.txt:491",
+   "file": "D0716.txt",
+   "line": 491,
+   "speaker": null,
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "『死霊秘法』の主。",
+   "ko_candidate": "『네크로노미콘』의 주인｡"
+  },
+  {
+   "id": 11281,
+   "key": "D0716.txt:492",
+   "file": "D0716.txt",
+   "line": 492,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "白き魔術の王。",
+   "ko_candidate": "하얀 마술의 왕｡"
+  },
+  {
+   "id": 11282,
+   "key": "D0716.txt:493",
+   "file": "D0716.txt",
+   "line": 493,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "神殺しの刃。",
+   "ko_candidate": "신을 죽이는 칼날｡"
+  },
+  {
+   "id": 11283,
+   "key": "D0716.txt:496",
+   "file": "D0716.txt",
+   "line": 496,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "――大十字九郎。",
+   "ko_candidate": "――다이쥬지 쿠로｡"
+  },
+  {
+   "id": 11284,
+   "key": "D0716.txt:500",
+   "file": "D0716.txt",
+   "line": 500,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "私は、お前に、逢いたい。",
+   "ko_candidate": "나는 너를 만나고 싶다｡ To Next Story　→"
+  }
+ ]
+}

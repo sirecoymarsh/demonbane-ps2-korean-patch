@@ -1,0 +1,98 @@
+{
+ "packet": "1307_13",
+ "scene": "1307",
+ "anchor": {
+  "hit": 30,
+  "total": 32,
+  "rate": 0.938
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {},
+ "items": [
+  {
+   "id": 33537,
+   "key": "D1307ru.txt:636",
+   "file": "D1307ru.txt",
+   "line": 636,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「く……ッ!?」",
+   "ko_candidate": "「크……읏!?」"
+  },
+  {
+   "id": 33538,
+   "key": "D1307ru.txt:640",
+   "file": "D1307ru.txt",
+   "line": 640,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "飛び掛ってきた狗に向かって、偃月刀を振るった。",
+   "ko_candidate": "달려들어 오는 개를 향해､ 언월도를 휘둘렀다｡"
+  },
+  {
+   "id": 33539,
+   "key": "D1307ru.txt:642",
+   "file": "D1307ru.txt",
+   "line": 642,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "躰を両断する……が手応えがない！",
+   "ko_candidate": "몸을 양단하는……데 손맛이 없다!"
+  },
+  {
+   "id": 33540,
+   "key": "D1307ru.txt:643",
+   "file": "D1307ru.txt",
+   "line": 643,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "黒犬の躰が弾け、墨を流すように空間に拡がった。",
+   "ko_candidate": "검은 개의 몸이 터져､ 먹물을 흘리듯 공간에 퍼졌다｡"
+  },
+  {
+   "id": 33541,
+   "key": "D1307ru.txt:647",
+   "file": "D1307ru.txt",
+   "line": 647,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "暗黒が俺たちに覆い被さる！",
+   "ko_candidate": "암흑이 우리를 덮쳐온다!"
+  },
+  {
+   "id": 33542,
+   "key": "D1307ru.txt:651",
+   "file": "D1307ru.txt",
+   "line": 651,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「ぐあああああああっ！」",
+   "ko_candidate": "「으아아아아아아앗!」"
+  },
+  {
+   "id": 33543,
+   "key": "D1307ru.txt:655",
+   "file": "D1307ru.txt",
+   "line": 655,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "再び、闇に呑み込まれる――。",
+   "ko_candidate": "다시､ 어둠에 삼켜진다――｡"
+  }
+ ]
+}

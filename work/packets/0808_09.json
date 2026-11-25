@@ -1,0 +1,138 @@
+{
+ "packet": "0808_09",
+ "scene": "0808",
+ "anchor": {
+  "hit": 17,
+  "total": 20,
+  "rate": 0.85
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "姫さん": "공주님",
+  "執事さん": "집사님",
+  "アーカム": "아컴"
+ },
+ "items": [
+  {
+   "id": 14330,
+   "key": "D0808ru.txt:317",
+   "file": "D0808ru.txt",
+   "line": 317,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……えっ？」",
+   "ko_candidate": "「…엣?」"
+  },
+  {
+   "id": 14331,
+   "key": "D0808ru.txt:320",
+   "file": "D0808ru.txt",
+   "line": 320,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "鼻先を少しだけクリームで汚した姫さんが振り返る。",
+   "ko_candidate": "코끝에 크림을 살짝 묻힌 채 공주님이 돌아본다｡"
+  },
+  {
+   "id": 14332,
+   "key": "D0808ru.txt:321",
+   "file": "D0808ru.txt",
+   "line": 321,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "俺は吹き出しそうになるのを堪えつつ、答えた。",
+   "ko_candidate": "나는 웃음을 터뜨릴 뻔한 걸 참으며 대답했다｡"
+  },
+  {
+   "id": 14333,
+   "key": "D0808ru.txt:324",
+   "file": "D0808ru.txt",
+   "line": 324,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「街での遊び方なんて、あんまり知らないだろ？ 俺が知ってる面白そうな場所、色々と連れてって やるよ。ま、たまには、そーゆーのも新しい刺激 になって良いぜ？」",
+   "ko_candidate": "「거리에서 노는 법､ 잘 모르지? 내가 아는 재밌어 보이는 곳들､ 여러 군데 데려다줄게｡ 뭐､ 가끔은 그런 것도 새로운 자극이 되어서 좋잖아?」"
+  },
+  {
+   "id": 14334,
+   "key": "D0808ru.txt:329",
+   "file": "D0808ru.txt",
+   "line": 329,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "つーかもうデートを続ける気になっている段階で、執事さん達に嵌められた気がしないでもないが、まあ良い。",
+   "ko_candidate": "라고 하는 시점에서 이미 데이트를 계속할 마음이 생겼다는 건데､ 집사들한테 속은 것 같은 기분이 들지 않는 것도 아니지만､ 뭐 좋아｡"
+  },
+  {
+   "id": 14335,
+   "key": "D0808ru.txt:330",
+   "file": "D0808ru.txt",
+   "line": 330,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "俺は姫さんの反応を待つ。",
+   "ko_candidate": "나는 공주님의 반응을 기다린다｡"
+  },
+  {
+   "id": 14336,
+   "key": "D0808ru.txt:332",
+   "file": "D0808ru.txt",
+   "line": 332,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "姫さんはしばらく呆然と俺の顔を見つめていた。",
+   "ko_candidate": "공주님은 잠시 멍하니 내 얼굴을 바라보고 있었다｡"
+  },
+  {
+   "id": 14337,
+   "key": "D0808ru.txt:333",
+   "file": "D0808ru.txt",
+   "line": 333,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "やがて、喜びが顔の全体に拡がっていく。",
+   "ko_candidate": "이윽고､ 기쁨이 얼굴 전체로 퍼져나간다｡"
+  },
+  {
+   "id": 14338,
+   "key": "D0808ru.txt:334",
+   "file": "D0808ru.txt",
+   "line": 334,
+   "speaker": "瑠璃",
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "満面の笑みで、姫さんは頷いた。 「ええ……！」",
+   "ko_candidate": "환한 미소를 지으며､ 공주님은 고개를 끄덕였다｡"
+  },
+  {
+   "id": 14339,
+   "key": "D0808ru.txt:344",
+   "file": "D0808ru.txt",
+   "line": 344,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ＯＫ。じゃあローマの休日ならぬ、 アーカムの休日と洒落込もうか！」",
+   "ko_candidate": "「네……!」 「OK｡ 그럼 로마의 휴일이 아닌､ 아캄의 휴일이라고 멋지게 말해볼까!」"
+  }
+ ]
+}

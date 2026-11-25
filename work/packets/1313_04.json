@@ -1,0 +1,40 @@
+{
+ "packet": "1313_04",
+ "scene": "1313",
+ "anchor": {
+  "hit": 14,
+  "total": 14,
+  "rate": 1.0
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "ティベリウス": "티베리우스"
+ },
+ "items": [
+  {
+   "id": 35856,
+   "key": "D1313ru.txt:505",
+   "file": "D1313ru.txt",
+   "line": 505,
+   "speaker": "ティベリウス",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「　　　　　　　　　　　　　　　　　　」",
+   "ko_candidate": "「　　　　　　　　　　　　　　　　　　」"
+  },
+  {
+   "id": 35857,
+   "key": "D1313ru.txt:509",
+   "file": "D1313ru.txt",
+   "line": 509,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "ティベリウスの断末魔さえ消し尽くした。",
+   "ko_candidate": "티베리우스의 단말마조차 없애버렸다｡"
+  }
+ ]
+}

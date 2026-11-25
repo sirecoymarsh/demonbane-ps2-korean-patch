@@ -1,0 +1,151 @@
+{
+ "packet": "0608_01",
+ "scene": "0608",
+ "anchor": {
+  "hit": 4,
+  "total": 17,
+  "rate": 0.235
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "瑠璃": "루리",
+  "お嬢様": "아가씨",
+  "ティトゥス": "티투스",
+  "ウィンフィールド": "윈필드"
+ },
+ "items": [
+  {
+   "id": 7533,
+   "key": "D0608.txt:524",
+   "file": "D0608.txt",
+   "line": 524,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「礼を言われる筋合いなどありません。私は私の職務を忠実に果たすのみ。この拳の総ては瑠璃お嬢様の為に」",
+   "ko_candidate": "「감사할 이유 따위 없습니다｡ 저는 제 직무를 충실히 수행할 뿐입니다｡ 이 주먹의 모든 것은 루리 아가씨를 위해」"
+  },
+  {
+   "id": 7534,
+   "key": "D0608.txt:530",
+   "file": "D0608.txt",
+   "line": 530,
+   "speaker": "ティトゥス",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「その魂、我が故郷においては『忠』と呼ぶ。成程、信念が支える肉体の何と強靭な事か。八徳に背き、冥府魔道を逝く我が身には得られぬ境地ではあるが」",
+   "ko_candidate": "「그 영혼､ 우리 고향에서는 『충』이라 부른다｡ 과연､ 신념이 지탱하는 육체가 얼마나 강인한지｡ 팔덕을 저버리고 명부마도를 가는 내 몸으로는 얻을 수 없는 경지이지만」"
+  },
+  {
+   "id": 7535,
+   "key": "D0608.txt:544",
+   "file": "D0608.txt",
+   "line": 544,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "自嘲的に笑うと、２本の刀を構える。",
+   "ko_candidate": "자조적으로 웃으며 왼손바닥에서 자란 칼의 전신을 완전히 밖으로 꺼내 손잡이를 잡았다｡"
+  },
+  {
+   "id": 7536,
+   "key": "D0608.txt:545",
+   "file": "D0608.txt",
+   "line": 545,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "片方は先ほど左掌から生えた刀だ。",
+   "ko_candidate": "두 자루의 칼을 손에 쥐고 자세를 잡는다｡"
+  },
+  {
+   "id": 7537,
+   "key": "D0608.txt:551",
+   "file": "D0608.txt",
+   "line": 551,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「……二刀流ですか」",
+   "ko_candidate": "「……이도류입니까」"
+  },
+  {
+   "id": 7538,
+   "key": "D0608.txt:556",
+   "file": "D0608.txt",
+   "line": 556,
+   "speaker": "ティトゥス",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「左様。さあ、その怪我でこの二刀から繰り出す修羅の一撃、かわし切る事が出来るか？」",
+   "ko_candidate": "「그렇다｡ 자､ 그 부상으로 이 두 자루의 칼에서 쏟아지는 수라의 일격을 피할 수 있겠는가?」"
+  },
+  {
+   "id": 7539,
+   "key": "D0608.txt:567",
+   "file": "D0608.txt",
+   "line": 567,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「何の。私の持ち札は速度だけではありません。魅せますよ……リングの外でもね」",
+   "ko_candidate": "「뭘요｡ 제 패는 속도뿐만이 아닙니다｡ 보여드리죠……링 밖에서도 말이에요」"
+  },
+  {
+   "id": 7540,
+   "key": "D0608.txt:573",
+   "file": "D0608.txt",
+   "line": 573,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "しばしの静寂。",
+   "ko_candidate": "잠시의 정적｡"
+  },
+  {
+   "id": 7541,
+   "key": "D0608.txt:574",
+   "file": "D0608.txt",
+   "line": 574,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "今度、仕掛けるのはティトゥスだ。",
+   "ko_candidate": "이번에 먼저 공격하는 것은 티투스다｡"
+  },
+  {
+   "id": 7542,
+   "key": "D0608.txt:583",
+   "file": "D0608.txt",
+   "line": 583,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "獲物に飛びかかる豹の如き殺意が ウィンフィールドを襲う。",
+   "ko_candidate": "먹이에게 달려드는 표범 같은 살의가 윈필드를 덮친다｡"
+  },
+  {
+   "id": 7543,
+   "key": "D0608.txt:591",
+   "file": "D0608.txt",
+   "line": 591,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "（――敗れる訳にはいかないのです よ……この肉体は！）",
+   "ko_candidate": "（――패할 수는 없습니다……이 육체는!）"
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "packet": "ep_ruri02c_05",
+ "scene": "ep_ruri02c",
+ "anchor": {
+  "hit": null,
+  "total": null,
+  "rate": null
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {},
+ "items": [
+  {
+   "id": 51292,
+   "key": "ep_ruri02c.txt:590",
+   "file": "ep_ruri02c.txt",
+   "line": 590,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "二人に背を向け、歩き出す。",
+   "ko_candidate": "두 사람에게 등을 돌리고､ 걸어간다｡"
+  },
+  {
+   "id": 51293,
+   "key": "ep_ruri02c.txt:591",
+   "file": "ep_ruri02c.txt",
+   "line": 591,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "銀の長髪を靡かせ、去っていく。",
+   "ko_candidate": "은빛 긴 머리카락을 휘날리며､ 사라져간다｡"
+  },
+  {
+   "id": 51294,
+   "key": "ep_ruri02c.txt:592",
+   "file": "ep_ruri02c.txt",
+   "line": 592,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "あっという間に、少女の姿は雑踏に呑み込まれてしまう。",
+   "ko_candidate": "순식간에､ 소녀의 모습은 잡답 속에 삼켜져 버린다｡"
+  },
+  {
+   "id": 51295,
+   "key": "ep_ruri02c.txt:596",
+   "file": "ep_ruri02c.txt",
+   "line": 596,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "怒鳴り声が溶けてゆく青い空。",
+   "ko_candidate": "고함소리가 녹아드는 푸른 하늘｡"
+  },
+  {
+   "id": 51296,
+   "key": "ep_ruri02c.txt:597",
+   "file": "ep_ruri02c.txt",
+   "line": 597,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "良い天気だ。",
+   "ko_candidate": "좋은 날씨다｡"
+  },
+  {
+   "id": 51297,
+   "key": "ep_ruri02c.txt:598",
+   "file": "ep_ruri02c.txt",
+   "line": 598,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "明日も良い天気に違いない。",
+   "ko_candidate": "내일도 좋은 날씨일 게 틀림없다｡"
+  },
+  {
+   "id": 51298,
+   "key": "ep_ruri02c.txt:599",
+   "file": "ep_ruri02c.txt",
+   "line": 599,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "しばらくは、こんな朗らかな天気が続きそうだ。",
+   "ko_candidate": "잠시 동안은､ 이런 밝은 날씨가 계속될 것 같다｡"
+  },
+  {
+   "id": 51299,
+   "key": "ep_ruri02c.txt:601",
+   "file": "ep_ruri02c.txt",
+   "line": 601,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そう。",
+   "ko_candidate": "그래｡"
+  },
+  {
+   "id": 51300,
+   "key": "ep_ruri02c.txt:602",
+   "file": "ep_ruri02c.txt",
+   "line": 602,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "人は明日が訪れる事を、誰も疑ってはいない。",
+   "ko_candidate": "사람은 내일이 찾아올 것을､ 아무도 의심하지 않는다｡"
+  },
+  {
+   "id": 51301,
+   "key": "ep_ruri02c.txt:604",
+   "file": "ep_ruri02c.txt",
+   "line": 604,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "そして、それはきっと、正しい事なのだ。",
+   "ko_candidate": "그리고､ 그것은 틀림없이､ 올바른 일인 것이다｡"
+  },
+  {
+   "id": 51302,
+   "key": "ep_ruri02c.txt:605",
+   "file": "ep_ruri02c.txt",
+   "line": 605,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "正しい、世界の在り方なのだ。",
+   "ko_candidate": "올바른､ 세계의 모습인 것이다｡"
+  },
+  {
+   "id": 51303,
+   "key": "ep_ruri02c.txt:608",
+   "file": "ep_ruri02c.txt",
+   "line": 608,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": true,
+   "jp": "――明日を信じられるということは。",
+   "ko_candidate": "――내일을 믿을 수 있다는 것은｡"
+  }
+ ]
+}

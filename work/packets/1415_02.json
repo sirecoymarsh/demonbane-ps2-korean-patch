@@ -1,0 +1,172 @@
+{
+ "packet": "1415_02",
+ "scene": "1415",
+ "anchor": {
+  "hit": 7,
+  "total": 7,
+  "rate": 1.0
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "ネームレス・ワン": "네임리스 원"
+ },
+ "items": [
+  {
+   "id": 40624,
+   "key": "D1415al.txt:324",
+   "file": "D1415al.txt",
+   "line": 324,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "千切れて宙を舞う左腕。トラペゾヘドロンで撃ち抜く。",
+   "ko_candidate": "찢겨 허공을 나는 왼팔｡ 트라페조헤드론으로 꿰뚫는다｡"
+  },
+  {
+   "id": 40625,
+   "key": "D1415al.txt:328",
+   "file": "D1415al.txt",
+   "line": 328,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "猛り狂う光と闇が溢れ、左腕を融かし尽くす。",
+   "ko_candidate": "맹렬히 날뛰는 빛과 어둠이 넘쳐나､ 왼팔을 녹여버린다｡"
+  },
+  {
+   "id": 40626,
+   "key": "D1415al.txt:329",
+   "file": "D1415al.txt",
+   "line": 329,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "トラペゾヘドロンの暴走はまだ止まらない。",
+   "ko_candidate": "트라페조헤드론의 폭주는 아직 멈추지 않는다｡"
+  },
+  {
+   "id": 40627,
+   "key": "D1415al.txt:332",
+   "file": "D1415al.txt",
+   "line": 332,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「これならァァァァァァァ！」",
+   "ko_candidate": "「이거라면아아아아아아아!」"
+  },
+  {
+   "id": 40628,
+   "key": "D1415al.txt:340",
+   "file": "D1415al.txt",
+   "line": 340,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "ネームレス・ワンの首をトラペゾヘドロンで刎ねた。",
+   "ko_candidate": "네임리스 원의 목을 트라페조헤드론으로 베어냈다｡"
+  },
+  {
+   "id": 40629,
+   "key": "D1415al.txt:341",
+   "file": "D1415al.txt",
+   "line": 341,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "千切れて宙を舞う頭。トラペゾヘドロンで撃ち抜く。",
+   "ko_candidate": "찢겨 허공을 나는 머리｡ 트라페조헤드론으로 꿰뚫는다｡"
+  },
+  {
+   "id": 40630,
+   "key": "D1415al.txt:344",
+   "file": "D1415al.txt",
+   "line": 344,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「いい加減、言うことを聞きやがれぇぇぇぇぇぇぇ！」",
+   "ko_candidate": "「이제 그만､ 말 좀 들어라아아아아아아!」"
+  },
+  {
+   "id": 40631,
+   "key": "D1415al.txt:348",
+   "file": "D1415al.txt",
+   "line": 348,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "ネームレス・ワンの顔に罅が入り、そこから光と闇が溢れ出す。",
+   "ko_candidate": "네임리스 원의 얼굴에 금이 가고､ 거기서 빛과 어둠이 넘쳐난다｡"
+  },
+  {
+   "id": 40632,
+   "key": "D1415al.txt:352",
+   "file": "D1415al.txt",
+   "line": 352,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "頭が砕け散った。",
+   "ko_candidate": "머리가 산산조각 났다｡"
+  },
+  {
+   "id": 40633,
+   "key": "D1415al.txt:356",
+   "file": "D1415al.txt",
+   "line": 356,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "光が砕け散った。",
+   "ko_candidate": "빛이 산산조각 났다｡"
+  },
+  {
+   "id": 40634,
+   "key": "D1415al.txt:360",
+   "file": "D1415al.txt",
+   "line": 360,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "闇が砕け散った。",
+   "ko_candidate": "어둠이 산산조각 났다｡"
+  },
+  {
+   "id": 40635,
+   "key": "D1415al.txt:364",
+   "file": "D1415al.txt",
+   "line": 364,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "そして異界は次元の割れ目へと吸い込まれていく。",
+   "ko_candidate": "그리고 이계는 차원의 틈새로 빨려 들어간다｡"
+  },
+  {
+   "id": 40636,
+   "key": "D1415al.txt:365",
+   "file": "D1415al.txt",
+   "line": 365,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "悪夢は忘れろと、世界は再び正常に戻る――",
+   "ko_candidate": "악몽은 잊으라는 듯이､ 세계는 다시 정상으로 돌아간다――"
+  }
+ ]
+}

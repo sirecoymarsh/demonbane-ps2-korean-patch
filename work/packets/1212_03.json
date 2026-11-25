@@ -1,0 +1,209 @@
+{
+ "packet": "1212_03",
+ "scene": "1212",
+ "anchor": {
+  "hit": 25,
+  "total": 25,
+  "rate": 1.0
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "ライカ": "라이카",
+  "ティベリウス": "티베리우스"
+ },
+ "items": [
+  {
+   "id": 29899,
+   "key": "D1212le.txt:461",
+   "file": "D1212le.txt",
+   "line": 461,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "――正義の味方に……真実の正義の味方になると誓ったのに",
+   "ko_candidate": "――정의의 편에……진정한 정의의 편이 되겠다고 맹세했는데"
+  },
+  {
+   "id": 29900,
+   "key": "D1212le.txt:463",
+   "file": "D1212le.txt",
+   "line": 463,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "神様。駄目なんですか？",
+   "ko_candidate": "신님｡ 안 되는 건가요?"
+  },
+  {
+   "id": 29901,
+   "key": "D1212le.txt:464",
+   "file": "D1212le.txt",
+   "line": 464,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "やはり私は赦されないのですか？",
+   "ko_candidate": "역시 저는 용서받을 수 없는 건가요?"
+  },
+  {
+   "id": 29902,
+   "key": "D1212le.txt:465",
+   "file": "D1212le.txt",
+   "line": 465,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "所詮、罪人は罪人に過ぎないのですか？",
+   "ko_candidate": "결국 죄인은 죄인에 불과한 건가요?"
+  },
+  {
+   "id": 29903,
+   "key": "D1212le.txt:467",
+   "file": "D1212le.txt",
+   "line": 467,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "でも神様……神様！",
+   "ko_candidate": "하지만 신님……신님!"
+  },
+  {
+   "id": 29904,
+   "key": "D1212le.txt:469",
+   "file": "D1212le.txt",
+   "line": 469,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "あの子たちを護りたい。",
+   "ko_candidate": "저 아이들을 지키고 싶어요｡"
+  },
+  {
+   "id": 29905,
+   "key": "D1212le.txt:470",
+   "file": "D1212le.txt",
+   "line": 470,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "その心には、何の偽りも無いのです！",
+   "ko_candidate": "그 마음에는 어떤 거짓도 없어요!"
+  },
+  {
+   "id": 29906,
+   "key": "D1212le.txt:471",
+   "file": "D1212le.txt",
+   "line": 471,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "罪に穢れたこの身だけど……それだけは尊い、魂の輝きなのです！",
+   "ko_candidate": "죄에 물든 이 몸이지만……그것만은 고귀한､ 영혼의 빛남이에요! 그런데｡"
+  },
+  {
+   "id": 29907,
+   "key": "D1212le.txt:473",
+   "file": "D1212le.txt",
+   "line": 473,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "それなのに。",
+   "ko_candidate": "이 한순간조차｡"
+  },
+  {
+   "id": 29908,
+   "key": "D1212le.txt:474",
+   "file": "D1212le.txt",
+   "line": 474,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "この一瞬でさえ。 戦わなければならない、この瞬間でさえ。",
+   "ko_candidate": "싸워야만 하는､ 이 순간조차｡"
+  },
+  {
+   "id": 29909,
+   "key": "D1212le.txt:477",
+   "file": "D1212le.txt",
+   "line": 477,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "神様。",
+   "ko_candidate": "신님｡"
+  },
+  {
+   "id": 29910,
+   "key": "D1212le.txt:478",
+   "file": "D1212le.txt",
+   "line": 478,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "神様。",
+   "ko_candidate": "신님｡"
+  },
+  {
+   "id": 29911,
+   "key": "D1212le.txt:483",
+   "file": "D1212le.txt",
+   "line": 483,
+   "speaker": "ライカ",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「私は……正義の味方には、なれないの……？」",
+   "ko_candidate": "「저는……정의의 편이 될 수 없는 건가요……?」"
+  },
+  {
+   "id": 29912,
+   "key": "D1212le.txt:486",
+   "file": "D1212le.txt",
+   "line": 486,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "ライカの頬を涙が伝う。",
+   "ko_candidate": "라이카의 뺨을 눈물이 흘러내린다｡"
+  },
+  {
+   "id": 29913,
+   "key": "D1212le.txt:487",
+   "file": "D1212le.txt",
+   "line": 487,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "ティベリウスの哄笑が絶望の園に轟いた。",
+   "ko_candidate": "티베리우스의 폭소가 절망의 정원에 울려 퍼졌다｡"
+  },
+  {
+   "id": 29914,
+   "key": "D1212le.txt:492",
+   "file": "D1212le.txt",
+   "line": 492,
+   "speaker": "ティベリウス",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「うぷ……ぷぷ……ぶっははははははははははははは！」 「ヴァカねえ！　正義なんて……邪神の棲くうこの宇宙に存在するはずがないじゃなぁぁぁぁいっ！」",
+   "ko_candidate": "「우푸……푸푸……부하하하하하하하하하하하하! 바카네! 정의 따위……사신이 사는 이 우주에 존재할 리가 없잖아아아아아!」"
+  }
+ ]
+}

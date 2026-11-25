@@ -1,0 +1,209 @@
+{
+ "packet": "0704_06",
+ "scene": "0704",
+ "anchor": {
+  "hit": 7,
+  "total": 35,
+  "rate": 0.2
+ },
+ "trusted": false,
+ "note": "앵커 일치율이 낮거나 판정 불가인 씬 = 콘솔 개작 의심. **status=OK 도 믿지 말고 전부 원문 기준으로 확정할 것.**",
+ "glossary": {
+  "お嬢様": "아가씨",
+  "執事さん": "집사님"
+ },
+ "items": [
+  {
+   "id": 8755,
+   "key": "D0704.txt:920",
+   "file": "D0704.txt",
+   "line": 920,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「うわああああああああ！？ ちゃ、ちゃぶ台返しッ！？」",
+   "ko_candidate": "「오､ 오빠…… 뭐､ 뭐 하는 거야……?」"
+  },
+  {
+   "id": 8756,
+   "key": "D0704.txt:927",
+   "file": "D0704.txt",
+   "line": 927,
+   "speaker": "チアキ",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ちょっ……お、お嬢様っ！？」",
+   "ko_candidate": "「마지막 선을 지키려고 필사적인 거겠지」"
+  },
+  {
+   "id": 8757,
+   "key": "D0704.txt:939",
+   "file": "D0704.txt",
+   "line": 939,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「そんな子供だましのオチでお茶を濁せると思うな、このやろおおおおぉぉぉぉぉ！」",
+   "ko_candidate": "「……루리 씨! 당신에게 신의 축복이 있기를……! 그것도 아주 산더미처럼｡ 풍성하게｡ 세계 중의 행복이 한 점에 집중되는 듯한 기세로」 「……훗」"
+  },
+  {
+   "id": 8758,
+   "key": "D0704.txt:944",
+   "file": "D0704.txt",
+   "line": 944,
+   "speaker": "ライカ / ソーニャ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「きゃーきゃー☆　お止しになってお代官様ぁ……あ～～れ～～☆」 「あわわわわ！　お、落ち着いてくださいお嬢様～～～～っ」",
+   "ko_candidate": "사람이 정체성 붕괴의 위기와 필사적으로 싸우고 있는 동안､ 저쪽은 저쪽대로 꽉! 하고 단단히 팔짱을 끼고､ 여자들끼리 뒤틀린 우정을 키워대고 있었다｡"
+  },
+  {
+   "id": 8759,
+   "key": "D0704.txt:956",
+   "file": "D0704.txt",
+   "line": 956,
+   "speaker": "マコト / ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「――不潔、です」 「嗚呼、お嬢様……良かった…… 本当に良かった……」",
+   "ko_candidate": "――세상 같은 건 멸망해 버려라｡"
+  },
+  {
+   "id": 8760,
+   "key": "D0704.txt:967",
+   "file": "D0704.txt",
+   "line": 967,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「執事さん――断言するがあんたの脳は腐っている」",
+   "ko_candidate": "「………………」 「왜 그래 로봇､ 박사? 아까부터 조용하네」"
+  },
+  {
+   "id": 8761,
+   "key": "D0704.txt:976",
+   "file": "D0704.txt",
+   "line": 976,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「もぉー！　つまらないですわ、 つまらないですわ！」",
+   "ko_candidate": "「크후후후후……후하하하하……하하하하하핫! 다이쥬지 쿠로오오오오!」"
+  },
+  {
+   "id": 8762,
+   "key": "D0704.txt:980",
+   "file": "D0704.txt",
+   "line": 980,
+   "speaker": "瑠璃",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「お酒の席なのに誰も芸が出来ないなんて、そんなの味気なさ過ぎですわ！　酷すぎですわ！　処刑ものですわ！」",
+   "ko_candidate": "갑자기 비쉬이이잇! 하고 나를 가리키며､ 가슴을 펴고｡ ……이 이상 뭐야､ 대체｡"
+  },
+  {
+   "id": 8763,
+   "key": "D0704.txt:986",
+   "file": "D0704.txt",
+   "line": 986,
+   "speaker": "アル",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「……二度と彼奴には酒を飲ませるな」",
+   "ko_candidate": "「그래서……그래서 이겼다고 생각하지 말라구!」"
+  },
+  {
+   "id": 8764,
+   "key": "D0704.txt:991",
+   "file": "D0704.txt",
+   "line": 991,
+   "speaker": "ウィンフィールド",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「私はただの執事めにございますれば、そのような権限は持ってはおりません」",
+   "ko_candidate": "「뭐가 말이야」"
+  },
+  {
+   "id": 8765,
+   "key": "D0704.txt:1011",
+   "file": "D0704.txt",
+   "line": 1011,
+   "speaker": null,
+   "kind": "narr",
+   "status": "CHECK",
+   "work": true,
+   "jp": "…………今の、ギターは。",
+   "ko_candidate": "「………………」 「………………」"
+  },
+  {
+   "id": 8766,
+   "key": "D0704.txt:1024",
+   "file": "D0704.txt",
+   "line": 1024,
+   "speaker": "ウェスト",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「ふはははははは！　そうか！　そうであるか！　そんなにも我輩を必要としているのであるか！」 「良かろう！　ここは敢えて、敵に塩を送ってやるのであるっ！　アイム、ケンシン・ウエスギ！　ＯＫ！　レッツプレイッッ！」",
+   "ko_candidate": "「………………………………」"
+  },
+  {
+   "id": 8767,
+   "key": "D0704.txt:1040",
+   "file": "D0704.txt",
+   "line": 1040,
+   "speaker": "エルザ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「わーわー、 ひゅーひゅーロボ～～」",
+   "ko_candidate": "「………………………………」"
+  },
+  {
+   "id": 8768,
+   "key": "D0704.txt:1050",
+   "file": "D0704.txt",
+   "line": 1050,
+   "speaker": "ウェスト / アル",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「燃え上がれ我輩のハートぉ！ うおおおおおぉぉぉぉぉ！」 「喧しい！」",
+   "ko_candidate": "「………………………………………………뽀」"
+  },
+  {
+   "id": 8769,
+   "key": "D0704.txt:1088",
+   "file": "D0704.txt",
+   "line": 1088,
+   "speaker": "ウェスト",
+   "kind": "say",
+   "status": "OK",
+   "work": true,
+   "jp": "「ぬおあああああああっ！？」",
+   "ko_candidate": "「왜 뺨을 붉히고 얼굴을 돌리는가」"
+  },
+  {
+   "id": 8770,
+   "key": "D0704.txt:1094",
+   "file": "D0704.txt",
+   "line": 1094,
+   "speaker": "エルザ",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「博士――っ！？」 あーあ……もう何がなんだか。",
+   "ko_candidate": "그리고 그 뜨겁게 녹아내린 시선을 멈추어라｡"
+  }
+ ]
+}

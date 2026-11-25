@@ -1,0 +1,233 @@
+{
+ "packet": "1007_04",
+ "scene": "1007",
+ "anchor": {
+  "hit": 12,
+  "total": 12,
+  "rate": 1.0
+ },
+ "trusted": true,
+ "note": "앵커 일치율이 높은 씬. status=OK 는 대체로 맞다.",
+ "glossary": {
+  "アル": "알",
+  "魔導書": "마도서"
+ },
+ "items": [
+  {
+   "id": 22034,
+   "key": "D1007al.txt:481",
+   "file": "D1007al.txt",
+   "line": 481,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "光が。",
+   "ko_candidate": "빛이｡"
+  },
+  {
+   "id": 22035,
+   "key": "D1007al.txt:482",
+   "file": "D1007al.txt",
+   "line": 482,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "淡い光がアルを包み込む。",
+   "ko_candidate": "옅은 빛이 알을 감싼다｡"
+  },
+  {
+   "id": 22036,
+   "key": "D1007al.txt:487",
+   "file": "D1007al.txt",
+   "line": 487,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "不吉なくらいに綺麗で、儚い光が。",
+   "ko_candidate": "불길할 정도로 아름답고､ 덧없는 빛이｡"
+  },
+  {
+   "id": 22037,
+   "key": "D1007al.txt:488",
+   "file": "D1007al.txt",
+   "line": 488,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "その光に溶けるかのように、アルの躰が輪郭を失い、崩れていく。",
+   "ko_candidate": "그 빛에 녹아내리듯이､ 알의 몸이 윤곽을 잃고､ 무너져 간다｡"
+  },
+  {
+   "id": 22038,
+   "key": "D1007al.txt:489",
+   "file": "D1007al.txt",
+   "line": 489,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "光の粒子が散って逝く。",
+   "ko_candidate": "빛의 입자가 흩어져 간다｡"
+  },
+  {
+   "id": 22039,
+   "key": "D1007al.txt:494",
+   "file": "D1007al.txt",
+   "line": 494,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "OK",
+   "work": false,
+   "jp": "「～～～～～ッッ!? お、おい、待てよ！　待て！　待ってったら！」",
+   "ko_candidate": "「~~~~~~읏!? 이､ 이봐､ 기다려! 기다려! 기다리라고!」"
+  },
+  {
+   "id": 22040,
+   "key": "D1007al.txt:501",
+   "file": "D1007al.txt",
+   "line": 501,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "崩れる躰を何とか留めようと、俺はアルを抱き締める。",
+   "ko_candidate": "무너지는 몸을 어떻게든 붙잡으려고､ 나는 알을 꼭 껴안는다｡"
+  },
+  {
+   "id": 22041,
+   "key": "D1007al.txt:502",
+   "file": "D1007al.txt",
+   "line": 502,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "だけど光の粒子は無情にも腕の間から、指の隙間から零れ落ちる。",
+   "ko_candidate": "하지만 빛의 입자는 무정하게도 팔 사이로､ 손가락 틈새로 흘러내린다｡"
+  },
+  {
+   "id": 22042,
+   "key": "D1007al.txt:503",
+   "file": "D1007al.txt",
+   "line": 503,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "崩壊は止まらない。",
+   "ko_candidate": "붕괴는 멈추지 않는다｡"
+  },
+  {
+   "id": 22043,
+   "key": "D1007al.txt:510",
+   "file": "D1007al.txt",
+   "line": 510,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「待てよ……おい、こら……くそ……くそ……ちくしょおぉぉ……こんなことって……こんなことって！　アル――――――――ッ！」",
+   "ko_candidate": "「기다려… 이봐､ 이봐… 젠장… 젠장… 빌어먹을… 이런 일이… 이런 일이! 알――――――――!」"
+  },
+  {
+   "id": 22044,
+   "key": "D1007al.txt:517",
+   "file": "D1007al.txt",
+   "line": 517,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "光が、一度だけ眩く輝き、そして弾けた。",
+   "ko_candidate": "빛이､ 한 번만 눈부시게 빛나고､ 그리고 터졌다｡"
+  },
+  {
+   "id": 22045,
+   "key": "D1007al.txt:518",
+   "file": "D1007al.txt",
+   "line": 518,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "腕の中に、アルは居ない。",
+   "ko_candidate": "팔 안에､ 알은 없다｡"
+  },
+  {
+   "id": 22046,
+   "key": "D1007al.txt:519",
+   "file": "D1007al.txt",
+   "line": 519,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "もう、何もない。",
+   "ko_candidate": "이제､ 아무것도 없다｡"
+  },
+  {
+   "id": 22047,
+   "key": "D1007al.txt:521",
+   "file": "D1007al.txt",
+   "line": 521,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "光の残滓と共に、魔導書のページが、花吹雪のように、ひらりひらりと宙を待っていた。",
+   "ko_candidate": "빛의 잔재와 함께､ 마도서의 페이지가､ 꽃보라처럼､ 펄럭펄럭 공중에 떠 있었다｡"
+  },
+  {
+   "id": 22048,
+   "key": "D1007al.txt:522",
+   "file": "D1007al.txt",
+   "line": 522,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "足下には、酷く古ぼけた本が、ただ一冊残されているだけ。",
+   "ko_candidate": "발밑에는､ 심하게 낡은 책이､ 단 한 권 남아 있을 뿐｡"
+  },
+  {
+   "id": 22049,
+   "key": "D1007al.txt:525",
+   "file": "D1007al.txt",
+   "line": 525,
+   "speaker": null,
+   "kind": "narr",
+   "status": "OK",
+   "work": false,
+   "jp": "それの意味するところは……",
+   "ko_candidate": "그것이 의미하는 바는…"
+  },
+  {
+   "id": 22050,
+   "key": "D1007al.txt:528",
+   "file": "D1007al.txt",
+   "line": 528,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「……アル？」",
+   "ko_candidate": "「…알?」"
+  },
+  {
+   "id": 22051,
+   "key": "D1007al.txt:562",
+   "file": "D1007al.txt",
+   "line": 562,
+   "speaker": "九郎",
+   "kind": "say",
+   "status": "CHECK",
+   "work": true,
+   "jp": "「う……ああ……ああああ……うあああああああああああああああああああああああああああああああああああああああああああああああああああああ！」",
+   "ko_candidate": "「우… 아아… 아아아아… 우아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아아!」 【File10:BIG\"C\"】closed<PRE>."
+  }
+ ]
+}
